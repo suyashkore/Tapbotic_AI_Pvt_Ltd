@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
         <!-- fav icon -->
-        <link rel="icon" href="assets/images/fav-icon/fav-icon.png">
+        <link rel="icon" href="assets/images/logo/logo-light1.png">
         
         <!-- bootstarp -->
         <link rel="stylesheet" href="css/vendors/bootstrap.min.css">
@@ -630,7 +630,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/11.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">نصوصا مؤقتة على التصميم ليظهر للعميل الشكل كاملاً،دور مولد النص العربى أن يوفر على المصمم عناء البحث عن نص بديل لا علاقة له بالموضوع الذى يتحدث عنه. </p>
@@ -649,7 +649,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/9.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">نصوصا مؤقتة على التصميم ليظهر للعميل الشكل كاملاً،دور مولد النص العربى أن يوفر على المصمم عناء البحث عن نص بديل لا علاقة له بالموضوع الذى يتحدث عنه. </p>

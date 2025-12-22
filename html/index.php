@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
   <!-- fav icon -->
-  <link rel="icon" href="assets/images/fav-icon/fav-icon.png">
+  <link rel="icon" href="assets/images/logo/logo-light1.png">
 
   <!-- bootstarp -->
   <link rel="stylesheet" href="css/vendors/bootstrap.min.css">
@@ -43,6 +43,149 @@
   <!-- main-LTR -->
   <link rel="stylesheet" href="css/main-LTR.css">
   <title>Enterprise AI & Automation Company in India | Tapbotic AI Pvt Ltd</title>
+  <!-- <style>
+    /* Chatbot Styles */
+    .chat-icon-container {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        z-index: 1050;
+        cursor: pointer;
+    }
+
+    #chat-icon {
+        width: 60px;
+        left: 90%;
+        top: 89%;
+        height: 60px;
+        background-color: #54a3f7; /* Accent color from your site */
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 28px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        transition: transform 0.3s;
+    }
+
+    #chat-icon:hover {
+        transform: scale(1.1);
+    }
+
+    .chat-window {
+        position: fixed;
+        bottom: 100px;
+        right: 30px;
+        width: 350px;
+        max-width: 90vw;
+        height: 500px;
+        background-color: #fff;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        z-index: 1050;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        transform: scale(0);
+        transform-origin: bottom right;
+        transition: transform 0.3s ease-in-out;
+        visibility: hidden;
+    }
+
+    .chat-window.open {
+        transform: scale(1);
+        visibility: visible;
+    }
+
+    .chat-header {
+        background-color: #6957ff;
+        color: white;
+        padding: 15px;
+        font-weight: bold;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    .close-chat-btn {
+        background: none;
+        border: none;
+        color: white;
+        font-size: 24px;
+        cursor: pointer;
+    }
+
+    .chat-body {
+        flex-grow: 1;
+        padding: 15px;
+        overflow-y: auto;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+
+    .chat-message {
+        margin-bottom: 10px;
+        display: flex;
+    }
+
+    .chat-message p {
+        padding: 10px 15px;
+        border-radius: 20px;
+        max-width: 80%;
+        line-height: 1.4;
+        margin: 0;
+        word-wrap: break-word;
+    }
+
+    .chat-message.bot p {
+        background-color: #e9e9eb;
+        color: #333;
+        border-bottom-left-radius: 5px;
+    }
+
+    .chat-message.user {
+        justify-content: flex-end;
+    }
+
+    .chat-message.user p {
+        background-color: #6957ff;
+        color: white;
+        border-bottom-right-radius: 5px;
+    }
+
+    .chat-footer {
+        display: flex;
+        padding: 10px;
+        border-top: 1px solid #ddd;
+        background-color: #fff;
+    }
+
+    #chat-input {
+        flex-grow: 1;
+        border: 1px solid #ccc;
+        border-radius: 20px;
+        padding: 10px 15px;
+        outline: none;
+    }
+
+    #send-btn {
+        background: #6957ff;
+        border: none;
+        color: white;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: 10px;
+        cursor: pointer;
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  </style> -->
 </head>
 
 <body class=" dark-theme ">
@@ -654,7 +797,7 @@
     </div>
   </section>
   <!-- End  our-clients Section-->
-  <!-- Start  pricing Section-->
+  <!-- Start  pricing Section -->
   <section class="pricing mega-section  " id="pricing-1">
     <div class="container">
       <div class="sec-heading  ">
@@ -774,7 +917,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/11.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
@@ -793,7 +936,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/9.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>
@@ -1082,6 +1225,108 @@
 
   <!--     main     -->
   <script src="js/main.js"></script>
+
+  <!-- Start Chatbot -->
+  <!-- <div class="chat-icon-container" id="chat-icon">
+      <i class="bi bi-chat-dots-fill"></i>
+  </div> -->
+
+  <!-- <div class="chat-window" id="chat-window">
+      <div class="chat-header">
+          <span>AI Assistant</span>
+          <button id="close-chat" class="close-chat-btn">&times;</button>
+      </div>
+      <div class="chat-body" id="chat-body">
+          <div class="chat-message bot">
+              <p>Hello! How can I help you today?</p>
+          </div>
+      </div>
+      <div class="chat-footer">
+          <input type="text" id="chat-input" placeholder="Type a message...">
+          <button id="send-btn"><i class="bi bi-send"></i></button>
+      </div>
+  </div> -->
+  <!-- End Chatbot -->
+
+  <!-- <script>
+    // Chatbot JS
+    document.addEventListener('DOMContentLoaded', () => {
+      const chatIcon = document.getElementById('chat-icon');
+      const chatWindow = document.getElementById('chat-window');
+      const closeChatBtn = document.getElementById('close-chat');
+      const sendBtn = document.getElementById('send-btn');
+      const chatInput = document.getElementById('chat-input');
+      const chatBody = document.getElementById('chat-body');
+
+      chatIcon.addEventListener('click', () => {
+          chatWindow.classList.toggle('open');
+      });
+
+      closeChatBtn.addEventListener('click', () => {
+          chatWindow.classList.remove('open');
+      });
+
+      function addMessage(message, sender) {
+          const messageDiv = document.createElement('div');
+          messageDiv.classList.add('chat-message', sender);
+          const p = document.createElement('p');
+          p.textContent = message;
+          messageDiv.appendChild(p);
+          chatBody.appendChild(messageDiv);
+          chatBody.scrollTop = chatBody.scrollHeight; 
+      }
+
+      async function handleSend() {
+        const userMessage = chatInput.value.trim();
+        if (!userMessage) return;
+
+        addMessage(userMessage, 'user');
+        chatInput.value = '';
+
+        const loadingDiv = document.createElement('div');
+        loadingDiv.classList.add('chat-message', 'bot');
+        loadingDiv.innerHTML = '<p>Thinking...</p>';
+        chatBody.appendChild(loadingDiv);
+        chatBody.scrollTop = chatBody.scrollHeight;
+
+        try {
+          // gemini Api key
+            const apiKey = '-'; 
+            const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ contents: [{ parts: [{ text: userMessage }] }] })
+            });
+
+            const data = await response.json();
+
+            if (data.error) {
+                console.error("Gemini API Error:", data.error);
+                throw new Error(data.error.message);
+            }
+
+            chatBody.removeChild(loadingDiv);
+
+            const aiResponse = data.candidates?.[0]?.content?.parts?.[0]?.text || "Sorry, I couldn't generate a response.";
+            addMessage(aiResponse, 'bot');
+        } catch (error) {
+            if(loadingDiv.parentNode) chatBody.removeChild(loadingDiv);
+            addMessage("Error: " + error.message, 'bot');
+            console.error(error);
+        }
+      }
+
+      sendBtn.addEventListener('click', handleSend);
+
+      chatInput.addEventListener('keypress', (e) => {
+          if (e.key === 'Enter') {
+              handleSend();
+          }
+      });
+    });
+  </script> -->
 </body>
+
+</html>
 
 </html>

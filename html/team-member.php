@@ -161,7 +161,7 @@
           </div>
           <div class="col-12  col-lg-3 mx-auto ">
             <div class="profile ">
-              <div class="tm-img  "><img class=" img-fluid " loading="lazy" src="assets/images/our-team/1.jpg" alt="Team Member"></div>
+              <div class="tm-img  "><img class=" img-fluid " loading="lazy" src="assets/images/our-team/11.jpeg" alt="Team Member"></div>
               <div class="tm-details">
                 <h6 class="name">Mr.Sunil Shukla</h6><span class="role">Director</span>
               </div>

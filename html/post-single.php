@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
         <!-- fav icon -->
-        <link rel="icon" href="assets/images/fav-icon/fav-icon.png">
+        <link rel="icon" href="assets/images/logo/logo-light1.png">
         
         <!-- bootstarp -->
         <link rel="stylesheet" href="css/vendors/bootstrap.min.css">
@@ -147,7 +147,7 @@
               <div class="author-profile panel">
                 <h6 class="panel-title">about author</h6>
                 <div class="author-info">
-                  <div class="author-avatar"><a class="author-link" href="#"><img class="avatar-img" loading="lazy" src="assets/images/testimonials/1.png" alt="author avatar"></a></div>
+                  <div class="author-avatar"><a class="author-link" href="#"><img class="avatar-img" loading="lazy" src="assets/images/testimonials/11.jpeg" alt="author avatar"></a></div>
                   <div class="author-disc">
                     <h6 class="author-name"> <a class="author-link" href="#">Sunil Shukla</a></h6>
                     <p class="author-bio">
@@ -187,7 +187,7 @@
                 <div class="comments-area panel">
                   <h6 class="panel-title">comments</h6>
                   <div class="comment-wrapper ">
-                    <div class="author-avatar"><a class="comment-author-link" href="#"><img class="author-avatar-img" loading="lazy" src="assets/images/testimonials/2.png" alt="author avatar"></a></div>
+                    <div class="author-avatar"><a class="comment-author-link" href="#"><img class="author-avatar-img" loading="lazy" src="assets/images/testimonials/9.jpeg" alt="author avatar"></a></div>
                     <div class="comment-body">
                       <div class="comment-author"><a class="comment-author-link" href="#">R. Sharma</a></div>
                       <div class="comment-date"><a class="date-link" href="#">
@@ -201,7 +201,7 @@
                     </div>
                   </div>
                   <div class="comment-wrapper comment-reply ">
-                    <div class="author-avatar"><a class="comment-author-link" href="#"><img class="author-avatar-img" loading="lazy" src="assets/images/testimonials/1.png" alt="author avatar"></a></div>
+                    <div class="author-avatar"><a class="comment-author-link" href="#"><img class="author-avatar-img" loading="lazy" src="assets/images/testimonials/11.jpeg" alt="author avatar"></a></div>
                     <div class="comment-body">
                       <div class="comment-author"><a class="comment-author-link" href="#">Sunil Shukla</a></div>
                       <div class="comment-date"><a class="date-link" href="#">

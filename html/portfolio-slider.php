@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
         <!-- fav icon -->
-        <link rel="icon" href="assets/images/fav-icon/fav-icon.png">
+        <link rel="icon" href="assets/images/logo/logo-light1.png">
         
         <!-- bootstarp -->
         <link rel="stylesheet" href="css/vendors/bootstrap.min.css">
@@ -187,7 +187,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/11.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
@@ -206,7 +206,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/9.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>

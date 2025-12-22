@@ -7,7 +7,7 @@
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
           
           <!-- fav icon -->
-          <link rel="icon" href="assets/images/fav-icon/fav-icon.png">
+          <link rel="icon" href="assets/images/logo/logo-light1.png">
           
           <!-- bootstarp -->
           <link rel="stylesheet" href="css/vendors/bootstrap.min.css">
@@ -236,60 +236,60 @@
               <div class="col-12 col-md-8  col-lg-4 mx-md-auto ">
                 <div class="tm-member-card     wow   fadeInUp" data-wow-delay="0.1s">
                   <div class="tm-image js-tilt "><a class="tm-link  " href="team-member.php"> 
-                      <div class="overlay overlay-color"></div><img class="img-fluid parallax-img  " loading="lazy" src="assets/images/our-team/1.jpg" alt="Team Member"/></a>
+                      <div class="overlay overlay-color"></div><img class="img-fluid parallax-img  " loading="lazy" src="assets/images/our-team/9.jpeg" alt="Team Member"/></a>
                     <div class="tm-social">
                       <div class="sc-wrapper dir-row sc-size-40">
-                          <ul class="sc-list">
+                          <!-- <ul class="sc-list">
                           <li class="sc-item " title="Facebook"><a class="sc-link" href="https://www.facebook.com/profile.php?id=61576857460606" title="social media icon"><i class="fab fa-facebook-f sc-icon"></i></a></li>
                           <li class="sc-item " title="youtube"><a class="sc-link" href="https://youtube.com/@tapbotic?si=OnGdVA1l7j3wlgP_" title="social media icon"><i class="fab fa-youtube sc-icon"></i></a></li>
                           <li class="sc-item " title="instagram"><a class="sc-link" href="https://www.instagram.com/tapbotic_ai/" title="social media icon"><i class="fab fa-instagram sc-icon"></i></a></li>
                           <li class="sc-item " title="LinkedIn"><a class="sc-link" href="https://www.linkedin.com/company/tapbotic-ai/?viewAsMember=true" title="social media icon"><i class="fab fa-linkedin-in sc-icon"></i></a></li>
-                        </ul>
+                        </ul> -->
                       </div>
                     </div>
                   </div>
                   <div class="tm-details"><a class="tm-link" href="team-member.php"> 
-                      <h6 class="tm-name">murad Aly</h6></a><span class="tm-role">co Founder</span></div>
+                      <h6 class="tm-name"></h6></a><span class="tm-role">co Founder</span></div>
                 </div>
               </div>
               <!--Second Team Member-->
               <div class="col-12 col-md-8  col-lg-4 mx-md-auto ">
                 <div class="tm-member-card     wow   fadeInUp" data-wow-delay="0.2s">
                   <div class="tm-image js-tilt "><a class="tm-link  " href="team-member.php"> 
-                      <div class="overlay overlay-color"></div><img class="img-fluid parallax-img  " loading="lazy" src="assets/images/our-team/2.jpg" alt="Team Member"/></a>
+                      <div class="overlay overlay-color"></div><img class="img-fluid parallax-img  " loading="lazy" src="assets/images/our-team/11.jpeg" alt="Team Member"/></a>
                     <div class="tm-social">
                       <div class="sc-wrapper dir-row sc-size-40">
-                         <ul class="sc-list">
+                         <!-- <ul class="sc-list">
                           <li class="sc-item " title="Facebook"><a class="sc-link" href="https://www.facebook.com/profile.php?id=61576857460606" title="social media icon"><i class="fab fa-facebook-f sc-icon"></i></a></li>
                           <li class="sc-item " title="youtube"><a class="sc-link" href="https://youtube.com/@tapbotic?si=OnGdVA1l7j3wlgP_" title="social media icon"><i class="fab fa-youtube sc-icon"></i></a></li>
                           <li class="sc-item " title="instagram"><a class="sc-link" href="https://www.instagram.com/tapbotic_ai/" title="social media icon"><i class="fab fa-instagram sc-icon"></i></a></li>
                           <li class="sc-item " title="LinkedIn"><a class="sc-link" href="https://www.linkedin.com/company/tapbotic-ai/?viewAsMember=true" title="social media icon"><i class="fab fa-linkedin-in sc-icon"></i></a></li>
-                        </ul>
+                        </ul> -->
                       </div>
                     </div>
                   </div>
                   <div class="tm-details"><a class="tm-link" href="team-member.php"> 
-                      <h6 class="tm-name">fairouz amin</h6></a><span class="tm-role">manager   </span></div>
+                      <h6 class="tm-name"></h6></a><span class="tm-role">manager   </span></div>
                 </div>
               </div>
               <!--Third Team Member-->
               <div class="col-12 col-md-8  col-lg-4 mx-md-auto ">
                 <div class="tm-member-card     wow   fadeInUp" data-wow-delay="0.4s">
                   <div class="tm-image js-tilt "><a class="tm-link  " href="team-member.php"> 
-                      <div class="overlay overlay-color"></div><img class="img-fluid parallax-img  " loading="lazy" src="assets/images/our-team/3.jpg" alt="Team Member"/></a>
+                      <div class="overlay overlay-color"></div><img class="img-fluid parallax-img  " loading="lazy" src="assets/images/our-team/13.jpeg" alt="Team Member"/></a>
                     <div class="tm-social">
                       <div class="sc-wrapper dir-row sc-size-40">
-                          <ul class="sc-list">
+                          <!-- <ul class="sc-list">
                           <li class="sc-item " title="Facebook"><a class="sc-link" href="https://www.facebook.com/profile.php?id=61576857460606" title="social media icon"><i class="fab fa-facebook-f sc-icon"></i></a></li>
                           <li class="sc-item " title="youtube"><a class="sc-link" href="https://youtube.com/@tapbotic?si=OnGdVA1l7j3wlgP_" title="social media icon"><i class="fab fa-youtube sc-icon"></i></a></li>
                           <li class="sc-item " title="instagram"><a class="sc-link" href="https://www.instagram.com/tapbotic_ai/" title="social media icon"><i class="fab fa-instagram sc-icon"></i></a></li>
                           <li class="sc-item " title="LinkedIn"><a class="sc-link" href="https://www.linkedin.com/company/tapbotic-ai/?viewAsMember=true" title="social media icon"><i class="fab fa-linkedin-in sc-icon"></i></a></li>
-                        </ul>
+                        </ul> -->
                       </div>
                     </div>
                   </div>
                   <div class="tm-details"><a class="tm-link" href="team-member.php"> 
-                      <h6 class="tm-name">beco Smith</h6></a><span class="tm-role">co leader   </span></div>
+                      <h6 class="tm-name"></h6></a><span class="tm-role">co leader</span></div>
                 </div>
               </div>
             </div>
@@ -315,7 +315,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/11.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
@@ -334,7 +334,7 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/9.jpeg" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
                           <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>
