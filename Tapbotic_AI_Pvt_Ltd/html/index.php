@@ -173,7 +173,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> 
         <!--third slide-->
         <div class="swiper-slide">
           <div class="slide-bg-img" data-bg-img="assets/images/hero/hero-bg-3.jpg">
