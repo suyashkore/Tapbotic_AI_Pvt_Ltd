@@ -302,72 +302,54 @@
         <div class="overlay-photo-image-bg parallax " data-bg-img="assets/images/sections-bg-images/1.jpg" data-bg-opacity=".25"> </div>
         <div class="container">
           <div class="sec-heading  centered ">
-            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">testimonials</span>
-              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">customers <span class='hollow-text'>testmonials</span></h2>
+         <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Leadership</span>
+          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Meet Our <span class='hollow-text'>Directors</span>
+          </h2>
             </div>
           </div>
           <div class="row d-flex align-items-center">
             <div class="col-12 col-md-10  mx-auto">
               <div class="swiper-container  wow fadeInUp  " data-wow-delay="0.2s">
                 <div class="swiper-wrapper">
-                  <!--First Slide-->
-                  <div class="swiper-slide">
-                    <div class="testmonial-card d-flex align-items-center justify-content-center">
-                      <div class="testimonial-content">
-                        <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
-                        <div class="customer-testimonial">
-                          <div class="content">
-                            <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.</p>
-                          </div>
-                        </div>
-                        <div class="customer-info ">
-                          <div class="customer-details">
-                            <p class="customer-name">Yusuf amin</p>
-                            <p class="customer-role">founder</p>
-                          </div>
+                   <!--First Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
+                      <div class="customer-testimonial">
+                        <div class="content">
+                          <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
                         </div>
                       </div>
-                    </div>
-                  </div>
-                  <!--Second Slide-->
-                  <div class="swiper-slide">
-                    <div class="testmonial-card d-flex align-items-center justify-content-center">
-                      <div class="testimonial-content">
-                        <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
-                        <div class="customer-testimonial">
-                          <div class="content">
-                            <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.</p>
-                          </div>
-                        </div>
-                        <div class="customer-info ">
-                          <div class="customer-details">
-                            <p class="customer-name">fouad osman</p>
-                            <p class="customer-role">officer</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <!--third Slide-->
-                  <div class="swiper-slide">
-                    <div class="testmonial-card d-flex align-items-center justify-content-center">
-                      <div class="testimonial-content">
-                        <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/3.png" alt="First Slide "></div>
-                        <div class="customer-testimonial">
-                          <div class="content">
-                            <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.            </p>
-                          </div>
-                        </div>
-                        <div class="customer-info ">
-                          <div class="customer-details">
-                            <p class="customer-name">fairouz mhmd</p>
-                            <p class="customer-role">manager</p>
-                          </div>
+                      <div class="customer-info ">
+                        <div class="customer-details">
+                          <p class="customer-name">Mr.Sunil Shukla</p>
+                          <p class="customer-role">Director</p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
+                <!--Second Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
+                      <div class="customer-testimonial">
+                        <div class="content">
+                          <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>
+                        </div>
+                      </div>
+                      <div class="customer-info ">
+                        <div class="customer-details">
+                          <p class="customer-name">Mrs.Shweta Shukla</p>
+                          <p class="customer-role">Director</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
                 <!--navigation buttons-->
                 <div class="swiper-button-prev">
                   <div class="left-arrow"><i class="bi bi-chevron-left icon "></i>
@@ -399,26 +381,44 @@
                 
                 -->
                 <div class="swiper-slide">
-                  <div class="client-logo  "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/1-white.png" alt=" "></a></div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/2-white.png" alt=" "></a></div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/3-white.png" alt=" "></a></div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/4-white.png" alt=" "></a></div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/5-white.png" alt=" "></a></div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/6-white.png" alt=" "></a></div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/7-white.png" alt=" "></a></div>
-                </div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/9-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/10-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/11-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/12-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/13-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/14-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/15-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/16-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/17-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/18-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/19-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/20-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/21-white.png" alt="Client Logo"></a></div>
+            </div>
               </div>
             </div>
           </div>
@@ -426,52 +426,90 @@
       </section>
       <!-- End  our-clients Section-->
       <!-- Start  blog Section-->
-      <section class="blog blog-home mega-section  " id="blog">
-        <div class="container ">
-          <div class="sec-heading  ">
-            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">blog</span>
-              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">latest <span class='hollow-text'>news</span></h2>
-            </div>
-            <div class=" cta-area  cta-area  wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid   cta-btn btn-solid  " href="blog-home-3-col.php">see all posts<i class="bi bi-arrow-right icon "></i></a></div>
-          </div>
-          <div class="row ">
-            <div class="col-12 "> 
-              <div class="posts-grid ">
-                <div class="row">
-                  <div class="col-12 col-lg-4 ">
-                    <div class="post-box">     <a class="post-link" href="post-single.php" title="How litespeed technology works to speed up your site "> 
-                        <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/1.jpg" alt=""/><span class="post-date"><span class="day">05 </span>oct 2022     </span></div></a>
-                      <div class="post-summary">
-                        <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>hosting</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Allan Moore</a></div>
-                        <div class="post-text"><a class="post-link" href="post-single.php"> 
-                            <h2 class="post-title"> How litespeed technology works to speed up your site </h2></a>
-                          <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="How litespeed technology works to speed up your site ">read more<i class="bi bi-arrow-right icon "></i></a>
-                        </div>
+   <section class="blog blog-home mega-section  " id="blog">
+    <div class="container ">
+      <div class="sec-heading  ">
+        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">blog</span>
+          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">latest <span class='hollow-text'>news</span></h2>
+        </div>
+        <div class=" cta-area  cta-area  wow fadeInUp" data-wow-delay=".8s"><a
+            class="cta-btn btn-solid   cta-btn btn-solid  " href="blog-home-3-col.php">see all posts<i
+              class="bi bi-arrow-right icon "></i></a></div>
+      </div>
+      <div class="row ">
+        <div class="col-12 ">
+          <div class="posts-grid ">
+            <div class="row">
+              <div class="col-12 col-lg-4 ">
+                <div class="post-box"> <a class="post-link" href="post-single.php" title="Scaling AI: Strategies for Overcoming Data Silos">
+                    <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy"
+                        src="assets/images/blog/post-images/1.jpg" alt="Scaling AI" /><span class="post-date">
+                          <!-- <span class="day">12
+                        </span>AUG 2024 </span> -->
                       </div>
+                  </a>
+                  <div class="post-summary">
+                    <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Data Strategy</a>
+                    <!-- <a class="info post-author" href="#"> -->
+                       <!-- <i
+                          class=" bi bi-person icon"></i> -->
+                          <!-- Sunil Shukla -->
+                        </a></div>
+                    <div class="post-text"><a class="post-link" href="post-single.php">
+                        <h2 class="post-title"> Scaling AI: Strategies for Overcoming Data Silos </h2>
+                      </a>  
+                      <p class="post-excerpt">Learn how enterprises are breaking down data barriers to fuel machine learning models and drive unified business intelligence.</p><a class="read-more" href="post-single.php"
+                        title="Scaling AI: Strategies for Overcoming Data Silos">read more<i
+                          class="bi bi-arrow-right icon "></i></a>
                     </div>
                   </div>
-                  <div class="col-12 col-lg-4 ">         
-                    <div class="post-box">     <a class="post-link" href="post-single.php" title="give your website a new look and feel with themes"> 
-                        <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/2.jpg" alt=""/><span class="post-date"><span class="day">15 </span>sep 2022     </span></div></a>
-                      <div class="post-summary">
-                        <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>web dev</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>mhmd amin</a></div>
-                        <div class="post-text"><a class="post-link" href="post-single.php"> 
-                            <h2 class="post-title"> give your website a new look and feel with themes</h2></a>
-                          <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="give your website a new look and feel with themes">read more<i class="bi bi-arrow-right icon "></i></a>
-                        </div>
+                </div>
+              </div>
+              <div class="col-12 col-lg-4 ">
+                <div class="post-box"> <a class="post-link" href="post-single.php" title="Hyperautomation: The Next Frontier">
+                    <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy"
+                        src="assets/images/blog/post-images/2.jpg" alt="Hyperautomation" /><span class="post-date">
+                          <!-- <span class="day">28
+                        </span>JUL 2024 </span> -->
                       </div>
+                  </a>
+                  <div class="post-summary">
+                    <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Automation</a>
+                    <!-- <a class="info post-author" href="#">  -->
+                      <!-- <i class=" bi bi-person icon"></i> -->
+                    <!-- Mrs.Shweta Shukla -->
+                  </a>
+                    </div>
+                    <div class="post-text"><a class="post-link" href="post-single.php">
+                        <h2 class="post-title"> Hyperautomation: The Next Frontier of Digital Transformation</h2>
+                      </a>
+                      <p class="post-excerpt">Discover how combining AI, RPA, and process mining is enabling end-to-end automation of complex business processes.</p><a class="read-more" href="post-single.php"
+                        title="Hyperautomation: The Next Frontier">read more<i
+                          class="bi bi-arrow-right icon "></i></a>
                     </div>
                   </div>
-                  <div class="col-12 col-lg-4 ">         
-                    <div class="post-box">     <a class="post-link" href="post-single.php" title="the role of domain names in SEO world explained "> 
-                        <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/3.jpg" alt=""/><span class="post-date"><span class="day">27 </span>aug 2022     </span></div></a>
-                      <div class="post-summary">
-                        <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>SEO</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>yusuf amin</a></div>
-                        <div class="post-text"><a class="post-link" href="post-single.php"> 
-                            <h2 class="post-title"> the role of domain names in SEO world explained </h2></a>
-                          <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="the role of domain names in SEO world explained ">read more<i class="bi bi-arrow-right icon "></i></a>
-                        </div>
+                </div>
+              </div>
+              <div class="col-12 col-lg-4 ">
+                <div class="post-box"> <a class="post-link" href="post-single.php" title="Ethical AI: Building Trust">
+                    <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy"
+                        src="assets/images/blog/post-images/3.jpg" alt="Ethical AI" /><span class="post-date">
+                          <!-- <span class="day">15
+                        </span>JUL 2024 </span> -->
                       </div>
+                  </a>
+                  <div class="post-summary">
+                    <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>AI Governance</a>
+                    <!-- <a class="info post-author" href="#">
+                       <i
+                          class=" bi bi-person icon"></i>Sunil Shukla</a> -->
+                        </div>
+                    <div class="post-text"><a class="post-link" href="post-single.php">
+                        <h2 class="post-title"> Ethical AI: Building Trust in Automated Decision Systems </h2>
+                      </a>
+                      <p class="post-excerpt">A guide to implementing governance frameworks that ensure transparency, fairness, and accountability in AI deployments.</p><a class="read-more" href="post-single.php"
+                        title="Ethical AI: Building Trust">read more<i
+                          class="bi bi-arrow-right icon "></i></a>
                     </div>
                   </div>
                 </div>
@@ -479,7 +517,9 @@
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </div>
+  </section>
       <!-- End  blog Section-->
       <!-- Start  take-action Section-->
       <section class="take-action elf-section has-dark-bg" id="take-action">
@@ -487,13 +527,13 @@
         <div class="cta-wrapper">
           <div class="container">
             <div class="sec-heading  centered mb-0 ">
-              <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">contact us</span>
-                <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">get in totch with us</h2>
-                <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit Omnis <br>id atque  dignissimos repellat quae ullam.</p>
+              <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Start a Conversation</span>
+                <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Ready to Build Your Next-Gen Platform?</h2>
+                <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Partner with us to leverage enterprise-grade AI and automation. Schedule a consultation to discuss your project requirements with our experts.</p>
               </div>
             </div>
             <!--Start .see-more-area-->
-            <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">contact us</a></div>
+            <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
             <!--End Of .see-more-area        -->
           </div>
         </div>

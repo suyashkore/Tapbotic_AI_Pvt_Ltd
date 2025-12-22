@@ -103,111 +103,113 @@
     </section>
     <!-- End inner Page hero-->
     <!-- Start  pricing Section-->
-    <section class="pricing mega-section  " id="pricing-1">
-      <div class="container">
-        <div class="sec-heading  ">
-          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">pricing plans</span>
-            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>affordable</span> pricing plans</h2>
-            <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit Omnis <br>id atque  dignissimos repellat quae ullam.</p>
-          </div>
-          <div class=" cta-area   wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid    " href="pricing.php">see all plans<i class="bi bi-arrow-right icon "></i></a></div>
+ <section class="pricing mega-section  " id="pricing-1">
+    <div class="container">
+      <div class="sec-heading  ">
+        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Engagement Models</span>
+          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Flexible <span class='hollow-text'>Pricing</span>
+            Models </h2>
+          <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">We offer tailored engagement models designed for enterprise-level projects, ensuring scalability, security, and strategic alignment with your business goals.</p>
         </div>
-        <div class="row">
-          <!--First Plan-->
-          <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
-            <div class="plan    wow fadeInUp  " data-wow-delay=".1s ">
-              <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
-                <h4 class="plane-name">free plan</h4>
-                <div class="plan-price">
-                  <h3 class="price">00<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
-                </div>
+        <div class=" cta-area   wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid"
+            href="contact-us.php">Get a Quote<i class="bi bi-arrow-right icon "></i></a></div>
+      </div>
+      <div class="row">
+        <!--First Plan-->
+        <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
+          <div class="plan    wow fadeInUp  " data-wow-delay=".1s ">
+            <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+              <h4 class="plane-name">Project-Based</h4>
+              <div class="plan-price">
+                <h3 class="price">Custom<sup class="currency-symbol"></sup></h3><span class="per">Quote</span>
               </div>
-              <div class="plan-details">
-                <ul class="plan-list">
-                  <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
-                </ul>
-              </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan  </a></div>
             </div>
+            <div class="plan-details">
+              <ul class="plan-list">
+                <li class="plan-feat "> <span class="feat-text">Fixed Scope & Deliverables</span></li>
+                <li class="plan-feat "> <span class="feat-text">Ideal for Pilot Projects</span></li>
+                <li class="plan-feat "> <span class="feat-text">Clear Timelines & Budget</span></li>
+                <li class="plan-feat "> <span class="feat-text">AI/ML Model Development</span></li>
+                <li class="plan-feat "> <span class="feat-text">Automation Proof-of-Concept</span></li>
+              </ul>
+            </div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
-          <!--Second-plan-->
-          <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
-            <div class="plan    wow fadeInUp  " data-wow-delay=".3s ">
-              <div class="plan-head"><i class="flaticon-virtual-reality plan-icon"></i>
-                <h4 class="plane-name">standerd plan</h4>
-                <div class="plan-price">
-                  <h3 class="price">85<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
-                </div>
+        </div>
+        <!--Second-plan-->
+        <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
+          <div class="plan    wow fadeInUp  " data-wow-delay=".3s ">
+            <div class="plan-head"><i class="flaticon-virtual-reality plan-icon"></i>
+              <h4 class="plane-name">Dedicated Team</h4>
+              <div class="plan-price">
+                <h3 class="price">Monthly<sup class="currency-symbol"></sup></h3><span class="per">Retainer</span>
               </div>
-              <div class="plan-details">
-                <ul class="plan-list">
-                  <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
-                </ul>
-              </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan  </a></div>
             </div>
+            <div class="plan-details">
+              <ul class="plan-list">
+                <li class="plan-feat "> <span class="feat-text">Agile Development Sprints</span></li>
+                <li class="plan-feat "> <span class="feat-text">Full-Time Expert Resources</span></li>
+                <li class="plan-feat "> <span class="feat-text">Scalable Team Size</span></li>
+                <li class="plan-feat "> <span class="feat-text">CI/CD & DevOps</span></li>
+                <li class="plan-feat "> <span class="feat-text">Ongoing Support</span></li>
+              </ul>
+            </div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
-          <!--Third-plan-->
-          <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
-            <div class="plan   featured  wow fadeInUp  " data-wow-delay=".5s ">
-              <div class="plan-head"><i class="flaticon-box plan-icon"></i>
-                <h4 class="plane-name">pro plan</h4>
-                <div class="plan-price">
-                  <h3 class="price">150<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
-                </div>
+        </div>
+        <!--Third-plan-->
+        <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
+          <div class="plan   featured  wow fadeInUp  " data-wow-delay=".5s ">
+            <div class="plan-head"><i class="flaticon-box plan-icon"></i>
+              <h4 class="plane-name">Strategic Partnership</h4>
+              <div class="plan-price">
+                <h3 class="price">Custom<sup class="currency-symbol"></sup></h3><span class="per">Partnership</span>
               </div>
-              <div class="plan-details">
-                <ul class="plan-list">
-                  <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
-                </ul>
-              </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan  </a></div>
             </div>
+            <div class="plan-details">
+              <ul class="plan-list">
+                <li class="plan-feat "> <span class="feat-text">Long-Term Collaboration</span></li>
+                <li class="plan-feat "> <span class="feat-text">Joint Technology Roadmap</span></li>
+                <li class="plan-feat "> <span class="feat-text">Access to Senior Architects</span></li>
+                <li class="plan-feat "> <span class="feat-text">Deep Business Integration</span></li>
+                <li class="plan-feat "> <span class="feat-text">Full Lifecycle Management</span></li>
+              </ul>
+            </div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
-          <!--fourth-plan-->
-          <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
-            <div class="plan    wow fadeInUp  " data-wow-delay=".6s ">
-              <div class="plan-head"><i class="flaticon-basic-shapes plan-icon"></i>
-                <h4 class="plane-name">ultimate plan</h4>
-                <div class="plan-price">
-                  <h3 class="price">210<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
-                </div>
+        </div>
+        <!--fourth-plan-->
+        <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
+          <div class="plan    wow fadeInUp  " data-wow-delay=".6s ">
+            <div class="plan-head"><i class="flaticon-basic-shapes plan-icon"></i>
+              <h4 class="plane-name">Enterprise Solutions</h4>
+              <div class="plan-price">
+                <h3 class="price">Custom<sup class="currency-symbol"></sup></h3><span class="per">Proposal</span>
               </div>
-              <div class="plan-details">
-                <ul class="plan-list">
-                  <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                  <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
-                </ul>
-              </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan  </a></div>
             </div>
+            <div class="plan-details">
+              <ul class="plan-list">
+                <li class="plan-feat "> <span class="feat-text">Large-Scale Platform Builds</span></li>
+                <li class="plan-feat "> <span class="feat-text">Complex System Integrations</span></li>
+                <li class="plan-feat "> <span class="feat-text">Enterprise-Grade Security</span></li>
+                <li class="plan-feat "> <span class="feat-text">Compliance & Governance</span></li>
+                <li class="plan-feat "> <span class="feat-text">Full Technology Ownership</span></li>
+              </ul>
+            </div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
     <!-- End  pricing Section-->
     <!-- Start  testimonials Section-->
     <section class="testimonials testimonials-1-col   has-dark-bg  mega-section " id="testimonials-img-bg">
       <div class="overlay-photo-image-bg parallax " data-bg-img="assets/images/sections-bg-images/1.jpg" data-bg-opacity=".25"> </div>
       <div class="container">
         <div class="sec-heading  centered ">
-          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">testimonials</span>
-            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">customers <span class='hollow-text'>testmonials</span></h2>
+          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Leadership</span>
+            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Meet Our <span class='hollow-text'>Directors</span></h2>
           </div>
         </div>
         <div class="row d-flex align-items-center">
@@ -221,13 +223,13 @@
                       <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
-                          <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.</p>
+                          <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
                         </div>
                       </div>
                       <div class="customer-info ">
                         <div class="customer-details">
-                          <p class="customer-name">Yusuf amin</p>
-                          <p class="customer-role">founder</p>
+                          <p class="customer-name">Mr.Sunil Shukla</p>
+                          <p class="customer-role">Director</p>
                         </div>
                       </div>
                     </div>
@@ -240,32 +242,13 @@
                       <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
-                          <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.</p>
+                          <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>
                         </div>
                       </div>
                       <div class="customer-info ">
                         <div class="customer-details">
-                          <p class="customer-name">fouad osman</p>
-                          <p class="customer-role">officer</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!--third Slide-->
-                <div class="swiper-slide">
-                  <div class="testmonial-card d-flex align-items-center justify-content-center">
-                    <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/3.png" alt="First Slide "></div>
-                      <div class="customer-testimonial">
-                        <div class="content">
-                          <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.            </p>
-                        </div>
-                      </div>
-                      <div class="customer-info ">
-                        <div class="customer-details">
-                          <p class="customer-name">fairouz mhmd</p>
-                          <p class="customer-role">manager</p>
+                          <p class="customer-name">Mrs.Shweta Shukla</p>
+                          <p class="customer-role">Director</p>
                         </div>
                       </div>
                     </div>
@@ -298,31 +281,46 @@
           <div class="swiper-container">
             <div class="swiper-wrapper clients-logo-wrapper wow fadeIn " data-wow-delay=".02s">
               <!-- every client logo is located inside div  with clss name "swiper-slide ".
-              if you want to add more logos please keep the strcture of the swiper-slide as showen below
-              
-              
-              -->
-              <div class="swiper-slide">
-                <div class="client-logo  "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/1-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/2-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/3-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/4-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/5-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/6-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/7-white.png" alt=" "></a></div>
-              </div>
+              if you want to add more logos please keep the strcture of the swiper-slide as showen below -->
+                 <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/9-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/10-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/11-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/12-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/13-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/14-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/15-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/16-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/17-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/18-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/19-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/20-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/21-white.png" alt="Client Logo"></a></div>
+            </div>
             </div>
           </div>
         </div>
@@ -335,13 +333,13 @@
       <div class="cta-wrapper">
         <div class="container">
           <div class="sec-heading  centered mb-0 ">
-            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">contact us</span>
-              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">get in totch with us</h2>
-              <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit Omnis <br>id atque  dignissimos repellat quae ullam.</p>
+            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Start a Conversation</span>
+              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Ready to Build Your Next-Gen Platform?</h2>
+              <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Partner with us to leverage enterprise-grade AI and automation. Schedule a consultation to discuss your project requirements with our experts.</p>
             </div>
           </div>
           <!--Start .see-more-area-->
-          <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">contact us</a></div>
+          <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
           <!--End Of .see-more-area        -->
         </div>
       </div>

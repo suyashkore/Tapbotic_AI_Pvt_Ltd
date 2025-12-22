@@ -460,12 +460,12 @@
     <div class="cta-wrapper">
       <div class="container">
         <div class="sec-heading centered mb-0">
-          <div class="content-area"><span class="pre-title wow fadeInUp" data-wow-delay=".2s">Get in Touch</span>
-            <h2 class="title wow fadeInUp" data-wow-delay=".4s">Let's Build the Future Together</h2>
-            <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Connect with us to discuss governance, partnerships, or any inquiries.</p>
+          <div class="content-area"><span class="pre-title wow fadeInUp" data-wow-delay=".2s">Start a Conversation</span>
+            <h2 class="title wow fadeInUp" data-wow-delay=".4s">Ready to Discuss Your Enterprise Needs?</h2>
+            <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Connect with our leadership to explore strategic partnerships, discuss governance frameworks, or address your enterprise technology challenges.</p>
           </div>
         </div>
-        <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class="btn-solid cta-link" href="contact-us.php">Contact Us</a></div>
+        <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class="btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
       </div>
     </div>
   </section>

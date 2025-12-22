@@ -112,12 +112,12 @@
                     <div class="col-12   ">
                       <div class="hero-social-icons mb-3 ">
                         <div class="sc-wrapper dir-row sc-flat">
-                            <ul class="sc-list">
+                            <!-- <ul class="sc-list">
                           <li class="sc-item " title="Facebook"><a class="sc-link" href="https://www.facebook.com/profile.php?id=61576857460606" title="social media icon"><i class="fab fa-facebook-f sc-icon"></i></a></li>
                           <li class="sc-item " title="youtube"><a class="sc-link" href="https://youtube.com/@tapbotic?si=OnGdVA1l7j3wlgP_" title="social media icon"><i class="fab fa-youtube sc-icon"></i></a></li>
                           <li class="sc-item " title="instagram"><a class="sc-link" href="https://www.instagram.com/tapbotic_ai/" title="social media icon"><i class="fab fa-instagram sc-icon"></i></a></li>
                           <li class="sc-item " title="LinkedIn"><a class="sc-link" href="https://www.linkedin.com/company/tapbotic-ai/?viewAsMember=true" title="social media icon"><i class="fab fa-linkedin-in sc-icon"></i></a></li>
-                        </ul>
+                        </ul> -->
                         </div>
                       </div>
                     </div>
@@ -149,12 +149,12 @@
                     <div class="col-12   ">
                       <div class="hero-social-icons mb-3 ">
                         <div class="sc-wrapper dir-row sc-flat">
-                           <ul class="sc-list">
-                          <li class="sc-item " title="Facebook"><a class="sc-link" href="https://www.facebook.com/profile.php?id=61576857460606" title="social media icon"><i class="fab fa-facebook-f sc-icon"></i></a></li>
+                        <!-- <ul class="sc-list">
+                          <li class="sc-item " title="Facebook"><a class="sc-link" href="https://www.facebook.com/tapboticai" title="social media icon"><i class="fab fa-facebook-f sc-icon"></i></a></li>
                           <li class="sc-item " title="youtube"><a class="sc-link" href="https://youtube.com/@tapbotic?si=OnGdVA1l7j3wlgP_" title="social media icon"><i class="fab fa-youtube sc-icon"></i></a></li>
                           <li class="sc-item " title="instagram"><a class="sc-link" href="https://www.instagram.com/tapbotic_ai/" title="social media icon"><i class="fab fa-instagram sc-icon"></i></a></li>
                           <li class="sc-item " title="LinkedIn"><a class="sc-link" href="https://www.linkedin.com/company/tapbotic-ai/?viewAsMember=true" title="social media icon"><i class="fab fa-linkedin-in sc-icon"></i></a></li>
-                        </ul>
+                        </ul> -->
                         </div>
                       </div>
                     </div>
@@ -173,7 +173,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> 
         <!--third slide-->
         <div class="swiper-slide">
           <div class="slide-bg-img" data-bg-img="assets/images/hero/hero-bg-3.jpg">
@@ -360,8 +360,6 @@
                     <div class="info-item"><i class="flaticon-medal  info-icon"></i>
                       <div class="info-content">
                         <h5 class="info-title">first on field </h5>
-                        <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste
-                        </p> -->
                         <p class="info-text"><b>Established:</b> 2017</p>
                       </div>
                     </div>
@@ -395,7 +393,7 @@
               <div class="cta-area"><a class=" btn-solid reveal-start" href="contact-us.php">Engage With Us</a>
                 <div class="signature ">
                   <div class="signature-img"></div>
-                  <div class="signature-name">CEO &amp; Founder </div>
+                  <div class="signature-name"></div>
                 </div>
               </div>
             </div>
@@ -437,8 +435,6 @@
                     <div class="info-item"><span class="info-number ">01.</span>
                       <div class="info-content">
                         <h5 class="info-title">latest technologies </h5>
-                        <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus
-                          minima reiciendis nobis dolore obcaecati.</p> -->
                         <p class="info-text">Established in 2017 with enterprise delivery credibility.</p>
                       </div>
                     </div>
@@ -597,49 +593,60 @@
   </section>
   <!-- End  portfolio-slider Section-->
   <!-- Start  our-clients Section-->
-  <section class="our-clients  mega-section   wow fadeInUp" id="our-clients" data-wow-delay="0.2s">
+  <section class="our-clients mega-section wow fadeInUp" id="our-clients" data-wow-delay="0.2s">
     <div class="container">
-      <div class="sec-heading   centered ">
+      <div class="sec-heading centered">
         <div class="content-area">
-          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">trusted by over 500 clients around the world</h2>
+          <span class="pre-title wow fadeInUp" data-wow-delay=".2s">Partners</span>
+          <h2 class="title wow fadeInUp" data-wow-delay=".4s">Trusted by <span class='hollow-text'>Industry</span> Leaders</h2>
+          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">We partner with leading enterprises and institutions to build mission-critical technology platforms that drive growth and efficiency.</p>
         </div>
       </div>
-      <div class=" clients-logos ">
+      <div class="clients-logos">
         <!--Swiper-->
         <div class="swiper-container">
-          <div class="swiper-wrapper clients-logo-wrapper wow fadeIn " data-wow-delay=".02s">
+          <div class="swiper-wrapper clients-logo-wrapper wow fadeIn" data-wow-delay=".02s">
             <!-- every client logo is located inside div  with clss name "swiper-slide ".
               if you want to add more logos please keep the strcture of the swiper-slide as showen below
-              
-              
               -->
             <div class="swiper-slide">
-              <div class="client-logo  "><a href="#0"><img class="img-fluid logo " loading="lazy"
-                    src="assets/images/clients-logos/1-white.png" alt=" "></a></div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/9-white.png" alt="Client Logo"></a></div>
             </div>
             <div class="swiper-slide">
-              <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy"
-                    src="assets/images/clients-logos/2-white.png" alt=" "></a></div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/10-white.png" alt="Client Logo"></a></div>
             </div>
             <div class="swiper-slide">
-              <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy"
-                    src="assets/images/clients-logos/3-white.png" alt=" "></a></div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/11-white.png" alt="Client Logo"></a></div>
             </div>
             <div class="swiper-slide">
-              <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy"
-                    src="assets/images/clients-logos/4-white.png" alt=" "></a></div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/12-white.png" alt="Client Logo"></a></div>
             </div>
             <div class="swiper-slide">
-              <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy"
-                    src="assets/images/clients-logos/5-white.png" alt=" "></a></div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/13-white.png" alt="Client Logo"></a></div>
             </div>
             <div class="swiper-slide">
-              <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy"
-                    src="assets/images/clients-logos/6-white.png" alt=" "></a></div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/14-white.png" alt="Client Logo"></a></div>
             </div>
             <div class="swiper-slide">
-              <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy"
-                    src="assets/images/clients-logos/7-white.png" alt=" "></a></div>
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/15-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/16-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/17-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/18-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/19-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/20-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/21-white.png" alt="Client Logo"></a></div>
             </div>
           </div>
         </div>
@@ -651,98 +658,97 @@
   <section class="pricing mega-section  " id="pricing-1">
     <div class="container">
       <div class="sec-heading  ">
-        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">pricing plans</span>
-          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>affordable</span> pricing
-            plans </h2>
-          <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing
-            elit Omnis <br>id atque dignissimos repellat quae ullam.</p>
+        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Engagement Models</span>
+          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Flexible <span class='hollow-text'>Pricing</span>
+            Models </h2>
+          <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">We offer tailored engagement models designed for enterprise-level projects, ensuring scalability, security, and strategic alignment with your business goals.</p>
         </div>
         <div class=" cta-area   wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid"
-            href="pricing.php">see all plans<i class="bi bi-arrow-right icon "></i></a></div>
+            href="contact-us.php">Get a Quote<i class="bi bi-arrow-right icon "></i></a></div>
       </div>
       <div class="row">
         <!--First Plan-->
         <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
           <div class="plan    wow fadeInUp  " data-wow-delay=".1s ">
             <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
-              <h4 class="plane-name">free plan</h4>
+              <h4 class="plane-name">Project-Based</h4>
               <div class="plan-price">
-                <h3 class="price">00<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
+                <h3 class="price">Custom<sup class="currency-symbol"></sup></h3><span class="per">Quote</span>
               </div>
             </div>
             <div class="plan-details">
               <ul class="plan-list">
-                <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
+                <li class="plan-feat "> <span class="feat-text">Fixed Scope & Deliverables</span></li>
+                <li class="plan-feat "> <span class="feat-text">Ideal for Pilot Projects</span></li>
+                <li class="plan-feat "> <span class="feat-text">Clear Timelines & Budget</span></li>
+                <li class="plan-feat "> <span class="feat-text">AI/ML Model Development</span></li>
+                <li class="plan-feat "> <span class="feat-text">Automation Proof-of-Concept</span></li>
               </ul>
             </div>
-            <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan </a></div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
         </div>
         <!--Second-plan-->
         <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
           <div class="plan    wow fadeInUp  " data-wow-delay=".3s ">
             <div class="plan-head"><i class="flaticon-virtual-reality plan-icon"></i>
-              <h4 class="plane-name">standerd plan</h4>
+              <h4 class="plane-name">Dedicated Team</h4>
               <div class="plan-price">
-                <h3 class="price">85<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
+                <h3 class="price">Monthly<sup class="currency-symbol"></sup></h3><span class="per">Retainer</span>
               </div>
             </div>
             <div class="plan-details">
               <ul class="plan-list">
-                <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
+                <li class="plan-feat "> <span class="feat-text">Agile Development Sprints</span></li>
+                <li class="plan-feat "> <span class="feat-text">Full-Time Expert Resources</span></li>
+                <li class="plan-feat "> <span class="feat-text">Scalable Team Size</span></li>
+                <li class="plan-feat "> <span class="feat-text">CI/CD & DevOps</span></li>
+                <li class="plan-feat "> <span class="feat-text">Ongoing Support</span></li>
               </ul>
             </div>
-            <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan </a></div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
         </div>
         <!--Third-plan-->
         <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
           <div class="plan   featured  wow fadeInUp  " data-wow-delay=".5s ">
             <div class="plan-head"><i class="flaticon-box plan-icon"></i>
-              <h4 class="plane-name">pro plan</h4>
+              <h4 class="plane-name">Strategic Partnership</h4>
               <div class="plan-price">
-                <h3 class="price">150<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
+                <h3 class="price">Custom<sup class="currency-symbol"></sup></h3><span class="per">Partnership</span>
               </div>
             </div>
             <div class="plan-details">
               <ul class="plan-list">
-                <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
+                <li class="plan-feat "> <span class="feat-text">Long-Term Collaboration</span></li>
+                <li class="plan-feat "> <span class="feat-text">Joint Technology Roadmap</span></li>
+                <li class="plan-feat "> <span class="feat-text">Access to Senior Architects</span></li>
+                <li class="plan-feat "> <span class="feat-text">Deep Business Integration</span></li>
+                <li class="plan-feat "> <span class="feat-text">Full Lifecycle Management</span></li>
               </ul>
             </div>
-            <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan </a></div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
         </div>
         <!--fourth-plan-->
         <div class="col-12  col-md-6 col-xl-3  mx-auto price-plan ">
           <div class="plan    wow fadeInUp  " data-wow-delay=".6s ">
             <div class="plan-head"><i class="flaticon-basic-shapes plan-icon"></i>
-              <h4 class="plane-name">ultimate plan</h4>
+              <h4 class="plane-name">Enterprise Solutions</h4>
               <div class="plan-price">
-                <h3 class="price">210<sup class="currency-symbol">$</sup></h3><span class="per">per project</span>
+                <h3 class="price">Custom<sup class="currency-symbol"></sup></h3><span class="per">Proposal</span>
               </div>
             </div>
             <div class="plan-details">
               <ul class="plan-list">
-                <li class="plan-feat "> <span class="feat-text"> 150 Lorem, ipsum dolor. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> 20 Lorem ipsum dolor sit . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> Lorem ipsum dolor sit. </span></li>
-                <li class="plan-feat "> <span class="feat-text"> free Lorem ipsum dolor . </span></li>
-                <li class="plan-feat "> <span class="feat-text"> added Lorem ipsum dolor. </span></li>
+                <li class="plan-feat "> <span class="feat-text">Large-Scale Platform Builds</span></li>
+                <li class="plan-feat "> <span class="feat-text">Complex System Integrations</span></li>
+                <li class="plan-feat "> <span class="feat-text">Enterprise-Grade Security</span></li>
+                <li class="plan-feat "> <span class="feat-text">Compliance & Governance</span></li>
+                <li class="plan-feat "> <span class="feat-text">Full Technology Ownership</span></li>
               </ul>
             </div>
-            <div class="plan-cta"><a class="cta-btn btn-outline " href="#0">select plan </a></div>
+            <div class="plan-cta"><a class="cta-btn btn-outline " href="contact-us.php">Inquire Now</a></div>
           </div>
         </div>
       </div>
@@ -755,8 +761,8 @@
       data-bg-opacity=".25"> </div>
     <div class="container">
       <div class="sec-heading  centered ">
-        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">testimonials</span>
-          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">customers <span class='hollow-text'>testmonials</span>
+        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Leadership</span>
+          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Meet Our <span class='hollow-text'>Directors</span>
           </h2>
         </div>
       </div>
@@ -764,67 +770,45 @@
         <div class="col-12 col-md-10  mx-auto">
           <div class="swiper-container  wow fadeInUp  " data-wow-delay="0.2s">
             <div class="swiper-wrapper">
-              <!--First Slide-->
-              <div class="swiper-slide">
-                <div class="testmonial-card d-flex align-items-center justify-content-center">
-                  <div class="testimonial-content">
-                    <div class="customer-img "><img class="img-fluid " loading="lazy"
-                        src="assets/images/testimonials/1.png" alt="First Slide "></div>
-                    <div class="customer-testimonial">
-                      <div class="content">
-                        <p class="testimonial-text ">"Tapbotic AI helped us automate critical workflows and improve productivity."</p>
+               <!--First Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
+                      <div class="customer-testimonial">
+                        <div class="content">
+                          <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
+                        </div>
+                      </div>
+                      <div class="customer-info ">
+                        <div class="customer-details">
+                          <p class="customer-name">Mr.Sunil Shukla</p>
+                          <p class="customer-role">Director</p>
+                        </div>
                       </div>
                     </div>
-                    <div class="customer-info ">
-                      <div class="customer-details">
-                        <p class="customer-name">Yusuf amin</p>
-                        <p class="customer-role">founder</p>
+                  </div>
+                </div>
+                <!--Second Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
+                      <div class="customer-testimonial">
+                        <div class="content">
+                          <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>
+                        </div>
+                      </div>
+                      <div class="customer-info ">
+                        <div class="customer-details">
+                          <p class="customer-name">Mrs.Shweta Shukla</p>
+                          <p class="customer-role">Director</p>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <!--Second Slide-->
-              <div class="swiper-slide">
-                <div class="testmonial-card d-flex align-items-center justify-content-center">
-                  <div class="testimonial-content">
-                    <div class="customer-img "><img class="img-fluid " loading="lazy"
-                        src="assets/images/testimonials/2.png" alt="First Slide "></div>
-                    <div class="customer-testimonial">
-                      <div class="content">
-                        <p class="testimonial-text ">"Professional team with strong AI and software expertise."</p>
-                      </div>
-                    </div>
-                    <div class="customer-info ">
-                      <div class="customer-details">
-                        <p class="customer-name">fouad osman</p>
-                        <p class="customer-role">officer</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!--third Slide-->
-              <div class="swiper-slide">
-                <div class="testmonial-card d-flex align-items-center justify-content-center">
-                  <div class="testimonial-content">
-                    <div class="customer-img "><img class="img-fluid " loading="lazy"
-                        src="assets/images/testimonials/3.png" alt="First Slide "></div>
-                    <div class="customer-testimonial">
-                      <div class="content">
-                        <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.</p>
-                      </div>
-                    </div>
-                    <div class="customer-info ">
-                      <div class="customer-details">
-                        <p class="customer-name">fairouz mhmd</p>
-                        <p class="customer-role">manager</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
             <!--navigation buttons-->
             <div class="swiper-button-prev">
               <div class="left-arrow"><i class="bi bi-chevron-left icon "></i>
@@ -856,66 +840,74 @@
           <div class="posts-grid ">
             <div class="row">
               <div class="col-12 col-lg-4 ">
-                <div class="post-box"> <a class="post-link" href="post-single.php"
-                    title="How litespeed technology works to speed up your site ">
+                <div class="post-box"> <a class="post-link" href="post-single.php" title="Scaling AI: Strategies for Overcoming Data Silos">
                     <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy"
-                        src="assets/images/blog/post-images/1.jpg" alt="" /><span class="post-date"><span class="day">05
-                        </span>oct 2022 </span></div>
+                        src="assets/images/blog/post-images/1.jpg" alt="Scaling AI" /><span class="post-date">
+                          <!-- <span class="day">12
+                        </span>AUG 2024 </span> -->
+                      </div>
                   </a>
                   <div class="post-summary">
-                    <div class="post-info"><a class="info post-cat" href="#"> <i
-                          class="bi bi-bookmark icon"></i>hosting</a><a class="info post-author" href="#"> <i
-                          class=" bi bi-person icon"></i>Allan Moore</a></div>
+                    <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Data Strategy</a>
+                    <!-- <a class="info post-author" href="#"> -->
+                       <!-- <i
+                          class=" bi bi-person icon"></i> -->
+                          <!-- Sunil Shukla -->
+                        </a></div>
                     <div class="post-text"><a class="post-link" href="post-single.php">
-                        <h2 class="post-title"> How litespeed technology works to speed up your site </h2>
+                        <h2 class="post-title"> Scaling AI: Strategies for Overcoming Data Silos </h2>
                       </a>
-                      <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla
-                        dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php"
-                        title="How litespeed technology works to speed up your site ">read more<i
+                      <p class="post-excerpt">Learn how enterprises are breaking down data barriers to fuel machine learning models and drive unified business intelligence.</p><a class="read-more" href="post-single.php"
+                        title="Scaling AI: Strategies for Overcoming Data Silos">read more<i
                           class="bi bi-arrow-right icon "></i></a>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="col-12 col-lg-4 ">
-                <div class="post-box"> <a class="post-link" href="post-single.php"
-                    title="give your website a new look and feel with themes">
+                <div class="post-box"> <a class="post-link" href="post-single.php" title="Hyperautomation: The Next Frontier">
                     <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy"
-                        src="assets/images/blog/post-images/2.jpg" alt="" /><span class="post-date"><span class="day">15
-                        </span>sep 2022 </span></div>
+                        src="assets/images/blog/post-images/2.jpg" alt="Hyperautomation" /><span class="post-date">
+                          <!-- <span class="day">28
+                        </span>JUL 2024 </span> -->
+                      </div>
                   </a>
                   <div class="post-summary">
-                    <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>web
-                        dev</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>mhmd amin</a>
+                    <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Automation</a>
+                    <!-- <a class="info post-author" href="#">  -->
+                      <!-- <i class=" bi bi-person icon"></i> -->
+                    <!-- Mrs.Shweta Shukla -->
+                  </a>
                     </div>
                     <div class="post-text"><a class="post-link" href="post-single.php">
-                        <h2 class="post-title"> give your website a new look and feel with themes</h2>
+                        <h2 class="post-title"> Hyperautomation: The Next Frontier of Digital Transformation</h2>
                       </a>
-                      <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla
-                        dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php"
-                        title="give your website a new look and feel with themes">read more<i
+                      <p class="post-excerpt">Discover how combining AI, RPA, and process mining is enabling end-to-end automation of complex business processes.</p><a class="read-more" href="post-single.php"
+                        title="Hyperautomation: The Next Frontier">read more<i
                           class="bi bi-arrow-right icon "></i></a>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="col-12 col-lg-4 ">
-                <div class="post-box"> <a class="post-link" href="post-single.php"
-                    title="the role of domain names in SEO world explained ">
+                <div class="post-box"> <a class="post-link" href="post-single.php" title="Ethical AI: Building Trust">
                     <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy"
-                        src="assets/images/blog/post-images/3.jpg" alt="" /><span class="post-date"><span class="day">27
-                        </span>aug 2022 </span></div>
+                        src="assets/images/blog/post-images/3.jpg" alt="Ethical AI" /><span class="post-date">
+                          <!-- <span class="day">15
+                        </span>JUL 2024 </span> -->
+                      </div>
                   </a>
                   <div class="post-summary">
-                    <div class="post-info"><a class="info post-cat" href="#"> <i
-                          class="bi bi-bookmark icon"></i>SEO</a><a class="info post-author" href="#"> <i
-                          class=" bi bi-person icon"></i>yusuf amin</a></div>
+                    <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>AI Governance</a>
+                    <!-- <a class="info post-author" href="#">
+                       <i
+                          class=" bi bi-person icon"></i>Sunil Shukla</a> -->
+                        </div>
                     <div class="post-text"><a class="post-link" href="post-single.php">
-                        <h2 class="post-title"> the role of domain names in SEO world explained </h2>
+                        <h2 class="post-title"> Ethical AI: Building Trust in Automated Decision Systems </h2>
                       </a>
-                      <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla
-                        dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php"
-                        title="the role of domain names in SEO world explained ">read more<i
+                      <p class="post-excerpt">A guide to implementing governance frameworks that ensure transparency, fairness, and accountability in AI deployments.</p><a class="read-more" href="post-single.php"
+                        title="Ethical AI: Building Trust">read more<i
                           class="bi bi-arrow-right icon "></i></a>
                     </div>
                   </div>

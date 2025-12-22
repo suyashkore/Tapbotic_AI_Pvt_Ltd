@@ -185,8 +185,8 @@
                   <li>Knowledge of machine learning algorithms and techniques</li>
                 </ul>
               </div>
-              <div class="job-footer">
-                <a href="mailto:tapboticai.com?subject=Application for AI/ML Engineer" class="btn-solid">Apply Now</a>
+              <div class="job-footer pb-4">
+                <button class="btn-solid apply-now-btn" data-bs-toggle="modal" data-bs-target="#applyNowModal" data-job-title="AI / ML Engineer">Apply Now</button>
               </div>
             </div>
 
@@ -207,8 +207,8 @@
                   <li>Understanding of software architecture and design patterns</li>
                 </ul>
               </div>
-              <div class="job-footer">
-                <a href="mailto:tapboticai.com?subject=Application for Software Developer" class="btn-solid">Apply Now</a>
+              <div class="job-footer pb-4">
+                <button class="btn-solid apply-now-btn" data-bs-toggle="modal" data-bs-target="#applyNowModal" data-job-title="Software Developer">Apply Now</button>
               </div>
             </div>
 
@@ -229,8 +229,8 @@
                   <li>Strong problem-solving and analytical skills</li>
                 </ul>
               </div>
-              <div class="job-footer">
-                <a href="mailto:tapboticai.com?subject=Application for Automation Engineer" class="btn-solid">Apply Now</a>
+              <div class="job-footer pb-4">
+                <button class="btn-solid apply-now-btn" data-bs-toggle="modal" data-bs-target="#applyNowModal" data-job-title="Automation Engineer">Apply Now</button>
               </div>
             </div>
 
@@ -251,8 +251,8 @@
                   <li>Knowledge of CI/CD tools (Jenkins, GitLab CI, GitHub Actions)</li>
                 </ul>
               </div>
-              <div class="job-footer">
-                <a href="mailto:tapboticai.com?subject=Application for Cloud & DevOps Engineer" class="btn-solid">Apply Now</a>
+              <div class="job-footer pb-4">
+                <button class="btn-solid apply-now-btn" data-bs-toggle="modal" data-bs-target="#applyNowModal" data-job-title="Cloud & DevOps Engineer">Apply Now</button>
               </div>
             </div>
 
@@ -273,8 +273,8 @@
                   <li>Familiarity with testing frameworks and automation tools</li>
                 </ul>
               </div>
-              <div class="job-footer">
-                <a href="mailto:tapboticai.com?subject=Application for QA & Security Analyst" class="btn-solid">Apply Now</a>
+              <div class="job-footer pb-4">
+                <button class="btn-solid apply-now-btn" data-bs-toggle="modal" data-bs-target="#applyNowModal" data-job-title="QA & Security Analyst">Apply Now</button>
               </div>
             </div>
           </div>
@@ -417,7 +417,7 @@
             <div class="info-icon"><i class="bi bi-telephone"></i></div>
             <div class="info-content">
               <h4>Phone</h4>
-              <p><a href="tel:+91XXXXXXXXXX">+91-XXXXXXXXXX</a></p>
+              <p><a href="tel:+917066067737">+91-7066067737</a></p>
             </div>
           </div>
         </div>
@@ -429,6 +429,82 @@
     </div>
   </section>
   <!-- End Contact Us Section-->
+
+  <!-- Start Apply Now Modal-->
+  <div class="modal fade" id="applyNowModal" tabindex="-1" aria-labelledby="applyNowModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content text-dark">
+        <div class="modal-header">
+          <h5 class="modal-title" id="applyNowModalLabel">Apply for Position</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="contact-form-inputs">
+            <div class="custom-form-area input-boxed">
+              <!--Form To have user messages-->
+              <form class="main-form" id="career-application-form" action="php/send-career-mail.php" method="post" enctype="multipart/form-data">
+                <span class="done-msg"></span>
+                <div class="row">
+                  <div class="col-12 col-lg-6">
+                    <div class="input-wrapper">
+                      <input class="text-input" id="applicant-name" name="ApplicantName" type="text" required/>
+                      <label class="input-label" for="applicant-name"> Full Name <span class="req">*</span></label>
+                      <span class="b-border"></span>
+                      <span class="error-msg"></span>
+                    </div>
+                  </div>
+                  <div class="col-12 col-lg-6">
+                    <div class="input-wrapper">
+                      <input class="text-input" id="applicant-email" name="ApplicantEmail" type="email" required/>
+                      <label class="input-label" for="applicant-email"> E-mail <span class="req">*</span></label>
+                      <span class="b-border"></span>
+                      <span class="error-msg"></span>
+                    </div>
+                  </div>
+                  <div class="col-12 col-lg-6">
+                    <div class="input-wrapper">
+                      <input class="text-input" id="applicant-phone" name="ApplicantPhone" type="text" required/>
+                      <label class="input-label" for="applicant-phone"> Phone <span class="req">*</span></label>
+                      <span class="b-border"></span>
+                      <span class="error-msg"></span>
+                    </div>
+                  </div>
+                  <div class="col-12 col-lg-6">
+                    <div class="input-wrapper">
+                      <input class="text-input" id="applicant-position" name="ApplicantPosition" type="text" readonly />
+                      <label class="input-label" for="applicant-position"> Position Applying For <span class="req">*</span></label>
+                      <span class="b-border"></span>
+                      <span class="error-msg"></span>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="input-wrapper">
+                      <label for="applicant-resume" style="display: block; margin-bottom: .5rem; font-weight: 600; color: #4d4d4d;"> Upload Resume <span class="req">*</span></label>
+                      <input class="text-input" id="applicant-resume" name="ApplicantResume" type="file" accept=".pdf,.doc,.docx" required style="padding: 10px;"/>
+                      <span class="error-msg"></span>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="input-wrapper">
+                      <textarea class="text-input" id="cover-letter" name="CoverLetter"></textarea>
+                      <label class="input-label" for="cover-letter"> Cover Letter</label>
+                      <span class="b-border"></span>
+                      <i></i>
+                      <span class="error-msg"></span>
+                    </div>
+                  </div>
+                  <div class="col-12 submit-wrapper">
+                    <button class="btn-solid" id="submit-application-btn" type="submit" name="ApplicantSubmit">Submit Application</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Apply Now Modal-->
 
   <!-- Start page-footer Section-->
   <footer class="page-footer dark-color-footer" id="page-footer">
@@ -521,6 +597,26 @@
   <script src="js/vendors/isotope-min.js"></script>
   <!-- main -->
   <script src="js/main.js"></script>
+
+  <script>
+    // Handle Career Application Modal
+    const applyNowModal = document.getElementById('applyNowModal');
+    if (applyNowModal) {
+      applyNowModal.addEventListener('show.bs.modal', function (event) {
+        // Button that triggered the modal
+        const button = event.relatedTarget;
+        // Extract info from data-job-title attribute
+        const jobTitle = button.getAttribute('data-job-title');
+        // Update the modal's content.
+        const modalPositionInput = applyNowModal.querySelector('#applicant-position');
+        const modalTitle = applyNowModal.querySelector('.modal-title');
+
+        modalTitle.textContent = 'Apply for: ' + jobTitle;
+        modalPositionInput.value = jobTitle;
+        modalPositionInput.parentElement.classList.add('has-text');
+      });
+    }
+  </script>
 </body>
 
 </html>

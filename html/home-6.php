@@ -452,27 +452,45 @@
               
               
               -->
-              <div class="swiper-slide">
-                <div class="client-logo  "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/1-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/2-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/3-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/4-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/5-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/6-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/7-white.png" alt=" "></a></div>
-              </div>
+                 <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/9-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/10-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/11-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/12-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/13-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/14-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/15-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/16-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/17-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/18-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/19-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/20-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/21-white.png" alt="Client Logo"></a></div>
+            </div>
             </div>
           </div>
         </div>

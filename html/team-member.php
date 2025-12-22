@@ -35,7 +35,7 @@
         
         <!-- main-LTR -->
         <link rel="stylesheet" href="css/main-LTR.css">
-        <title> Tapbotic AI Pvt Ltd   |   team member</title>
+        <title> Tapbotic AI Pvt Ltd   |   Mr.Sunil Shukla</title>
   </head>
   <body class=" dark-theme "> 
     <!--Start Page Header-->
@@ -91,11 +91,11 @@
       <div class="overlay-color" data-bg-opacity=".75"></div>
       <div class="container">
         <div class="hero-text-area centerd">
-          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">team member</h1>
+          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">Mr.Sunil Shukla</h1>
           <nav aria-label="breadcrumb ">
             <ul class="breadcrumb wow fadeInUp" data-wow-delay=".6s">
               <li class="breadcrumb-item"><a class="breadcrumb-link" href="#0"><i class="bi bi-house icon "></i>home</a></li>
-              <li class="breadcrumb-item active">team member</li>
+              <li class="breadcrumb-item active">Our Leadership</li>
             </ul>
           </nav>
         </div>
@@ -108,68 +108,62 @@
         <div class="row">
           <div class="col-12 col-lg-9">
             <div class="tm-description">
-              <h3 class="tm-title">Biography Overview.</h3>
-              <p class="tm-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque hic praesentium, amet iste commodi et placeat, impedit aut veniam maxime laudantium tempore ipsum quod mollitia alias fugiat quis pariatur quidem magnam eaque eligendi?</p>
-              <p class="tm-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero iusto perspiciatis a modi nisi magnam maiores dolores aspernatur eveniet possimus, natus sed impedit quam eligendi velit sunt recusandae dolorum corrupti!</p>
-              <p class="tm-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ipsa et voluptatibus possimus, recusandae tempore consequatur necessitatibus vitae quia suscipit quidem ex. Harum reprehenderit recusandae cumque magnam atque sunt repellat saepe eius nihil expedita. Repudiandae quidem dolore rerum soluta id?</p>
-              <h3 class="tm-title">my certificates!  </h3>
-              <div class="certificates"> 
-                <div class="row">
-                  <div class="col-12 col-md-6 mx-auto mb-3 mb-lg-0"><img class="img-fluid" loading="lazy" src="assets/images/our-team/cert-1.jpg" alt="cert"></div>
-                  <div class="col-12 col-md-6 mx-auto"><img class="img-fluid" loading="lazy" src="assets/images/our-team/cert-2.jpg" alt="cert"></div>
-                </div>
-              </div>
-              <h3 class="tm-title">my skills</h3>
+              <h3 class="tm-title">Director's Profile</h3>
+              <p class="tm-text">As a Director and co-founder of Tapbotic AI Pvt Ltd, Mr.Sunil Shukla is a driving force behind the company's vision to revolutionize enterprise automation and artificial intelligence. With a deep-rooted expertise in data strategy and AI architecture, he leads initiatives that transform complex business challenges into scalable, intelligent technology solutions.</p>
+              <p class="tm-text">Sunil is passionate about helping organizations unlock the strategic value of their data. He champions an architecture-first approach, ensuring that every solution is built on a foundation of security, scalability, and long-term resilience. His leadership is instrumental in guiding clients through their digital transformation journeys, from initial concept to enterprise-wide deployment.</p>
+              <p class="tm-text">Under his guidance, Tapbotic AI has established itself as a trusted partner for corporations and institutions, delivering mission-critical systems that are both innovative and compliant. He is committed to fostering a culture of excellence and responsible innovation within the company.</p>
+              
+              <h3 class="tm-title">Core Competencies</h3>
               <div class="skills">
                 <div class="skill">
-                  <div class="skill-data"><span class="skill-name"> web development</span><span class="skill-value">85% </span></div>
+                  <div class="skill-data"><span class="skill-name">AI & Machine Learning</span><span class="skill-value">95% </span></div>
                   <div class="skill-bar"> 
-                    <div class="bar" data-skill-val="85"></div>
+                    <div class="bar" data-skill-val="95"></div>
                   </div>
                 </div>
                 <div class="skill">
-                  <div class="skill-data"><span class="skill-name"> ecommerce </span><span class="skill-value">70% </span></div>
-                  <div class="skill-bar"> 
-                    <div class="bar" data-skill-val="70"></div>
-                  </div>
-                </div>
-                <div class="skill">
-                  <div class="skill-data"><span class="skill-name"> mobile apps</span><span class="skill-value">90% </span></div>
+                  <div class="skill-data"><span class="skill-name">Enterprise Architecture</span><span class="skill-value">90% </span></div>
                   <div class="skill-bar"> 
                     <div class="bar" data-skill-val="90"></div>
                   </div>
                 </div>
                 <div class="skill">
-                  <div class="skill-data"><span class="skill-name"> data analysis</span><span class="skill-value">100% </span></div>
+                  <div class="skill-data"><span class="skill-name">Data Strategy & Governance</span><span class="skill-value">98% </span></div>
                   <div class="skill-bar"> 
-                    <div class="bar" data-skill-val="100"></div>
+                    <div class="bar" data-skill-val="98"></div>
                   </div>
                 </div>
                 <div class="skill">
-                  <div class="skill-data"><span class="skill-name"> cloud computing</span><span class="skill-value">75% </span></div>
+                  <div class="skill-data"><span class="skill-name">Automation & RPA</span><span class="skill-value">85% </span></div>
                   <div class="skill-bar"> 
-                    <div class="bar" data-skill-val="75"></div>
+                    <div class="bar" data-skill-val="85"></div>
+                  </div>
+                </div>
+                <div class="skill">
+                  <div class="skill-data"><span class="skill-name">Cloud Strategy (AWS, Azure, GCP)</span><span class="skill-value">88% </span></div>
+                  <div class="skill-bar"> 
+                    <div class="bar" data-skill-val="88"></div>
                   </div>
                 </div>
               </div>
-              <h3 class="tm-title">Work &amp; speciality  fields </h3>
+              <h3 class="tm-title">Areas of Speciality</h3>
               <ul class="tm-list  ">
-                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>amet consectetur adipisicin geius nihil </span></li>
-                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Lorem ipsum dolor sit amet</span></li>
-                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>eius nihil expedita. Repudiandae quidem </span></li>
-                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Lorem, ipsum dolor.Repudiandae quidem expedita.</span></li>
-                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Lorem, ipsum dolor. </span></li>
-                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Lorem ipsum dolor sit amet.quidem</span></li>
+                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Leading Enterprise AI & Automation Strategy</span></li>
+                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Designing Scalable and Secure System Architectures</span></li>
+                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Implementing Data Governance and Management Frameworks</span></li>
+                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Driving Digital Transformation Initiatives for Large-Scale Enterprises</span></li>
+                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Advising on Technology Roadmaps and Innovation</span></li>
+                <li class="list-item "><i class="bi bi-check2-circle icon"></i><span>Overseeing Complex Software Engineering and Cloud Projects</span></li>
               </ul>
-              <p class="tm-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero iusto perspiciatis a modi nisi magnam maiores dolores aspernatur eveniet possimus, natus sed impedit quam eligendi velit sunt recusandae dolorum corrupti!</p>
-              <p class="tm-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ipsa et voluptatibus possimus, recusandae tempore consequatur necessitatibus vitae quia suscipit quidem ex. Harum reprehenderit recusandae cumque magnam atque sunt repellat saepe eius nihil expedita. Repudiandae quidem dolore rerum soluta id?</p>
+              <p class="tm-text">Sunil's work focuses on the intersection of business strategy and advanced technology. He believes that the most effective digital solutions are those that are deeply integrated with an organization's core objectives, enabling not just efficiency gains but also creating new avenues for growth and competitive advantage.</p>
+              <p class="tm-text">He is a strong advocate for ethical AI and data privacy, ensuring that Tapbotic AI's solutions adhere to the highest standards of governance and corporate responsibility. His forward-thinking approach continues to shape the company's trajectory as a leader in the enterprise technology landscape.</p>
             </div>
           </div>
           <div class="col-12  col-lg-3 mx-auto ">
             <div class="profile ">
               <div class="tm-img  "><img class=" img-fluid " loading="lazy" src="assets/images/our-team/1.jpg" alt="Team Member"></div>
               <div class="tm-details">
-                <h6 class="name">Maya bork</h6><span class="role">tech team leader  </span>
+                <h6 class="name">Mr.Sunil Shukla</h6><span class="role">Director</span>
               </div>
               <div class="tm-social">
                 <div class="sc-wrapper dir-row sc-size-40">
@@ -182,7 +176,7 @@
                 </div>
               </div>
               <!--Start see-more-area-->
-              <div class="see-more-area  "><a class=" btn-solid" href="#0">download resume</a></div>
+              <div class="see-more-area  "><a class=" btn-solid" href="contact-us.php">Contact Sunil</a></div>
             </div>
           </div>
         </div>

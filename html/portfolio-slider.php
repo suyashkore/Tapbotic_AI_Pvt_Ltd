@@ -106,10 +106,10 @@
     <section class="portfolio portfolio-slider    mega-section" id="portfolio">
       <div class="container">
         <div class="sec-heading  ">
-          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">portfolio</span>
-            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Awesome <span class='hollow-text'>portfolio</span></h2>
+          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Our Work</span>
+            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Featured <span class='hollow-text'>Projects</span></h2>
           </div>
-          <div class=" cta-area   wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid    " href="portfolio-slider.php">see more <i class="bi bi-arrow-right icon "></i></a></div>
+          <div class=" cta-area   wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid    " href="portfolio-grid.php">View All <i class="bi bi-arrow-right icon "></i></a></div>
         </div>
         <!--Swiper-->
         <div class="swiper-container wow fadeIn" data-wow-delay=".5s">
@@ -117,42 +117,42 @@
             <div class="swiper-slide">
               <div class="item   "><a class="portfolio-img-link" href="portfolio-single.php"><img class="portfolio-img   img-fluid " loading="lazy" src="assets/images/portfolio/1.jpg" alt="portfolio item photo"/></a>
                 <div class="item-info ">
-                  <h3 class="item-title">mobile apps</h3><i class="bi bi-arrow-right icon "></i>
+                  <h3 class="item-title">AI-Powered Logistics Platform</h3><i class="bi bi-arrow-right icon "></i>
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="item   "><a class="portfolio-img-link" href="portfolio-single.php"><img class="portfolio-img   img-fluid " loading="lazy" src="assets/images/portfolio/2.jpg" alt="portfolio item photo"/></a>
                 <div class="item-info ">
-                  <h3 class="item-title">cloud</h3><i class="bi bi-arrow-right icon "></i>
+                  <h3 class="item-title">Intelligent Document Processing</h3><i class="bi bi-arrow-right icon "></i>
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="item   "><a class="portfolio-img-link" href="portfolio-single.php"><img class="portfolio-img   img-fluid " loading="lazy" src="assets/images/portfolio/3.jpg" alt="portfolio item photo"/></a>
                 <div class="item-info ">
-                  <h3 class="item-title">data analaysis</h3><i class="bi bi-arrow-right icon "></i>
+                  <h3 class="item-title">Cloud-Native ERP System</h3><i class="bi bi-arrow-right icon "></i>
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="item   "><a class="portfolio-img-link" href="portfolio-single.php"><img class="portfolio-img   img-fluid " loading="lazy" src="assets/images/portfolio/4.jpg" alt="portfolio item photo"/></a>
                 <div class="item-info ">
-                  <h3 class="item-title">hosting</h3><i class="bi bi-arrow-right icon "></i>
+                  <h3 class="item-title">RPA for Financial Auditing</h3><i class="bi bi-arrow-right icon "></i>
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="item   "><a class="portfolio-img-link" href="portfolio-single.php"><img class="portfolio-img   img-fluid " loading="lazy" src="assets/images/portfolio/5.jpg" alt="portfolio item photo"/></a>
                 <div class="item-info ">
-                  <h3 class="item-title">SEO</h3><i class="bi bi-arrow-right icon "></i>
+                  <h3 class="item-title">Predictive Maintenance Solution</h3><i class="bi bi-arrow-right icon "></i>
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="item   "><a class="portfolio-img-link" href="portfolio-single.php"><img class="portfolio-img   img-fluid " loading="lazy" src="assets/images/portfolio/6.jpg" alt="portfolio item photo"/></a>
                 <div class="item-info ">
-                  <h3 class="item-title">other category</h3><i class="bi bi-arrow-right icon "></i>
+                  <h3 class="item-title">Cybersecurity Threat Intelligence</h3><i class="bi bi-arrow-right icon "></i>
                 </div>
               </div>
             </div>
@@ -175,8 +175,8 @@
       <div class="overlay-photo-image-bg parallax " data-bg-img="assets/images/sections-bg-images/1.jpg" data-bg-opacity=".25"> </div>
       <div class="container">
         <div class="sec-heading  centered ">
-          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">testimonials</span>
-            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">customers <span class='hollow-text'>testmonials</span></h2>
+          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Leadership</span>
+            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Meet Our <span class='hollow-text'>Directors</span></h2>
           </div>
         </div>
         <div class="row d-flex align-items-center">
@@ -190,13 +190,13 @@
                       <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
-                          <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.</p>
+                          <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
                         </div>
                       </div>
                       <div class="customer-info ">
                         <div class="customer-details">
-                          <p class="customer-name">Yusuf amin</p>
-                          <p class="customer-role">founder</p>
+                          <p class="customer-name">Mr.Sunil Shukla</p>
+                          <p class="customer-role">Director</p>
                         </div>
                       </div>
                     </div>
@@ -209,32 +209,13 @@
                       <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
                       <div class="customer-testimonial">
                         <div class="content">
-                          <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.</p>
+                          <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>
                         </div>
                       </div>
                       <div class="customer-info ">
                         <div class="customer-details">
-                          <p class="customer-name">fouad osman</p>
-                          <p class="customer-role">officer</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!--third Slide-->
-                <div class="swiper-slide">
-                  <div class="testmonial-card d-flex align-items-center justify-content-center">
-                    <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/3.png" alt="First Slide "></div>
-                      <div class="customer-testimonial">
-                        <div class="content">
-                          <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.            </p>
-                        </div>
-                      </div>
-                      <div class="customer-info ">
-                        <div class="customer-details">
-                          <p class="customer-name">fairouz mhmd</p>
-                          <p class="customer-role">manager</p>
+                          <p class="customer-name">Mrs.Shweta Shukla</p>
+                          <p class="customer-role">Director</p>
                         </div>
                       </div>
                     </div>
@@ -271,27 +252,45 @@
               
               
               -->
-              <div class="swiper-slide">
-                <div class="client-logo  "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/1-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/2-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/3-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/4-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/5-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/6-white.png" alt=" "></a></div>
-              </div>
-              <div class="swiper-slide">
-                <div class="client-logo "><a href="#0"><img class="img-fluid logo " loading="lazy" src="assets/images/clients-logos/7-white.png" alt=" "></a></div>
-              </div>
+                 <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/9-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/10-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/11-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/12-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/13-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/14-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/15-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/16-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/17-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/18-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/19-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/20-white.png" alt="Client Logo"></a></div>
+            </div>
+            <div class="swiper-slide">
+              <div class="client-logo"><a href="#0"><img class="img-fluid logo" loading="lazy" src="assets/images/clients-logos/21-white.png" alt="Client Logo"></a></div>
+            </div>
             </div>
           </div>
         </div>
@@ -304,13 +303,13 @@
       <div class="cta-wrapper">
         <div class="container">
           <div class="sec-heading  centered mb-0 ">
-            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">contact us</span>
-              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">get in totch with us</h2>
-              <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit Omnis <br>id atque  dignissimos repellat quae ullam.</p>
+            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Start a Conversation</span>
+              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Ready to Build Your Next-Gen Platform?</h2>
+              <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Partner with us to leverage enterprise-grade AI and automation. Schedule a consultation to discuss your project requirements with our experts.</p>
             </div>
           </div>
           <!--Start .see-more-area-->
-          <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">contact us</a></div>
+          <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
           <!--End Of .see-more-area        -->
         </div>
       </div>

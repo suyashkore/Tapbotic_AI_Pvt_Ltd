@@ -159,8 +159,8 @@
           <div class="box service-box wow fadeInUp reveal-start" data-wow-offset="0" data-wow-delay=".1s">
             <div class="service-icon"><i class="flaticon-web-development font-icon"></i></div><span class="service-num hollow-text">1</span>
             <div class="service-content">
-              <h3 class="service-title">web development</h3>
-              <p class="service-text">Custom web applications built with modern frameworks and technologies, delivering seamless user experiences and robust functionality.</p>
+              <h3 class="service-title">AI-Enhanced Web Apps</h3>
+              <p class="service-text">Building intelligent, responsive web applications integrated with AI capabilities for superior user engagement and operational efficiency.</p>
             </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
@@ -168,8 +168,8 @@
           <div class="box service-box wow fadeInUp reveal-start" data-wow-offset="0" data-wow-delay=".2s">
             <div class="service-icon"><i class="flaticon-nanotechnology font-icon"></i></div><span class="service-num hollow-text">2</span>
             <div class="service-content">
-              <h3 class="service-title">Digital Marketing</h3>
-              <p class="service-text">Data-driven digital marketing strategies that enhance brand visibility, engage audiences, and drive measurable business growth.</p>
+              <h3 class="service-title">Marketing Automation</h3>
+              <p class="service-text">Leveraging AI algorithms to optimize marketing campaigns, personalize customer interactions, and maximize ROI through data-driven strategies.</p>
             </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
@@ -177,8 +177,8 @@
           <div class="box service-box wow fadeInUp reveal-start" data-wow-offset="0" data-wow-delay=".3s">
             <div class="service-icon"><i class="flaticon-web-domain font-icon"></i></div><span class="service-num hollow-text">3</span>
             <div class="service-content">
-              <h3 class="service-title">SaaS products</h3>
-              <p class="service-text">Scalable software-as-a-service solutions designed for efficiency, security, and seamless cloud deployment.</p>
+              <h3 class="service-title">Enterprise SaaS Solutions</h3>
+              <p class="service-text">Developing robust, scalable, and secure Software-as-a-Service platforms tailored to streamline complex business processes.</p>
             </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
@@ -186,8 +186,8 @@
           <div class="box service-box wow fadeInUp reveal-start" data-wow-offset="0" data-wow-delay=".4s">
             <div class="service-icon"><i class="flaticon-profile font-icon"></i></div><span class="service-num hollow-text">4</span>
             <div class="service-content">
-              <h3 class="service-title">Apps development</h3>
-              <p class="service-text">Native and cross-platform mobile applications that deliver exceptional performance and user engagement.</p>
+              <h3 class="service-title">Smart Mobile Solutions</h3>
+              <p class="service-text">Creating next-generation mobile apps with embedded machine learning features, ensuring high performance across iOS and Android platforms.</p>
             </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
@@ -195,8 +195,8 @@
           <div class="box service-box wow fadeInUp reveal-start" data-wow-offset="0" data-wow-delay=".5s">
             <div class="service-icon"><i class="flaticon-search font-icon"></i></div><span class="service-num hollow-text">5</span>
             <div class="service-content">
-              <h3 class="service-title">SEO services</h3>
-              <p class="service-text">Strategic search engine optimization to improve rankings, increase organic traffic, and maximize online visibility.</p>
+              <h3 class="service-title">AI-Driven SEO</h3>
+              <p class="service-text">Utilizing advanced analytics and AI tools to uncover high-value keywords, optimize content, and boost organic search rankings.</p>
             </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
@@ -204,8 +204,8 @@
           <div class="box service-box wow fadeInUp reveal-start" data-wow-offset="0" data-wow-delay=".6s">
             <div class="service-icon"><i class="flaticon-strategy font-icon"></i></div><span class="service-num hollow-text">6</span>
             <div class="service-content">
-              <h3 class="service-title">data analysis</h3>
-              <p class="service-text">Transform raw data into actionable insights with advanced analytics, visualization, and business intelligence solutions.</p>
+              <h3 class="service-title">Predictive Analytics</h3>
+              <p class="service-text">Transforming raw data into strategic assets using advanced statistical models and machine learning to forecast trends and drive decisions.</p>
             </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
@@ -407,59 +407,67 @@
   <!-- End Technologies Section-->
 
   <!-- Start testimonials-->
-  <section class="testimonials testimonials-1-col mega-section" id="testimonials">
+  <section class="testimonials testimonials-1-col   has-dark-bg  mega-section " id="testimonials-img-bg">
+    <div class="overlay-photo-image-bg parallax " data-bg-img="assets/images/sections-bg-images/1.jpg"
+      data-bg-opacity=".25"> </div>
     <div class="container">
-      <div class="sec-heading centered">
-        <div class="content-area"><span class="pre-title wow fadeInUp" data-wow-delay=".2s">testimonials</span>
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s">Client <span class='hollow-text'>Testimonials</span></h2>
+      <div class="sec-heading  centered ">
+        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Leadership</span>
+          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Meet Our <span class='hollow-text'>Directors</span>
+          </h2>
         </div>
       </div>
       <div class="row d-flex align-items-center">
-        <div class="col-12 col-md-10 mx-auto">
-          <div class="swiper-container wow fadeInUp" data-wow-delay="0.2s">
+        <div class="col-12 col-md-10  mx-auto">
+          <div class="swiper-container  wow fadeInUp  " data-wow-delay="0.2s">
             <div class="swiper-wrapper">
-              <div class="swiper-slide">
-                <div class="testmonial-card d-flex align-items-center justify-content-center">
-                  <div class="testimonial-content">
-                    <div class="customer-img"><img class="img-fluid" loading="lazy" src="assets/images/testimonials/1.png" alt="Enterprise Client"></div>
-                    <div class="customer-testimonial">
-                      <div class="content">
-                        <p class="testimonial-text">Professional team with strong AI and software expertise. They delivered our mobile app on time and exceeded our expectations.</p>
+               <!--First Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.png" alt="First Slide "></div>
+                      <div class="customer-testimonial">
+                        <div class="content">
+                          <p class="testimonial-text ">"Leading Tapbotic AI with a vision to revolutionize enterprise automation and artificial intelligence solutions. We are committed to delivering excellence and innovation."</p>
+                        </div>
+                      </div>
+                      <div class="customer-info ">
+                        <div class="customer-details">
+                          <p class="customer-name">Mr.Sunil Shukla</p>
+                          <p class="customer-role">Director</p>
+                        </div>
                       </div>
                     </div>
-                    <div class="customer-info">
-                      <div class="customer-details">
-                        <p class="customer-name">Startup Founder</p>
-                        <p class="customer-role">CEO, Tech Startup</p>
+                  </div>
+                </div>
+                <!--Second Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.png" alt="First Slide "></div>
+                      <div class="customer-testimonial">
+                        <div class="content">
+                          <p class="testimonial-text ">"Dedicated to building secure, scalable, and compliant digital platforms. Our goal is to empower businesses through cutting-edge technology and strategic leadership."</p>
+                        </div>
+                      </div>
+                      <div class="customer-info ">
+                        <div class="customer-details">
+                          <p class="customer-name">Mrs.Shweta Shukla</p>
+                          <p class="customer-role">Director</p>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="swiper-slide">
-                <div class="testmonial-card d-flex align-items-center justify-content-center">
-                  <div class="testimonial-content">
-                    <div class="customer-img"><img class="img-fluid" loading="lazy" src="assets/images/testimonials/3.png" alt="Business Owner"></div>
-                    <div class="customer-testimonial">
-                      <div class="content">
-                        <p class="testimonial-text">The cloud migration was seamless and our systems are now more secure and scalable. Highly recommend their services.</p>
-                      </div>
-                    </div>
-                    <div class="customer-info">
-                      <div class="customer-details">
-                        <p class="customer-name">Business Owner</p>
-                        <p class="customer-role">Director, E-commerce</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            <!--navigation buttons-->
             <div class="swiper-button-prev">
-              <div class="left-arrow"><i class="bi bi-chevron-left icon"></i></div>
+              <div class="left-arrow"><i class="bi bi-chevron-left icon "></i>
+              </div>
             </div>
             <div class="swiper-button-next">
-              <div class="right-arrow"><i class="bi bi-chevron-right icon"></i></div>
+              <div class="right-arrow"><i class="bi bi-chevron-right icon "></i>
+              </div>
             </div>
           </div>
         </div>

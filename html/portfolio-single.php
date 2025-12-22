@@ -35,7 +35,7 @@
         
         <!-- main-LTR -->
         <link rel="stylesheet" href="css/main-LTR.css">
-        <title> Tapbotic AI Pvt Ltd   |   Portfolio  single</title>
+        <title> Tapbotic AI Pvt Ltd   |   Project Details</title>
   </head>
   <body class=" dark-theme "> 
     <!--Start Page Header-->
@@ -91,11 +91,11 @@
       <div class="overlay-color" data-bg-opacity=".75"></div>
       <div class="container">
         <div class="hero-text-area centerd">
-          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">Portfolio  single</h1>
+          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">Project Details</h1>
           <nav aria-label="breadcrumb ">
             <ul class="breadcrumb wow fadeInUp" data-wow-delay=".6s">
               <li class="breadcrumb-item"><a class="breadcrumb-link" href="#0"><i class="bi bi-house icon "></i>home</a></li>
-              <li class="breadcrumb-item active">Portfolio single</li>
+              <li class="breadcrumb-item active">Project Details</li>
             </ul>
           </nav>
         </div>
@@ -116,24 +116,7 @@
           <div class="row">
             <div class="col-12 col-lg-9  ">
               <h5 class="sub-heading ">project goals</h5>
-              <p class="project-text">
-                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Ullam unde, alias deserunt nemo perspiciatis cum delectus
-                deleniti repudiandae aliquam exercitationem veniam ipsam 
-                incidunt sequi ipsum tenetur.
-                Consequuntur dolorum suscipit eos.
-              </p>
-              <p class="project-text">
-                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Ullam unde, alias deserunt nemo perspiciatis cum delectus
-                deleniti repudiandae aliquam exercitationem veniam ipsam 
-                incidunt sequi ipsum tenetur.
-                Consequuntur dolorum suscipit eos.
-                deleniti repudiandae aliquam exercitationem veniam ipsam 
-                incidunt sequi ipsum tenetur.
-                Consequuntur dolorum suscipit eos.
-                
-              </p>
+              <p class="project-text">The primary goal was to develop a centralized, AI-driven platform to modernize Global Logistics Corp's supply chain operations. Key objectives included optimizing route planning, improving demand forecasting accuracy, and providing real-time visibility across their entire logistics network to reduce operational costs and enhance delivery efficiency.</p>
               <div class="project-video mega-section ">
                 <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/pattern-bg-4.jpg" data-bg-opacity="1"></div>
                 <div class="overlay-color " data-bg-opacity=".25"></div>
@@ -145,30 +128,17 @@
                 </div>
               </div>
               <h5 class="sub-heading ">project overview</h5>
-              <p class="project-text">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Ullam unde, alias deserunt nemo perspiciatis cum delectus
-                deleniti repudiandae aliquam exercitationem veniam ipsam 
-                
-              </p>
-              <p class="project-text">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Ullam unde, alias deserunt nemo perspiciatis cum delectus
-                deleniti repudiandae aliquam exercitationem veniam ipsam 
-                incidunt sequi ipsum tenetur.
-                Consequuntur dolorum suscipit eos.
-                deleniti repudiandae aliquam exercitationem veniam ipsam 
-                
-                
-              </p>
+              <p class="project-text">We engineered a scalable, cloud-native enterprise platform that integrates with existing ERP and fleet management systems. The solution leverages machine learning models for predictive analytics on transit times and demand fluctuations.</p>
+              <p class="project-text">A central dashboard provides stakeholders with real-time data visualization, alerts, and actionable insights, transforming their reactive process into a proactive, data-driven operation.</p>
               <div class="row align-items-center py-5">
                 <div class="col-12 col-lg-6">   
                   <h5 class="sub-heading ">project steps</h5>
                   <ul class="list steps">
-                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>ipsum dolor sit amet consectetur adipisicing</span></li>
-                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>quas, ea fuga vel quis officiis laborum quaerat </span></li>
-                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>alias fugiat aliquam  soluta beatae numquam</span></li>
-                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>nobis maiores inventore harum pariatur  possimus</span></li>
+                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>Discovery & Requirement Analysis</span></li>
+                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>Cloud-Native Architecture Design</span></li>
+                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>AI/ML Model Development & Training</span></li>
+                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>Full-Stack Platform Engineering</span></li>
+                    <li class="list-item step"><i class="bi bi-check2 icon"></i><span>System Integration & Deployment</span></li>
                   </ul>
                 </div>
                 <div class="col-12 col-lg-6"> 
@@ -176,12 +146,7 @@
                 </div>
               </div>
               <h5 class="sub-heading ">project results</h5>
-              <p class="project-text">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Ullam unde, alias deserunt nemo perspiciatis cum delectus
-                deleniti repudiandae aliquam exercitationem veniam ipsam deleniti repudiandae aliqua
-                
-              </p>
+              <p class="project-text">The deployment of the platform resulted in a 25% improvement in route optimization, a 40% increase in demand forecasting accuracy, and a significant reduction in manual reporting efforts. The client gained unprecedented end-to-end visibility, enabling smarter, faster, and more cost-effective logistics management.</p>
               <div class="portfolio  portfolio-slider">
                 <!--Swiper-->
                 <div class="swiper-container wow fadeIn" data-wow-delay=".5s">
@@ -247,25 +212,25 @@
                   <div class="row">
                     <div class="col-6 col-lg-12">
                       <div class="info">
-                        <h5 class="title"> client</h5>
-                        <p class="detail">amin themes</p><i class="fas fa-address-card icon"></i>
+                        <h5 class="title">Client</h5>
+                        <p class="detail">Global Logistics Corp</p><i class="fas fa-address-card icon"></i>
                       </div>
                     </div>
                     <div class="col-6 col-lg-12">
                       <div class="info">
                         <h5 class="title">category</h5>
-                        <p class="detail">Web Development</p><i class="fas fa-tasks icon"></i>
+                        <p class="detail">AI & Enterprise Software</p><i class="fas fa-tasks icon"></i>
                       </div>
                     </div>
                     <div class="col-6 col-lg-12">
                       <div class="info">
                         <h5 class="title">date</h5>
-                        <p class="detail">30/1/2022</p><i class="fas fa-calendar-alt icon"></i>
+                        <p class="detail">15/05/2023</p><i class="fas fa-calendar-alt icon"></i>
                       </div>
                     </div>
                     <div class="col-6 col-lg-12">
                       <div class="info">
-                        <h5 class="title">share</h5>
+                        <h5 class="title">Share</h5>
                         <div class="sc-wrapper dir-row sc-size-40">
                            <ul class="sc-list">
                           <li class="sc-item " title="Facebook"><a class="sc-link" href="https://www.facebook.com/profile.php?id=61576857460606" title="social media icon"><i class="fab fa-facebook-f sc-icon"></i></a></li>
@@ -291,13 +256,13 @@
       <div class="cta-wrapper">
         <div class="container">
           <div class="sec-heading  centered mb-0 ">
-            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">contact us</span>
-              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">get in totch with us</h2>
-              <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit Omnis <br>id atque  dignissimos repellat quae ullam.</p>
+            <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Start a Conversation</span>
+              <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Ready to Build Your Next-Gen Platform?</h2>
+              <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Partner with us to leverage enterprise-grade AI and automation. Schedule a consultation to discuss your project requirements with our experts.</p>
             </div>
           </div>
           <!--Start .see-more-area-->
-          <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">contact us</a></div>
+          <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
           <!--End Of .see-more-area        -->
         </div>
       </div>

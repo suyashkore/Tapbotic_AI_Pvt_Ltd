@@ -104,73 +104,97 @@
             <div class="posts-grid">
               <div class="row">
                 <div class="col-12 col-lg-4 ">
-                  <div class="post-box">     <a class="post-link" href="post-single.php" title="How litespeed technology works to speed up your site "> 
-                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/1.jpg" alt=""/><span class="post-date"><span class="day">05 </span>oct 2022     </span></div></a>
+                  <div class="post-box"> <a class="post-link" href="post-single.php" title="Scaling AI: Strategies for Overcoming Data Silos">
+                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/1.jpg" alt="Scaling AI"/>
+                      <!-- <span class="post-date"><span class="day">12 </span>AUG 2024 </span> -->
+                    </div></a>
                     <div class="post-summary">
-                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>hosting</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Allan Moore</a></div>
+                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Data Strategy</a>
+                      <!-- <a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Sunil Shukla</a> -->
+                    </div>
                       <div class="post-text"><a class="post-link" href="post-single.php"> 
-                          <h2 class="post-title"> How litespeed technology works to speed up your site </h2></a>
-                        <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="How litespeed technology works to speed up your site ">read more<i class="bi bi-arrow-right icon "></i></a>
+                          <h2 class="post-title"> Scaling AI: Strategies for Overcoming Data Silos </h2></a>
+                        <p class="post-excerpt">Learn how enterprises are breaking down data barriers to fuel machine learning models and drive unified business intelligence.</p><a class="read-more" href="post-single.php" title="Scaling AI: Strategies for Overcoming Data Silos">read more<i class="bi bi-arrow-right icon "></i></a>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-lg-4 ">         
-                  <div class="post-box">     <a class="post-link" href="post-single.php" title="give your website a new look and feel with themes"> 
-                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/2.jpg" alt=""/><span class="post-date"><span class="day">15 </span>sep 2022     </span></div></a>
+                  <div class="post-box"> <a class="post-link" href="post-single.php" title="Hyperautomation: The Next Frontier of Digital Transformation">
+                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/2.jpg" alt="Hyperautomation"/>
+                      <!-- <span class="post-date"><span class="day">28 </span>JUL 2024 </span> -->
+                    </div></a>
                     <div class="post-summary">
-                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>web dev</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>mhmd amin</a></div>
+                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Automation</a>
+                      <!-- <a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Mrs.Shweta Shukla</a> -->
+                    </div>
                       <div class="post-text"><a class="post-link" href="post-single.php"> 
-                          <h2 class="post-title"> give your website a new look and feel with themes</h2></a>
-                        <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="give your website a new look and feel with themes">read more<i class="bi bi-arrow-right icon "></i></a>
+                          <h2 class="post-title"> Hyperautomation: The Next Frontier of Digital Transformation</h2></a>
+                        <p class="post-excerpt">Discover how combining AI, RPA, and process mining is enabling end-to-end automation of complex business processes.</p><a class="read-more" href="post-single.php" title="Hyperautomation: The Next Frontier of Digital Transformation">read more<i class="bi bi-arrow-right icon "></i></a>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-lg-4 ">         
-                  <div class="post-box">     <a class="post-link" href="post-single.php" title="the role of domain names in SEO world explained "> 
-                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/3.jpg" alt=""/><span class="post-date"><span class="day">27 </span>aug 2022     </span></div></a>
+                  <div class="post-box"> <a class="post-link" href="post-single.php" title="Ethical AI: Building Trust in Automated Decision Systems">
+                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/3.jpg" alt="Ethical AI"/>
+                      <!-- <span class="post-date"><span class="day">15 </span>JUL 2024 </span> -->
+                    </div></a>
                     <div class="post-summary">
-                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>SEO</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>yusuf amin</a></div>
+                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>AI Governance</a>
+                      <!-- <a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Sunil Shukla</a> -->
+                    </div>
                       <div class="post-text"><a class="post-link" href="post-single.php"> 
-                          <h2 class="post-title"> the role of domain names in SEO world explained </h2></a>
-                        <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="the role of domain names in SEO world explained ">read more<i class="bi bi-arrow-right icon "></i></a>
+                          <h2 class="post-title"> Ethical AI: Building Trust in Automated Decision Systems </h2></a>
+                        <p class="post-excerpt">A guide to implementing governance frameworks that ensure transparency, fairness, and accountability in AI deployments.</p><a class="read-more" href="post-single.php" title="Ethical AI: Building Trust in Automated Decision Systems">read more<i class="bi bi-arrow-right icon "></i></a>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-lg-4 ">         
-                  <div class="post-box">     <a class="post-link" href="post-single.php" title="we are able to building your dream website"> 
-                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/4.jpg" alt=""/><span class="post-date"><span class="day">15 </span>aug 2022     </span></div></a>
+                  <div class="post-box"> <a class="post-link" href="post-single.php" title="The Business Impact of Cloud-Native Architecture">
+                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/4.jpg" alt="Cloud Architecture"/>
+                      <!-- <span class="post-date"><span class="day">25 </span>JUN 2024 </span> -->
+                    </div></a>
                     <div class="post-summary">
-                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>design</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>mhmd amin</a></div>
+                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Cloud Architecture</a>
+                      <!-- <a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Mrs.Shweta Shukla</a> -->
+                    </div>
                       <div class="post-text"><a class="post-link" href="post-single.php"> 
-                          <h2 class="post-title"> we are able to building your dream website</h2></a>
-                        <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="we are able to building your dream website">read more<i class="bi bi-arrow-right icon "></i></a>
+                          <h2 class="post-title"> The Business Impact of Cloud-Native Architecture </h2></a>
+                        <p class="post-excerpt">Understand how moving to a cloud-native approach can boost agility, scalability, and cost-efficiency for modern enterprises.</p><a class="read-more" href="post-single.php" title="The Business Impact of Cloud-Native Architecture">read more<i class="bi bi-arrow-right icon "></i></a>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-lg-4 ">         
-                  <div class="post-box">     <a class="post-link" href="post-single.php" title="data analysis and the big impact on industry"> 
-                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/5.jpg" alt=""/><span class="post-date"><span class="day">02 </span>aug 2022     </span></div></a>
+                  <div class="post-box"> <a class="post-link" href="post-single.php" title="From Data to Decisions: A Guide to Enterprise BI">
+                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/5.jpg" alt="Enterprise BI"/>
+                      <!-- <span class="post-date"><span class="day">10 </span>JUN 2024 </span> -->
+                    </div></a>
                     <div class="post-summary">
-                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>features</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>fairouz amin</a></div>
+                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Data & Analytics</a>
+                      <!-- <a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Sunil Shukla</a> -->
+                    </div>
                       <div class="post-text"><a class="post-link" href="post-single.php"> 
-                          <h2 class="post-title"> data analysis and the big impact on industry</h2></a>
-                        <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="data analysis and the big impact on industry">read more<i class="bi bi-arrow-right icon "></i></a>
+                          <h2 class="post-title"> From Data to Decisions: A Guide to Enterprise BI </h2></a>
+                        <p class="post-excerpt">Learn how to build a robust Business Intelligence strategy that turns raw data into actionable insights for smarter decision-making.</p><a class="read-more" href="post-single.php" title="From Data to Decisions: A Guide to Enterprise BI">read more<i class="bi bi-arrow-right icon "></i></a>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12 col-lg-4 ">         
-                  <div class="post-box">     <a class="post-link" href="post-single.php" title="helping others can boost you happiness"> 
-                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/6.jpg" alt=""/><span class="post-date"><span class="day">21 </span>jul 2022     </span></div></a>
+                  <div class="post-box"> <a class="post-link" href="post-single.php" title="Securing the Digital Enterprise: A Proactive Approach">
+                      <div class="post-img-wrapper  "><img class=" parallax-img   post-img" loading="lazy" src="assets/images/blog/post-images/6.jpg" alt="Cybersecurity"/>
+                      <!-- <span class="post-date"><span class="day">28 </span>MAY 2024 </span> -->
+                    </div></a>
                     <div class="post-summary">
-                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>cloud</a><a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>yusuf amin</a></div>
+                      <div class="post-info"><a class="info post-cat" href="#"> <i class="bi bi-bookmark icon"></i>Cybersecurity</a>
+                      <!-- <a class="info post-author" href="#"> <i class=" bi bi-person icon"></i>Mrs.Shweta Shukla</a> -->
+                    </div>
                       <div class="post-text"><a class="post-link" href="post-single.php"> 
-                          <h2 class="post-title"> helping others can boost you happiness</h2></a>
-                        <p class="post-excerpt">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae</p><a class="read-more" href="post-single.php" title="helping others can boost you happiness">read more<i class="bi bi-arrow-right icon "></i></a>
+                          <h2 class="post-title"> Securing the Digital Enterprise: A Proactive Approach </h2></a>
+                        <p class="post-excerpt">Explore modern cybersecurity strategies, from zero-trust architecture to threat intelligence, for protecting critical business assets.</p><a class="read-more" href="post-single.php" title="Securing the Digital Enterprise: A Proactive Approach">read more<i class="bi bi-arrow-right icon "></i></a>
                       </div>
                     </div>
                   </div>
@@ -179,13 +203,8 @@
                   <!--Start pagination-->
                   <nav class="ma-pagination">
                     <ul class="pagination justify-content-center">
-                      <li class="ma-page-item deactive-page-item"><a class="ma-page-link " href="#" title="Previous Page"><i class="bi bi-chevron-left icon "></i></a></li>
+                      <li class="ma-page-item "><a class="ma-page-link " href="#" title="Previous Page"><i class="bi bi-chevron-left icon "></i></a></li>
                       <li class="ma-page-item active"><a class="ma-page-link " href="#">1 </a></li>
-                      <li class="ma-page-item  "><a class="ma-page-link " href="#">2 </a></li>
-                      <li class="ma-page-item  "><a class="ma-page-link " href="#">3 </a></li>
-                      <li class="ma-page-item  "><a class="ma-page-link " href="#">4 </a></li>
-                      <li class="ma-page-item  "><a class="ma-page-link " href="#">5 </a></li>
-                      <li class="ma-page-item  "><a class="ma-page-link " href="#">6 </a></li>
                       <li class="ma-page-item"><a class="ma-page-link" href="#" title="Next Page"><i class="bi bi-chevron-right icon "></i></a></li>
                     </ul>
                   </nav>

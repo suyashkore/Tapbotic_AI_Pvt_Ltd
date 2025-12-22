@@ -197,10 +197,10 @@
             <div class="contact-form-panel">
               <div class="sec-heading centered">
                 <div class="content-area">
-                  <h2 class="title wow fadeInUp" data-wow-delay=".4s">Have Any Questions? Let's Answer Them</h2>
+                  <h2 class="title wow fadeInUp" data-wow-delay=".4s">Let's Talk About Your Project</h2>
                   <p class="subtitle wow fadeInUp" data-wow-delay=".6s">
-                    Fill out the form below and our team will get back to you within 24 hours.
-                  </p>
+                    Fill out the form below, and one of our experts will get back to you to discuss your needs and how we can help.
+                  </p>                  
                 </div>
               </div>
               <div class="contact-form-inputs wow fadeInUp" data-wow-delay=".6s">
@@ -259,8 +259,7 @@
                         </div>
                       </div>
                       <div class="col-12 submit-wrapper">
-                        <button class="btn-solid" id="submit-btn" type="submit" name="UserSubmit">Send Your
-                          Message</button>
+                        <button class="btn-solid" id="submit-btn" type="submit" name="UserSubmit">Submit Request</button>
                       </div>
                     </div>
                   </form>

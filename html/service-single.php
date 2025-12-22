@@ -35,7 +35,7 @@
         
         <!-- main-LTR -->
         <link rel="stylesheet" href="css/main-LTR.css">
-        <title> flex-IT   |   service details</title>
+        <title>Tapbotic AI | AI & Machine Learning Solutions</title>
   </head>
   <body class=" dark-theme "> 
     <!--Start Page Header-->
@@ -91,11 +91,11 @@
       <div class="overlay-color" data-bg-opacity=".75"></div>
       <div class="container">
         <div class="hero-text-area centerd">
-          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">service details</h1>
+          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">AI & Machine Learning Solutions</h1>
           <nav aria-label="breadcrumb ">
             <ul class="breadcrumb wow fadeInUp" data-wow-delay=".6s">
               <li class="breadcrumb-item"><a class="breadcrumb-link" href="#0"><i class="bi bi-house icon "></i>home</a></li>
-              <li class="breadcrumb-item active">service details</li>
+              <li class="breadcrumb-item active">AI & Machine Learning Solutions</li>
             </ul>
           </nav>
         </div>
@@ -112,9 +112,9 @@
               <div class="featured-img-area part"><img class="feat-img img-fluid" src="assets/images/services/service-single-featured-img.jpg" alt="featured image"></div>
               <div class="service-content">
                 <div class="part">
-                  <h2 class="service-title">Information Security services we offer</h2>
-                  <p class="service-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quidem debitis ad dolorum assumenda exercitationem fuga sequi, sit repellat fugit voluptate numquam animi in quos, voluptas culpa! Nobis dolorum ut tempora nam molestiae velit nostrum! Voluptas velit accusamus alias odio?</p>
-                  <p class="service-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quidem debitis ad dolorum assumenda exercitationem fuga sequi, sit repellat fugit voluptate numquam animi in quos, voluptas culpa! Nobis dolorum ut tempora nam molestiae </p>
+                  <h2 class="service-title">Our AI & Machine Learning Services</h2>
+                  <p class="service-text">At Tapbotic AI, we harness the power of Artificial Intelligence and Machine Learning to build intelligent solutions that drive business growth and efficiency. Our team of experts develops custom models and integrates AI into your existing systems to solve complex challenges.</p>
+                  <p class="service-text">From predictive analytics and natural language processing to computer vision and deep learning, we offer a comprehensive suite of services. We help you unlock valuable insights from your data, automate processes, and create innovative products and services that give you a competitive edge.</p>
                 </div>
                 <div class="part">
                   <div class="two-cols-img ">
@@ -129,9 +129,9 @@
                   </div>
                 </div>
                 <div class="part">
-                  <h2 class="service-title">Information Security services we offer</h2>
-                  <p class="service-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet magni earum ad suscipit doloremque perferendis debitis perspiciatis iste reiciendis odio ducimus quis, dolor minima. Deserunt ea aliquam, ad expedita neque voluptas sequi saepe error nesciunt? Culpa dolore voluptatibus sed impedit blanditiis excepturi harum dolor. </p>
-                  <p class="service-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quidem debitis ad dolorum assumenda exercitationem fuga sequi, sit repellat fugit voluptate numquam animi in quos, voluptas culpa! Nobis dolorum ut tempora nam molestiae </p>
+                  <h2 class="service-title">Why Choose Our AI Solutions?</h2>
+                  <p class="service-text">Our approach is collaborative and business-focused. We work closely with you to understand your unique needs and goals. We don't just deliver technology; we deliver measurable business outcomes. Our solutions are designed to be scalable, secure, and seamlessly integrated into your operational workflow.</p>
+                  <p class="service-text">With a proven track record of successful AI implementations across various industries, we are your trusted partner in your digital transformation journey. Let us help you navigate the complexities of AI and turn your data into a strategic asset.</p>
                 </div>
                 <div class="part">
                   <div class="info-items-list">
@@ -139,32 +139,32 @@
                       <div class="col-12 col-md-6 ">
                         <div class="info-item"><span class="info-number ">01.</span>
                           <div class="info-content">
-                            <h5 class="info-title">latest technologies </h5>
-                            <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                            <h5 class="info-title">Custom Model Development</h5>
+                            <p class="info-text">We build and train bespoke AI models tailored to your specific data and business case.</p>
                           </div>
                         </div>
                       </div>
                       <div class="col-12 col-md-6 ">
                         <div class="info-item"><span class="info-number ">02.</span>
                           <div class="info-content">
-                            <h5 class="info-title">uniqe solutions </h5>
-                            <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                            <h5 class="info-title">Predictive Analytics</h5>
+                            <p class="info-text">Leverage data to forecast trends, behaviors, and outcomes with high accuracy.</p>
                           </div>
                         </div>
                       </div>
                       <div class="col-12 col-md-6 ">
                         <div class="info-item"><span class="info-number ">03.</span>
                           <div class="info-content">
-                            <h5 class="info-title">powerful strategies </h5>
-                            <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                            <h5 class="info-title">Natural Language Processing (NLP)</h5>
+                            <p class="info-text">Enable machines to understand, interpret, and respond to human language.</p>
                           </div>
                         </div>
                       </div>
                       <div class="col-12 col-md-6 ">
                         <div class="info-item"><span class="info-number ">04.</span>
                           <div class="info-content">
-                            <h5 class="info-title">delever just on time </h5>
-                            <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                            <h5 class="info-title">Computer Vision</h5>
+                            <p class="info-text">Extract meaningful information from images and videos to automate tasks.</p>
                           </div>
                         </div>
                       </div>
@@ -179,100 +179,36 @@
                       <div class="card mb-2">
                         <div class="card-header " id="heading-1">
                           <h5 class="mb-0 faq-title">
-                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">are your service easy to use?</button>
+                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">When was Tapbotic AI founded?</button>
                           </h5>
                         </div>
                         <div class="collapse " id="collapse-1" aria-labelledby="collapse-1" data-bs-parent="#accordion">
                           <div class="card-body">
-                            <p class="faq-answer">mhmd, Anim pariatur cliche reprehenderit, enim eiusmod high life
-          accusamus terry richardson ad squid. 3 wolf moon officia
-          aute,
-          non cupidatat skateboard dolor brunch. Food truck quinoa
-          nesciunt
-          laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put
-          a
-          bird on it squid single-origin coffee nulla assumenda
-          shoreditch
-          et. Nihil anim keffiyeh helvetica, craft beer labore wes
-          anderson
-          cred nesciunt sapiente ea proident. Ad vegan excepteur
-          butcher
-          vice lomo. Leggings occaecat craft beer farm-to-table. </p>
+                            <p class="faq-answer">Tapbotic AI Pvt Ltd was founded in 2017.</p>
                           </div>
                         </div>
                       </div>
                       <div class="card mb-2">
                         <div class="card-header " id="heading-2">
                           <h5 class="mb-0 faq-title">
-                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">will i receive future updates?</button>
+                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Do you provide custom solutions?</button>
                           </h5>
                         </div>
                         <div class="collapse " id="collapse-2" aria-labelledby="collapse-2" data-bs-parent="#accordion">
                           <div class="card-body">
-                            <p class="faq-answer">mhmd, Anim pariatur cliche reprehenderit, enim eiusmod high life
-          accusamus terry richardson ad squid. 3 wolf moon officia
-          aute,
-          non cupidatat skateboard dolor brunch. Food truck quinoa
-          nesciunt
-          laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put
-          a
-          bird on it squid single-origin coffee nulla assumenda
-          shoreditch
-          et. Nihil anim keffiyeh helvetica, craft beer labore wes
-          anderson
-          cred nesciunt sapiente ea proident. Ad vegan excepteur
-          butcher
-          vice lomo. Leggings occaecat craft beer farm-to-table. </p>
+                            <p class="faq-answer">Yes, all solutions are customized to client requirements.</p>
                           </div>
                         </div>
                       </div>
                       <div class="card mb-2">
                         <div class="card-header " id="heading-3">
                           <h5 class="mb-0 faq-title">
-                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="true" aria-controls="collapse-3">is this services work in my country?</button>
+                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="true" aria-controls="collapse-3">Do you offer post-deployment support?</button>
                           </h5>
                         </div>
                         <div class="collapse " id="collapse-3" aria-labelledby="collapse-3" data-bs-parent="#accordion">
                           <div class="card-body">
-                            <p class="faq-answer">mhmd, Anim pariatur cliche reprehenderit, enim eiusmod high life
-          accusamus terry richardson ad squid. 3 wolf moon officia
-          aute,
-          non cupidatat skateboard dolor brunch. Food truck quinoa
-          nesciunt
-          laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put
-          a
-          bird on it squid single-origin coffee nulla assumenda
-          shoreditch
-          et. Nihil anim keffiyeh helvetica, craft beer labore wes
-          anderson
-          cred nesciunt sapiente ea proident. Ad vegan excepteur
-          butcher
-          vice lomo. Leggings occaecat craft beer farm-to-table. </p>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="card mb-2">
-                        <div class="card-header " id="heading-4">
-                          <h5 class="mb-0 faq-title">
-                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="true" aria-controls="collapse-4">How much I will pay?</button>
-                          </h5>
-                        </div>
-                        <div class="collapse " id="collapse-4" aria-labelledby="collapse-4" data-bs-parent="#accordion">
-                          <div class="card-body">
-                            <p class="faq-answer">mhmd, Anim pariatur cliche reprehenderit, enim eiusmod high life
-          accusamus terry richardson ad squid. 3 wolf moon officia
-          aute,
-          non cupidatat skateboard dolor brunch. Food truck quinoa
-          nesciunt
-          laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put
-          a
-          bird on it squid single-origin coffee nulla assumenda
-          shoreditch
-          et. Nihil anim keffiyeh helvetica, craft beer labore wes
-          anderson
-          cred nesciunt sapiente ea proident. Ad vegan excepteur
-          butcher
-          vice lomo. Leggings occaecat craft beer farm-to-table. </p>
+                            <p class="faq-answer">Yes, we provide ongoing support and maintenance.</p>
                           </div>
                         </div>
                       </div>
@@ -289,23 +225,23 @@
               <div class="sidebar-pane">
                 <h2 class="sidebar-title">list of services</h2>
                 <ul class="list">
-                  <li class="list-item active"><i class="flaticon-web-development font-icon"></i><a href="#0"> web development<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-nanotechnology font-icon"></i><a href="#0"> Digital Marketing<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-web-domain font-icon"></i><a href="#0"> SaaS products <i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-profile font-icon"></i><a href="#0"> Apps development<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-search font-icon"></i><a href="#0"> SEO services<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-strategy font-icon"></i><a href="#0"> data analysis<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item active"><i class="flaticon-artificial-intelligence font-icon"></i><a href="#0"> Artificial Intelligence<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item"><i class="flaticon-automation font-icon"></i><a href="#0"> Automation Solutions<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item"><i class="flaticon-web-development font-icon"></i><a href="#0"> Enterprise Software<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item"><i class="flaticon-cloud-computing font-icon"></i><a href="#0"> Cloud & DevOps<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item"><i class="flaticon-cyber-security font-icon"></i><a href="#0"> Cybersecurity<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item"><i class="flaticon-strategy font-icon"></i><a href="#0"> Data Analytics<i class="bi bi-arrow-right icon "></i></a></li>
                 </ul>
               </div>
               <div class="sidebar-pane">
                 <div class="download-area">
-                  <h2 class="sidebar-title">download assets</h2>
-                  <p class="sidebar-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure minima distinctio dolores quidem ducimus! Illum.</p>
+                  <h2 class="sidebar-title">Download Our Brochure</h2>
+                  <p class="sidebar-text">Get a detailed overview of our AI & Machine Learning capabilities and case studies.</p>
                   <ul class="list">
                     <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="#0">
-                         service-report<i class="bi bi-arrow-right icon "></i></a></li>
+                         Company Brochure<i class="bi bi-arrow-right icon "></i></a></li>
                     <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="#0">
-                         all services<i class="bi bi-arrow-right icon "></i></a></li>
+                         AI Services Deck<i class="bi bi-arrow-right icon "></i></a></li>
                   </ul>
                 </div>
               </div>
@@ -377,7 +313,7 @@
           <h2 class=" footer-col-title    ">Contact</h2>
           <div class="footer-col-content-wrapper">
             <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">Bhagwati Complex, Baner, Pune, Maharashtra 411069</span></div>
-<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:tapboticai.com">tapboticai.com</a></div>
+<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:info@tapboticai.com">info@tapboticai.com</a></div>
           </div>
         </div>
       </div>

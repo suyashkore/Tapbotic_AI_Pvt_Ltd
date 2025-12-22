@@ -27,7 +27,18 @@
         <!-- Font Family -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700;800&amp;display=swap">
         
-         <div class="container">
+      <header class=" page-header   content-always-light header-basic" id="page-header">
+    <div class="header-search-box">
+      <div class="close-search"></div>
+      <form class="nav-search search-form" role="search" method="get" action="#">
+        <div class="search-wrapper">
+          <label class="search-lbl">Search for:</label>
+          <input class="search-input" type="search" placeholder="Search..." name="searchInput" autofocus="autofocus" />
+          <button class="search-btn" type="submit"><i class="bi bi-search icon"></i></button>
+        </div>
+      </form>
+    </div>
+    <div class="container">
       <nav class="menu-navbar">
         <div class="header-logo"><a class="logo-link" href="#"><img class="logo-img light-logo" loading="lazy"
               src="assets/images/logo/logo-light1.png" alt="logo" /><img class="logo-img  dark-logo" loading="lazy"
@@ -37,7 +48,7 @@
             <li class="menu-item"><a class="menu-link active" href="index.php">Home</a></li>
             <li class="menu-item"><a class="menu-link" href="about-us.php">About Us</a></li>
             <li class="menu-item"><a class="menu-link" href="services.php">Services</a></li>
-            <li class="menu-item"><a class="menu-link" href="#0">Industries</a></li>
+            <!-- <li class="menu-item"><a class="menu-link" href="#0">Industries</a></li> -->
             <li class="menu-item"><a class="menu-link" href="governance-and-leadership.php">Governance & Leadership</a></li>
             <li class="menu-item"><a class="menu-link" href="blog-home-1-col.php">Blog</a></li>
             <!-- <li class="menu-item"><a class="menu-link" href="#0">Case Studies</a></li> -->
@@ -60,6 +71,7 @@
         </div>
       </nav>
     </div>
+  </header>
         <link rel="stylesheet" href="css/main-LTR.css">
         <title> Tapbotic AI Pvt Ltd   |   404 - Page Not Found</title>
   </head>
