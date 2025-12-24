@@ -439,7 +439,7 @@
             <div class="icon-wrapper"><i class="bi bi-shield-lock"></i></div>
             <h4>Privacy Policy</h4>
             <p>Tapbotic AI Pvt Ltd is committed to protecting personal and business data through strong privacy and data protection practices.</p>
-            <a href="privacy-policy.php" class="read-more">Read Privacy Policy <i class="bi bi-arrow-right"></i></a>
+            <a href="404.php" class="read-more">Read Privacy Policy <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
         <div class="col-12 col-md-6">
@@ -447,7 +447,7 @@
             <div class="icon-wrapper"><i class="bi bi-file-text"></i></div>
             <h4>Terms & Conditions</h4>
             <p>Use of this website and services is governed by standard corporate terms and conditions.</p>
-            <a href="terms-conditions.php" class="read-more">Read Terms & Conditions <i class="bi bi-arrow-right"></i></a>
+            <a href="404.php" class="read-more">Read Terms & Conditions <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>

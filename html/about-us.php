@@ -534,7 +534,7 @@
             </div>
             <!--Start .see-more-area-->
             <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
-            <!--End Of .see-more-area        -->
+            <!--End Of .see-more-area-->
           </div>
         </div>
       </section>

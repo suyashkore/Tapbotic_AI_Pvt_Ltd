@@ -115,7 +115,7 @@
             </form>
           </div>
           <div class="col-12 col-md-10 col-lg-8 mx-auto text-center">
-            <div class="cta-links-area wow  fadeInUp " data-wow-delay=".8s"><a class=" btn-solid cta-link " href="#0">back to home page</a></div>
+            <div class="cta-links-area wow  fadeInUp " data-wow-delay=".8s"><a class=" btn-solid cta-link " href="./">back to home page</a></div>
           </div>
         </div>
         <!--End of .hero-text-area -->
