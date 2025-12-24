@@ -37,26 +37,6 @@
   <!-- main-LTR -->
   <link rel="stylesheet" href="css/main-LTR.css">
   <title>Tapbotic AI | Governance & Leadership</title>
-  <style>
-    .mouse-bubble {
-      position: absolute;
-      border-radius: 50%;
-      background: rgba(84, 163, 247, 0.6); /* Light blue theme color */
-      pointer-events: none;
-      z-index: 9999;
-      animation: bubble-rise 0.8s ease-out forwards;
-    }
-    @keyframes bubble-rise {
-      0% {
-        opacity: 1;
-        transform: translate(-50%, -50%) scale(0.5);
-      }
-      100% {
-        opacity: 0;
-        transform: translate(-50%, -60px) scale(1.2);
-      }
-    }
-  </style>
 </head>
 
 <body class="dark-theme">
@@ -459,7 +439,7 @@
             <div class="icon-wrapper"><i class="bi bi-shield-lock"></i></div>
             <h4>Privacy Policy</h4>
             <p>Tapbotic AI Pvt Ltd is committed to protecting personal and business data through strong privacy and data protection practices.</p>
-            <a href="404.php" class="read-more">Read Privacy Policy <i class="bi bi-arrow-right"></i></a>
+            <a href="privacy-policy.php" class="read-more">Read Privacy Policy <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
         <div class="col-12 col-md-6">
@@ -467,7 +447,7 @@
             <div class="icon-wrapper"><i class="bi bi-file-text"></i></div>
             <h4>Terms & Conditions</h4>
             <p>Use of this website and services is governed by standard corporate terms and conditions.</p>
-            <a href="404.php" class="read-more">Read Terms & Conditions <i class="bi bi-arrow-right"></i></a>
+            <a href="terms-conditions.php" class="read-more">Read Terms & Conditions <i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -582,29 +562,6 @@
   <script src="js/vendors/isotope-min.js"></script>
   <!-- main -->
   <script src="js/main.js"></script>
-  <script>
-    let lastBubbleTime = 0;
-    document.addEventListener('mousemove', function(e) {
-      const now = Date.now();
-      if (now - lastBubbleTime < 40) return; // Throttle: Create a bubble every 40ms
-      lastBubbleTime = now;
-
-      const bubble = document.createElement('div');
-      bubble.classList.add('mouse-bubble');
-      
-      const size = Math.random() * 10 + 20; // Random size between 5px and 15px
-      bubble.style.width = size + 'px';
-      bubble.style.height = size + 'px';
-      bubble.style.left = e.pageX + 'px';
-      bubble.style.top = e.pageY + 'px';
-      
-      document.body.appendChild(bubble);
-
-      setTimeout(() => {
-        bubble.remove();
-      }, 800); // Remove from DOM after animation finishes
-    });
-  </script>
 </body>
 
 </html>
