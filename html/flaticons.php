@@ -2052,5 +2052,28 @@
         
         <!--     main     -->
         <script src="js/main.js"></script>
+  <script>
+    let lastBubbleTime = 0;
+    document.addEventListener('mousemove', function(e) {
+      const now = Date.now();
+      if (now - lastBubbleTime < 40) return; // Throttle: Create a bubble every 40ms
+      lastBubbleTime = now;
+
+      const bubble = document.createElement('div');
+      bubble.classList.add('mouse-bubble');
+      
+      const size = Math.random() * 10 + 20; // Random size between 5px and 15px
+      bubble.style.width = size + 'px';
+      bubble.style.height = size + 'px';
+      bubble.style.left = e.pageX + 'px';
+      bubble.style.top = e.pageY + 'px';
+      
+      document.body.appendChild(bubble);
+
+      setTimeout(() => {
+        bubble.remove();
+      }, 800); // Remove from DOM after animation finishes
+    });
+  </script>
   </body>
 </html>
