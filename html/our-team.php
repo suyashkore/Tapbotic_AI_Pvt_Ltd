@@ -36,6 +36,26 @@
         <!-- main-LTR -->
         <link rel="stylesheet" href="css/main-LTR.css">
         <title>  Tapbotic AI Pvt Ltd   |   Our Team</title>
+  <style>
+    .mouse-bubble {
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(84, 163, 247, 0.6); /* Light blue theme color */
+      pointer-events: none;
+      z-index: 9999;
+      animation: bubble-rise 0.8s ease-out forwards;
+    }
+    @keyframes bubble-rise {
+      0% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(0.5);
+      }
+      100% {
+        opacity: 0;
+        transform: translate(-50%, -60px) scale(1.2);
+      }
+    }
+  </style>
   </head>
   <body class=" dark-theme ">
     <!--Start Page Header-->
@@ -278,20 +298,22 @@
       </div>
     </section>
     <!-- End our team Section-->
-    <!-- Start  testimonials Section-->
-    <section class="testimonials testimonials-1-col   has-dark-bg  mega-section " id="testimonials-img-bg">
-      <div class="overlay-photo-image-bg parallax " data-bg-img="assets/images/sections-bg-images/1.jpg" data-bg-opacity=".25"> </div>
-      <div class="container">
-        <div class="sec-heading  centered ">
-          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">testimonials</span>
-            <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">customers <span class='hollow-text'>testmonials</span></h2>
-          </div>
+     <!-- Start  testimonials Section-->
+  <section class="testimonials testimonials-1-col   has-dark-bg  mega-section " id="testimonials-img-bg">
+    <div class="overlay-photo-image-bg parallax " data-bg-img="assets/images/sections-bg-images/1.jpg"
+      data-bg-opacity=".25"> </div>
+    <div class="container">
+      <div class="sec-heading  centered ">
+        <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Leadership</span>
+          <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Meet Our <span class='hollow-text'>Directors</span>
+          </h2>
         </div>
-        <div class="row d-flex align-items-center">
-          <div class="col-12 col-md-10  mx-auto">
-            <div class="swiper-container  wow fadeInUp  " data-wow-delay="0.2s">
-              <div class="swiper-wrapper">
-                <!--First Slide-->
+      </div>
+      <div class="row d-flex align-items-center">
+        <div class="col-12 col-md-10  mx-auto">
+          <div class="swiper-container  wow fadeInUp  " data-wow-delay="0.2s">
+            <div class="swiper-wrapper">
+               <!--First Slide-->
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
@@ -329,41 +351,22 @@
                     </div>
                   </div>
                 </div>
-                <!--third Slide-->
-                <!-- <div class="swiper-slide">
-                  <div class="testmonial-card d-flex align-items-center justify-content-center">
-                    <div class="testimonial-content">
-                      <div class="customer-img "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/3.png" alt="First Slide "></div>
-                      <div class="customer-testimonial">
-                        <div class="content">
-                          <p class="testimonial-text "> ipsum dolor sit amet consectetur adipisicing elit. Quod, id sequi aut qui est ab, corporis quis maiores reiciendis explicabo odio tenetur nulla sint vel.            </p>
-                        </div>
-                      </div>
-                      <div class="customer-info ">
-                        <div class="customer-details">
-                          <p class="customer-name">fairouz mhmd</p>
-                          <p class="customer-role">manager</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div> -->
               </div>
-              <!--navigation buttons-->
-              <div class="swiper-button-prev">
-                <div class="left-arrow"><i class="bi bi-chevron-left icon "></i>
-                </div>
+            <!--navigation buttons-->
+            <div class="swiper-button-prev">
+              <div class="left-arrow"><i class="bi bi-chevron-left icon "></i>
               </div>
-              <div class="swiper-button-next">
-                <div class="right-arrow"><i class="bi bi-chevron-right icon "></i>
-                </div>
+            </div>
+            <div class="swiper-button-next">
+              <div class="right-arrow"><i class="bi bi-chevron-right icon "></i>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
-    <!-- End  testimonials Section-->
+    </div>
+  </section>
+  <!-- End  testimonials Section-->
     <!-- Start  our-clients Section-->
     <section class="our-clients  bg-main elf-section" id="our-clients">
       <div class="container-fluid">
@@ -578,5 +581,28 @@
         
         <!--     main     -->
         <script src="js/main.js"></script>
+  <script>
+    let lastBubbleTime = 0;
+    document.addEventListener('mousemove', function(e) {
+      const now = Date.now();
+      if (now - lastBubbleTime < 40) return; // Throttle: Create a bubble every 40ms
+      lastBubbleTime = now;
+
+      const bubble = document.createElement('div');
+      bubble.classList.add('mouse-bubble');
+      
+      const size = Math.random() * 10 + 20; // Random size between 5px and 15px
+      bubble.style.width = size + 'px';
+      bubble.style.height = size + 'px';
+      bubble.style.left = e.pageX + 'px';
+      bubble.style.top = e.pageY + 'px';
+      
+      document.body.appendChild(bubble);
+
+      setTimeout(() => {
+        bubble.remove();
+      }, 800); // Remove from DOM after animation finishes
+    });
+  </script>
   </body>
 </html>

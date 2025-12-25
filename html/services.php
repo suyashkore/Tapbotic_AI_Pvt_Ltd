@@ -37,6 +37,26 @@
   <!-- main-LTR -->
   <link rel="stylesheet" href="css/main-LTR.css">
   <title>Tapbotic AI | Services</title>
+  <style>
+    .mouse-bubble {
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(84, 163, 247, 0.6); /* Light blue theme color */
+      pointer-events: none;
+      z-index: 9999;
+      animation: bubble-rise 0.8s ease-out forwards;
+    }
+    @keyframes bubble-rise {
+      0% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(0.5);
+      }
+      100% {
+        opacity: 0;
+        transform: translate(-50%, -60px) scale(1.2);
+      }
+    }
+  </style>
 </head>
 
 <body class="dark-theme">
@@ -571,22 +591,23 @@
     </div>
   </section>
   <!-- End faq Section-->
-
-  <!-- Start take-action Section-->
-  <section class="take-action elf-section has-dark-bg" id="take-action">
-    <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/2.jpg" data-bg-opacity=".25"></div>
-    <div class="cta-wrapper">
-      <div class="container">
-        <div class="sec-heading centered mb-0">
-          <div class="content-area"><span class="pre-title wow fadeInUp" data-wow-delay=".2s">contact us</span>
-            <h2 class="title wow fadeInUp" data-wow-delay=".4s">Get in Touch With Us</h2>
-            <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Ready to transform your business with AI and automation?<br>Let's discuss how we can help you achieve your goals.</p>
+    <!-- Start  take-action Section-->
+      <section class="take-action elf-section has-dark-bg" id="take-action">
+        <div class="overlay-photo-image-bg  " data-bg-img="assets/images/sections-bg-images/2.jpg" data-bg-opacity=".25"> </div>
+        <div class="cta-wrapper">
+          <div class="container">
+            <div class="sec-heading  centered mb-0 ">
+              <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Start a Conversation</span>
+                <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Ready to Build Your Next-Gen Platform?</h2>
+                <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Partner with us to leverage enterprise-grade AI and automation. Schedule a consultation to discuss your project requirements with our experts.</p>
+              </div>
+            </div>
+            <!--Start .see-more-area-->
+            <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
+            <!--End Of .see-more-area-->
           </div>
         </div>
-        <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class="btn-solid cta-link" href="contact-us.php">contact us</a></div>
-      </div>
-    </div>
-  </section>
+      </section>
   <!-- End take-action Section-->
 
   <!-- Start page-footer Section-->
@@ -680,6 +701,29 @@
   <script src="js/vendors/isotope-min.js"></script>
   <!-- main -->
   <script src="js/main.js"></script>
+  <script>
+    let lastBubbleTime = 0;
+    document.addEventListener('mousemove', function(e) {
+      const now = Date.now();
+      if (now - lastBubbleTime < 40) return; // Throttle: Create a bubble every 40ms
+      lastBubbleTime = now;
+
+      const bubble = document.createElement('div');
+      bubble.classList.add('mouse-bubble');
+      
+      const size = Math.random() * 10 + 20; // Random size between 5px and 15px
+      bubble.style.width = size + 'px';
+      bubble.style.height = size + 'px';
+      bubble.style.left = e.pageX + 'px';
+      bubble.style.top = e.pageY + 'px';
+      
+      document.body.appendChild(bubble);
+
+      setTimeout(() => {
+        bubble.remove();
+      }, 800); // Remove from DOM after animation finishes
+    });
+  </script>
 </body>
 
 </html>

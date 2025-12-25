@@ -36,6 +36,35 @@
           <!-- main-LTR -->
           <link rel="stylesheet" href="css/main-LTR.css">
           <title> About Us | Tapbotic AI Pvt Ltd</title>
+          <style>
+            .purpose-card .purpose-img img {
+              transition: all 0.4s ease-in-out;
+            }
+            .purpose-card:hover .purpose-img img {
+              filter: hue-rotate(45deg) brightness(1.1);
+              transform: scale(1.05);
+            }
+          </style>
+    <style>
+    .mouse-bubble {
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(84, 163, 247, 0.6); /* Light blue theme color */
+      pointer-events: none;
+      z-index: 9999;
+      animation: bubble-rise 0.8s ease-out forwards;
+    }
+    @keyframes bubble-rise {
+      0% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(0.5);
+      }
+      100% {
+        opacity: 0;
+        transform: translate(-50%, -60px) scale(1.2);
+      }
+    }
+  </style>
     </head>
     <body class=" dark-theme ">
       <!--Start Page Header-->
@@ -534,7 +563,7 @@
             </div>
             <!--Start .see-more-area-->
             <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.php">Schedule a Consultation</a></div>
-            <!--End Of .see-more-area        -->
+            <!--End Of .see-more-area-->
           </div>
         </div>
       </section>
@@ -597,7 +626,7 @@
         <div class="row">
           <div class="col-12 col-md-12 d-flex justify-content-center">
             <p class="creadits">
-              © 2017 – Present | Tapbotic AI Pvt Ltd. All Rights Reserved.
+              © 2017 - Present | Tapbotic AI Pvt Ltd. All Rights Reserved.
             </p>
           </div>
         </div>
@@ -678,5 +707,28 @@
           
           <!--     main     -->
           <script src="js/main.js"></script>
+    <script>
+    let lastBubbleTime = 0;
+    document.addEventListener('mousemove', function(e) {
+      const now = Date.now();
+      if (now - lastBubbleTime < 40) return; // Throttle: Create a bubble every 40ms
+      lastBubbleTime = now;
+
+      const bubble = document.createElement('div');
+      bubble.classList.add('mouse-bubble');
+      
+      const size = Math.random() * 10 + 20; // Random size between 5px and 15px
+      bubble.style.width = size + 'px';
+      bubble.style.height = size + 'px';
+      bubble.style.left = e.pageX + 'px';
+      bubble.style.top = e.pageY + 'px';
+      
+      document.body.appendChild(bubble);
+
+      setTimeout(() => {
+        bubble.remove();
+      }, 800); // Remove from DOM after animation finishes
+    });
+  </script>
     </body>
   </html>

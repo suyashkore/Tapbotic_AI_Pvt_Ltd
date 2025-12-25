@@ -74,6 +74,26 @@
   </header>
         <link rel="stylesheet" href="css/main-LTR.css">
         <title> Tapbotic AI Pvt Ltd   |   404 - Page Not Found</title>
+  <style>
+    .mouse-bubble {
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(84, 163, 247, 0.6); /* Light blue theme color */
+      pointer-events: none;
+      z-index: 9999;
+      animation: bubble-rise 0.8s ease-out forwards;
+    }
+    @keyframes bubble-rise {
+      0% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(0.5);
+      }
+      100% {
+        opacity: 0;
+        transform: translate(-50%, -60px) scale(1.2);
+      }
+    }
+  </style>
   </head>
   <body class=" dark-theme ">
     <!--Start Page Header-->
@@ -115,7 +135,7 @@
             </form>
           </div>
           <div class="col-12 col-md-10 col-lg-8 mx-auto text-center">
-            <div class="cta-links-area wow  fadeInUp " data-wow-delay=".8s"><a class=" btn-solid cta-link " href="#0">back to home page</a></div>
+            <div class="cta-links-area wow  fadeInUp " data-wow-delay=".8s"><a class=" btn-solid cta-link " href="./">back to home page</a></div>
           </div>
         </div>
         <!--End of .hero-text-area -->
@@ -249,5 +269,28 @@
         
         <!--     main     -->
         <script src="js/main.js"></script>
+  <script>
+    let lastBubbleTime = 0;
+    document.addEventListener('mousemove', function(e) {
+      const now = Date.now();
+      if (now - lastBubbleTime < 40) return; // Throttle: Create a bubble every 40ms
+      lastBubbleTime = now;
+
+      const bubble = document.createElement('div');
+      bubble.classList.add('mouse-bubble');
+      
+      const size = Math.random() * 10 + 5; // Random size between 5px and 15px
+      bubble.style.width = size + 'px';
+      bubble.style.height = size + 'px';
+      bubble.style.left = e.pageX + 'px';
+      bubble.style.top = e.pageY + 'px';
+      
+      document.body.appendChild(bubble);
+
+      setTimeout(() => {
+        bubble.remove();
+      }, 800); // Remove from DOM after animation finishes
+    });
+  </script>
   </body>
 </html>
