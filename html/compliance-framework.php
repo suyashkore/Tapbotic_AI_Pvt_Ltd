@@ -35,27 +35,7 @@
         
         <!-- main-LTR -->
         <link rel="stylesheet" href="css/main-LTR.css">
-        <title>Tapbotic AI | AI & Machine Learning Solutions</title>
-  <!-- <style>
-    .mouse-bubble {
-      position: absolute;
-      border-radius: 50%;
-      background: rgba(84, 163, 247, 0.6); /* Light blue theme color */
-      pointer-events: none;
-      z-index: 9999;
-      animation: bubble-rise 0.8s ease-out forwards;
-    }
-    @keyframes bubble-rise {
-      0% {
-        opacity: 1;
-        transform: translate(-50%, -50%) scale(0.5);
-      }
-      100% {
-        opacity: 0;
-        transform: translate(-50%, -60px) scale(1.2);
-      }
-    }
-  </style> -->
+        <title>Tapbotic AI | Compliance Framework</title>
   </head>
   <body class=" dark-theme "> 
     <!--Start Page Header-->
@@ -77,15 +57,12 @@
               src="assets/images/logo/logo-light1.png" alt="logo" /></a></div>
         <div class="links menu-wrapper ">
           <ul class="list-js links-list">
-            <li class="menu-item"><a class="menu-link active" href="index.php">Home</a></li>
+            <li class="menu-item"><a class="menu-link" href="index.php">Home</a></li>
             <li class="menu-item"><a class="menu-link" href="about-us.php">About Us</a></li>
             <li class="menu-item"><a class="menu-link" href="services.php">Services</a></li>
-            <!-- <li class="menu-item"><a class="menu-link" href="#0">Industries</a></li> -->
             <li class="menu-item"><a class="menu-link" href="governance-and-leadership.php">Governance & Leadership</a></li>
             <li class="menu-item"><a class="menu-link" href="blog-home-1-col.php">Blog</a></li>
-            <!-- <li class="menu-item"><a class="menu-link" href="#0">Case Studies</a></li> -->
             <li class="menu-item"><a class="menu-link" href="careers.php">Careers</a></li>
-            <!-- <li class="menu-item"><a class="menu-link" href="#0">Investor Relations</a></li> -->
             <li class="menu-item"><a class="menu-link" href="contact-us.php">Contact Us</a></li>
           </ul>
         </div>
@@ -99,7 +76,6 @@
             <div class="switch-inner go-light " title="Switch To Light Mode "><i class="bi bi-sun icon "></i></div>
             <div class="switch-inner go-dark" title="Switch To Dark Mode "><i class="bi bi-moon icon "></i></div>
           </div>
-          <!--mini shoping cart-->
         </div>
       </nav>
     </div>
@@ -107,129 +83,88 @@
     <!--End Page Header-->
     <!-- Start inner Page hero-->
     <section class="d-flex align-items-center page-hero  inner-page-hero " id="page-hero">
-      <div class="overlay-photo-image-bg parallax" data-bg-img="https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-bg-opacity="1"></div>
+      <div class="overlay-photo-image-bg parallax" data-bg-img="https://images.pexels.com/photos/6801642/pexels-photo-6801642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-bg-opacity="1"></div>
       <div class="overlay-color" data-bg-opacity=".75"></div>
       <div class="container">
         <div class="hero-text-area centerd">
-          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">AI & Machine Learning Solutions</h1>
+          <h1 class="hero-title  wow fadeInUp" data-wow-delay=".2s">Compliance Framework</h1>
           <nav aria-label="breadcrumb ">
             <ul class="breadcrumb wow fadeInUp" data-wow-delay=".6s">
-              <li class="breadcrumb-item"><a class="breadcrumb-link" href="#0"><i class="bi bi-house icon "></i>home</a></li>
-              <li class="breadcrumb-item active">AI & Machine Learning Solutions</li>
+              <li class="breadcrumb-item"><a class="breadcrumb-link" href="index.php"><i class="bi bi-house icon "></i>home</a></li>
+              <li class="breadcrumb-item active">Compliance Framework</li>
             </ul>
           </nav>
         </div>
       </div>
     </section>
     <!-- End inner Page hero-->
-    <!-- Start inner Page hero-->
     <div class="service-single "> 
       <div class="container">
         <div class="row">
           <!--Start service content-->
           <div class="col-12 col-xl-8  ">
             <div class="service-content-area">
-              <div class="featured-img-area part"><img class="feat-img img-fluid" src="assets/images/otherimages/10.jpeg" alt="featured image"></div>
+              <div class="featured-img-area part"><img class="feat-img img-fluid" src="https://images.pexels.com/photos/7567561/pexels-photo-7567561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Compliance Framework" style="max-height: 450px; width: 100%; object-fit: cover;"></div>
               <div class="service-content">
                 <div class="part">
-                  <h2 class="service-title">Our AI & Machine Learning Services</h2>
-                  <p class="service-text">At Tapbotic AI, we harness the power of Artificial Intelligence and Machine Learning to build intelligent solutions that drive business growth and efficiency. Our team of experts develops custom models and integrates AI into your existing systems to solve complex challenges.</p>
-                  <p class="service-text">From predictive analytics and natural language processing to computer vision and deep learning, we offer a comprehensive suite of services. We help you unlock valuable insights from your data, automate processes, and create innovative products and services that give you a competitive edge.</p>
+                  <h2 class="service-title">Our Commitment to Compliance</h2>
+                  <p class="service-text">At Tapbotic AI Pvt Ltd, we are committed to upholding the highest standards of legal and ethical conduct. Our Compliance Framework is designed to ensure that our operations, services, and solutions adhere to all relevant laws, regulations, and industry best practices. This commitment protects our clients, partners, and our company, building a foundation of trust and reliability.</p>
                 </div>
                 <div class="part">
-                  <div class="two-cols-img ">
-                    <div class="row">
-                      <div class="col-12 col-md-6 mb-3">
-                        <div class="img-col"><img class="img-fluid" src="assets/images/services/service-single-img-col-1.jpg" loading="lazy" alt="service single image "></div>
+                  <div class="faq-accordion" id="compliance-accordion">
+                    <div class="card mb-2">
+                      <div class="card-header" id="heading-compliance-1">
+                        <h5 class="mb-0 faq-title">
+                          <button class="btn btn-link faq-btn" data-bs-toggle="collapse" data-bs-target="#collapse-compliance-1" aria-expanded="true" aria-controls="collapse-compliance-1">
+                            Regulatory Adherence
+                          </button>
+                        </h5>
                       </div>
-                      <div class="col-12 col-md-6">
-                        <div class="img-col"><img class="img-fluid" src="assets/images/services/service-single-img-col-2.jpg" loading="lazy" alt="service single image "></div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="part">
-                  <h2 class="service-title">Why Choose Our AI Solutions?</h2>
-                  <p class="service-text">Our approach is collaborative and business-focused. We work closely with you to understand your unique needs and goals. We don't just deliver technology; we deliver measurable business outcomes. Our solutions are designed to be scalable, secure, and seamlessly integrated into your operational workflow.</p>
-                  <p class="service-text">With a proven track record of successful AI implementations across various industries, we are your trusted partner in your digital transformation journey. Let us help you navigate the complexities of AI and turn your data into a strategic asset.</p>
-                </div>
-                <div class="part">
-                  <div class="info-items-list">
-                    <div class="row">
-                      <div class="col-12 col-md-6 ">
-                        <div class="info-item"><span class="info-number ">01.</span>
-                          <div class="info-content">
-                            <h5 class="info-title">Custom Model Development</h5>
-                            <p class="info-text">We build and train bespoke AI models tailored to your specific data and business case.</p>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-12 col-md-6 ">
-                        <div class="info-item"><span class="info-number ">02.</span>
-                          <div class="info-content">
-                            <h5 class="info-title">Predictive Analytics</h5>
-                            <p class="info-text">Leverage data to forecast trends, behaviors, and outcomes with high accuracy.</p>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-12 col-md-6 ">
-                        <div class="info-item"><span class="info-number ">03.</span>
-                          <div class="info-content">
-                            <h5 class="info-title">Natural Language Processing (NLP)</h5>
-                            <p class="info-text">Enable machines to understand, interpret, and respond to human language.</p>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-12 col-md-6 ">
-                        <div class="info-item"><span class="info-number ">04.</span>
-                          <div class="info-content">
-                            <h5 class="info-title">Computer Vision</h5>
-                            <p class="info-text">Extract meaningful information from images and videos to automate tasks.</p>
-                          </div>
+                      <div id="collapse-compliance-1" class="collapse show" aria-labelledby="heading-compliance-1" data-bs-parent="#compliance-accordion">
+                        <div class="card-body">
+                          <p class="faq-answer">We continuously monitor and adapt to the evolving regulatory landscape, including data protection laws like GDPR and CCPA, as well as industry-specific regulations. Our solutions are built with compliance-by-design principles to help our clients meet their legal obligations.</p>
                         </div>
                       </div>
                     </div>
-                  </div>
-                </div>
-                <div class="part">
-                  <h2 class="service-title"> most asked questions</h2>
-                  <div class="faq">           
-                    <!--Start Accordion List For FAQ-->
-                    <div class="faq-accordion " id="accordion">
-                      <div class="card mb-2">
-                        <div class="card-header " id="heading-1">
-                          <h5 class="mb-0 faq-title">
-                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">When was Tapbotic AI founded?</button>
-                          </h5>
-                        </div>
-                        <div class="collapse " id="collapse-1" aria-labelledby="collapse-1" data-bs-parent="#accordion">
-                          <div class="card-body">
-                            <p class="faq-answer">Tapbotic AI Pvt Ltd was founded in 2017.</p>
-                          </div>
+                    <div class="card mb-2">
+                      <div class="card-header" id="heading-compliance-2">
+                        <h5 class="mb-0 faq-title">
+                          <button class="btn btn-link faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapse-compliance-2" aria-expanded="false" aria-controls="collapse-compliance-2">
+                            Data Privacy & Security
+                          </button>
+                        </h5>
+                      </div>
+                      <div id="collapse-compliance-2" class="collapse" aria-labelledby="heading-compliance-2" data-bs-parent="#compliance-accordion">
+                        <div class="card-body">
+                          <p class="faq-answer">Data security is at the core of our framework. We implement robust security measures, including encryption, access controls, and regular vulnerability assessments, to protect sensitive information. Our privacy policies ensure that data is handled responsibly and transparently.</p>
                         </div>
                       </div>
-                      <div class="card mb-2">
-                        <div class="card-header " id="heading-2">
-                          <h5 class="mb-0 faq-title">
-                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Do you provide custom solutions?</button>
-                          </h5>
-                        </div>
-                        <div class="collapse " id="collapse-2" aria-labelledby="collapse-2" data-bs-parent="#accordion">
-                          <div class="card-body">
-                            <p class="faq-answer">Yes, all solutions are customized to client requirements.</p>
-                          </div>
+                    </div>
+                    <div class="card mb-2">
+                      <div class="card-header" id="heading-compliance-3">
+                        <h5 class="mb-0 faq-title">
+                          <button class="btn btn-link faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapse-compliance-3" aria-expanded="false" aria-controls="collapse-compliance-3">
+                            Ethical AI Governance
+                          </button>
+                        </h5>
+                      </div>
+                      <div id="collapse-compliance-3" class="collapse" aria-labelledby="heading-compliance-3" data-bs-parent="#compliance-accordion">
+                        <div class="card-body">
+                          <p class="faq-answer">We are dedicated to the ethical development and deployment of AI. Our governance model for AI focuses on fairness, transparency, and accountability to mitigate bias and ensure that our AI systems operate in a responsible manner.</p>
                         </div>
                       </div>
-                      <div class="card mb-2">
-                        <div class="card-header " id="heading-3">
-                          <h5 class="mb-0 faq-title">
-                            <button class="btn btn-link  faq-btn  collapsed " data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="true" aria-controls="collapse-3">Do you offer post-deployment support?</button>
-                          </h5>
-                        </div>
-                        <div class="collapse " id="collapse-3" aria-labelledby="collapse-3" data-bs-parent="#accordion">
-                          <div class="card-body">
-                            <p class="faq-answer">Yes, we provide ongoing support and maintenance.</p>
-                          </div>
+                    </div>
+                    <div class="card mb-2">
+                      <div class="card-header" id="heading-compliance-4">
+                        <h5 class="mb-0 faq-title">
+                          <button class="btn btn-link faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapse-compliance-4" aria-expanded="false" aria-controls="collapse-compliance-4">
+                            Internal Audits & Controls
+                          </button>
+                        </h5>
+                      </div>
+                      <div id="collapse-compliance-4" class="collapse" aria-labelledby="heading-compliance-4" data-bs-parent="#compliance-accordion">
+                        <div class="card-body">
+                          <p class="faq-answer">Regular internal audits and strict controls are in place to ensure ongoing adherence to our compliance framework. This proactive approach allows us to identify and address potential issues before they impact our clients or operations.</p>
                         </div>
                       </div>
                     </div>
@@ -243,27 +178,12 @@
           <div class="col-12 col-xl-4">
             <div class="service-sidebar ">
               <div class="sidebar-pane">
-                <h2 class="sidebar-title">list of services</h2>
+                <h2 class="sidebar-title">Legal</h2>
                 <ul class="list">
-                  <li class="list-item active"><i class="flaticon-artificial-intelligence font-icon"></i><a href="#0"> Artificial Intelligence<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-automation font-icon"></i><a href="#0"> Automation Solutions<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-web-development font-icon"></i><a href="#0"> Enterprise Software<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-cloud-computing font-icon"></i><a href="#0"> Cloud & DevOps<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-cyber-security font-icon"></i><a href="#0"> Cybersecurity<i class="bi bi-arrow-right icon "></i></a></li>
-                  <li class="list-item"><i class="flaticon-strategy font-icon"></i><a href="#0"> Data Analytics<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item"><i class="flaticon-security font-icon"></i><a href="privacy-policy.php"> Privacy Policy<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item"><i class="flaticon-file font-icon"></i><a href="terms-conditions.php"> Terms & Conditions<i class="bi bi-arrow-right icon "></i></a></li>
+                  <li class="list-item active"><i class="flaticon-book-1 font-icon"></i><a href="compliance-framework.php"> Compliance Framework<i class="bi bi-arrow-right icon "></i></a></li>
                 </ul>
-              </div>
-              <div class="sidebar-pane">
-                <div class="download-area">
-                  <h2 class="sidebar-title">Download Our Brochure</h2>
-                  <p class="sidebar-text">Get a detailed overview of our AI & Machine Learning capabilities and case studies.</p>
-                  <ul class="list">
-                    <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="#0">
-                         Company Brochure<i class="bi bi-arrow-right icon "></i></a></li>
-                    <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="#0">
-                         AI Services Deck<i class="bi bi-arrow-right icon "></i></a></li>
-                  </ul>
-                </div>
               </div>
               <div class="sidebar-pane">
                 <div class="social-area">
@@ -323,7 +243,7 @@
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="terms-conditions.php">Terms & Conditions</a>
               </li>
-               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="compliance-framework.php">Compliance Framework</a>
               </li>
             </ul>
@@ -371,26 +291,6 @@
               <h4>privacy policy item Title goes here </h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores saepe, labore sequi libero nesciunt optio quidem iste, dolorum nostrum ex at. Recusandae ducimus aut autem temporibus tempore rerum, consequuntur doloribus perspiciatis, labore totam dolorem veritatis repellendus omnis illo sint ut?</p>
             </div>
-            <div class="content">
-              <h4>privacy policy item Title goes here </h4>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores saepe, labore sequi libero nesciunt optio quidem iste, dolorum nostrum ex at. Recusandae ducimus aut autem temporibus tempore rerum, consequuntur doloribus perspiciatis, labore totam dolorem veritatis repellendus omnis illo sint ut?</p>
-            </div>
-            <div class="content">
-              <h4>privacy policy item Title goes here </h4>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores saepe, labore sequi libero nesciunt optio quidem iste, dolorum nostrum ex at. Recusandae ducimus aut autem temporibus tempore rerum, consequuntur doloribus perspiciatis, labore totam dolorem veritatis repellendus omnis illo sint ut?</p>
-            </div>
-            <div class="content">
-              <h4>privacy policy item Title goes here </h4>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores saepe, labore sequi libero nesciunt optio quidem iste, dolorum nostrum ex at. Recusandae ducimus aut autem temporibus tempore rerum, consequuntur doloribus perspiciatis, labore totam dolorem veritatis repellendus omnis illo sint ut?</p>
-            </div>
-            <div class="content">
-              <h4>privacy policy item Title goes here </h4>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores saepe, labore sequi libero nesciunt optio quidem iste, dolorum nostrum ex at. Recusandae ducimus aut autem temporibus tempore rerum, consequuntur doloribus perspiciatis, labore totam dolorem veritatis repellendus omnis illo sint ut?</p>
-            </div>
-            <div class="content">
-              <h4>privacy policy item Title goes here </h4>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores saepe, labore sequi libero nesciunt optio quidem iste, dolorum nostrum ex at. Recusandae ducimus aut autem temporibus tempore rerum, consequuntur doloribus perspiciatis, labore totam dolorem veritatis repellendus omnis illo sint ut?</p>
-            </div>
           </div>
           <div class="modal-footer">
             <button class="btn-solid" type="button" data-bs-dismiss="modal" aria-label="Close">Click to close</button>
@@ -418,28 +318,5 @@
         
         <!--     main     -->
         <script src="js/main.js"></script>
-  <script>
-    let lastBubbleTime = 0;
-    document.addEventListener('mousemove', function(e) {
-      const now = Date.now();
-      if (now - lastBubbleTime < 40) return; // Throttle: Create a bubble every 40ms
-      lastBubbleTime = now;
-
-      const bubble = document.createElement('div');
-      bubble.classList.add('mouse-bubble');
-      
-      const size = Math.random() * 10 + 20; // Random size between 5px and 15px
-      bubble.style.width = size + 'px';
-      bubble.style.height = size + 'px';
-      bubble.style.left = e.pageX + 'px';
-      bubble.style.top = e.pageY + 'px';
-      
-      document.body.appendChild(bubble);
-
-      setTimeout(() => {
-        bubble.remove();
-      }, 800); // Remove from DOM after animation finishes
-    });
-  </script>
   </body>
 </html>

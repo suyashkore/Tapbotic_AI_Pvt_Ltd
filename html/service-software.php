@@ -200,10 +200,10 @@
                   <h2 class="sidebar-title">Download Our Brochure</h2>
                   <p class="sidebar-text">Learn more about our software engineering capabilities.</p>
                   <ul class="list">
-                    <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="#0">
+                    <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="company-brochure.php">
                          Company Brochure<i class="bi bi-arrow-right icon "></i></a></li>
-                    <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="#0">
-                         Software Engineering Deck<i class="bi bi-arrow-right icon "></i></a></li>
+                    <li class="list-item"><i class="flaticon-downloading font-icon"></i><a href="ai-services-deck.php">
+                         AI Services Deck<i class="bi bi-arrow-right icon "></i></a></li>
                   </ul>
                 </div>
               </div>
@@ -239,7 +239,7 @@
            <ul class="footer-menu ">
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="about-us.php">About Us</a></li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="governance-and-leadership.php">Governance</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Investor Relations</a></li>
+              <!-- <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Investor Relations</a></li> -->
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="careers.php">Careers</a></li>
             </ul>
           </div>
@@ -265,8 +265,8 @@
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="terms-conditions.php">Terms & Conditions</a>
               </li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
-                  href="#0">Compliance Framework</a>
+               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="compliance-framework.php">Compliance Framework</a>
               </li>
             </ul>
           </div>

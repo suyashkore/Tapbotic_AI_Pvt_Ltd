@@ -580,7 +580,7 @@
            <ul class="footer-menu ">
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="about-us.php">About Us</a></li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="governance-and-leadership.php">Governance</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Investor Relations</a></li>
+              <!-- <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Investor Relations</a></li> -->
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="careers.php">Careers</a></li>
             </ul>
           </div>
@@ -606,8 +606,8 @@
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="terms-conditions.php">Terms & Conditions</a>
               </li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
-                  href="#0">Compliance Framework</a>
+               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
+                  href="compliance-framework.php">Compliance Framework</a>
               </li>
             </ul>
           </div>
