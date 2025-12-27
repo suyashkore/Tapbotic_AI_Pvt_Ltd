@@ -75,10 +75,10 @@
           <!--search Icon button-->
           <div class="control header-search-btn"><i class="bi bi-search icon"></i></div>
           <!--Dark/Light mode button-->
-          <div class="mode-switcher ">
+          <!-- <div class="mode-switcher ">
             <div class="switch-inner go-light " title="Switch To Light Mode "><i class="bi bi-sun icon "></i></div>
             <div class="switch-inner go-dark" title="Switch To Dark Mode "><i class="bi bi-moon icon "></i></div>
-          </div>
+          </div> -->
           <!--mini shoping cart-->
         </div>
       </nav>
