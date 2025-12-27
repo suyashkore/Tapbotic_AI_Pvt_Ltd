@@ -37,7 +37,7 @@
   <!-- main-LTR -->
   <link rel="stylesheet" href="css/main-LTR.css">
   <title>Tapbotic AI | Services</title>
-  <style>
+  <!-- <style>
     .mouse-bubble {
       position: absolute;
       border-radius: 50%;
@@ -56,7 +56,7 @@
         transform: translate(-50%, -60px) scale(1.2);
       }
     }
-  </style>
+  </style> -->
 </head>
 
 <body class="dark-theme">
@@ -110,15 +110,15 @@
 
   <!-- Start inner Page hero-->
   <section class="d-flex align-items-center page-hero inner-page-hero" id="page-hero">
-    <div class="overlay-photo-image-bg parallax" data-bg-img="assets/images/hero/inner-page-hero.jpg"
-      data-bg-opacity="1"></div>
+    <div class="overlay-photo-image-bg parallax"
+      data-bg-img="assets/images/sections-bg-images/12.jpg" data-bg-opacity="1"></div>
     <div class="overlay-color" data-bg-opacity=".75"></div>
     <div class="container">
       <div class="hero-text-area centerd">
         <h1 class="hero-title wow fadeInUp" data-wow-delay=".2s">Services</h1>
         <nav aria-label="breadcrumb">
           <ul class="breadcrumb wow fadeInUp" data-wow-delay=".6s">
-            <li class="breadcrumb-item"><a class="breadcrumb-link" href="#0"><i class="bi bi-house icon"></i>home</a></li>
+            <li class="breadcrumb-item"><a class="breadcrumb-link" href="index.php"><i class="bi bi-house icon"></i>home</a></li>
             <li class="breadcrumb-item active">services</li>
           </ul>
         </nav>
@@ -130,50 +130,63 @@
   <!-- Start services Section-->
   <section class="services services-boxed mega-section" id="services">
     <div class="container">
-      <div class="sec-heading">
-        <div class="content-area"><span class="pre-title wow fadeInUp" data-wow-delay=".2s">services</span>
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>Artificial Intelligence</span> Solutions</h2>
-          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">We build AI systems that convert data into actionable intelligence. Machine Learning & Deep Learning Models, Predictive Analytics, Natural Language Processing (NLP), Computer Vision Systems, AI Chatbots & Virtual Assistants.</p>
-        </div>
+      <div class="sec-heading centered">
         <div class="content-area">
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>Automation & Robotics</span> Software</h2>
-          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Automate repetitive and complex business processes. Robotic Process Automation (RPA), Intelligent Process Automation (IPA), Business Workflow Automation, AI-driven Automation Solutions.</p>
+          <span class="pre-title wow fadeInUp" data-wow-delay=".2s">services</span>
+          <h2 class="title wow fadeInUp" data-wow-delay=".4s">Our Core <span class='hollow-text'>Capabilities</span></h2>
+          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">We deliver end-to-end technology solutions to help enterprises scale, innovate, and lead in the digital age. Explore our core service areas.</p>
         </div>
-        <div class="cta-area wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid" href="#contact">see all services<i class="bi bi-arrow-right icon"></i></a></div>
       </div>
-
-      <div class="sec-heading">
-        <div class="content-area">
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>Software Development</span> Services</h2>
-          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Custom-built software tailored to business needs. Web Application Development, Enterprise Software Solutions, SaaS Product Development, API & System Integration.</p>
+      <div class="row g-4 mb-5">
+        <div class="col-12 col-lg-6">
+          <div class="info-panel wow fadeInUp" data-wow-delay=".2s">
+            <h4 class="location-title"><span class='hollow-text'>Artificial Intelligence</span> Solutions</h4>
+            <div class="line-on-side"></div>
+            <p class="location-address" style="text-transform: none;">We build AI systems that convert data into actionable intelligence. Machine Learning & Deep Learning Models, Predictive Analytics, Natural Language Processing (NLP), Computer Vision Systems, AI Chatbots & Virtual Assistants.</p>
+            <a class="read-more" href="service-ai.php">read more<i class="bi bi-arrow-right icon"></i></a>
+          </div>
         </div>
-        <div class="content-area">
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>Mobile App</span> Development</h2>
-          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">User-focused mobile applications for modern businesses. Android & iOS App Development, Cross-Platform Applications, AI-powered Mobile Apps, UI/UX Design & Optimization.</p>
+        <div class="col-12 col-lg-6">
+          <div class="info-panel wow fadeInUp" data-wow-delay=".3s">
+            <h4 class="location-title"><span class='hollow-text'>Automation & Robotics</span> Software</h4>
+            <div class="line-on-side"></div>
+            <p class="location-address" style="text-transform: none;">Automate repetitive and complex business processes. Robotic Process Automation (RPA), Intelligent Process Automation (IPA), Business Workflow Automation, AI-driven Automation Solutions.</p>
+            <a class="read-more" href="service-automation.php">read more<i class="bi bi-arrow-right icon"></i></a>
+          </div>
         </div>
-        <div class="cta-area wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid" href="#contact">see all services<i class="bi bi-arrow-right icon"></i></a></div>
+        <div class="col-12 col-lg-6">
+          <div class="info-panel wow fadeInUp" data-wow-delay=".4s">
+            <h4 class="location-title"><span class='hollow-text'>Software Development</span> Services</h4>
+            <div class="line-on-side"></div>
+            <p class="location-address" style="text-transform: none;">Custom-built software tailored to business needs. Web Application Development, Enterprise Software Solutions, SaaS Product Development, API & System Integration.</p>
+            <a class="read-more" href="service-software.php">read more<i class="bi bi-arrow-right icon"></i></a>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6">
+          <div class="info-panel wow fadeInUp" data-wow-delay=".5s">
+            <h4 class="location-title"><span class='hollow-text'>Cloud & DevOps</span> Services</h4>
+            <div class="line-on-side"></div>
+            <p class="location-address" style="text-transform: none;">Scalable cloud infrastructure and streamlined deployment. Cloud Migration & Management, CI/CD Pipeline Implementation, Infrastructure as Code, Containerization & Orchestration.</p>
+            <a class="read-more" href="service-cloud.php">read more<i class="bi bi-arrow-right icon"></i></a>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6">
+          <div class="info-panel wow fadeInUp" data-wow-delay=".6s">
+            <h4 class="location-title"><span class='hollow-text'>Cybersecurity &</span> Compliance</h4>
+            <div class="line-on-side"></div>
+            <p class="location-address" style="text-transform: none;">Comprehensive security for digital systems. Application & Network Security, Vulnerability Assessment & Penetration Testing, Secure Architecture Design, Compliance & Risk Management.</p>
+            <a class="read-more" href="service-cybersecurity.php">read more<i class="bi bi-arrow-right icon"></i></a>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6">
+          <div class="info-panel wow fadeInUp" data-wow-delay=".7s">
+            <h4 class="location-title"><span class='hollow-text'>Mobile App</span> Development</h4>
+            <div class="line-on-side"></div>
+            <p class="location-address" style="text-transform: none;">User-focused mobile applications for modern businesses. Android & iOS App Development, Cross-Platform Applications, AI-powered Mobile Apps, UI/UX Design & Optimization.</p>
+            <a class="read-more" href="service-mobile.php">read more<i class="bi bi-arrow-right icon"></i></a>
+          </div>
+        </div>
       </div>
-
-      <div class="sec-heading">
-        <div class="content-area">
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>Data, Analytics &</span> BI</h2>
-          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Unlock the power of your data. Big Data Processing, Business Intelligence Dashboards, Data Visualization, Advanced Analytics & Reporting.</p>
-        </div>
-        <div class="content-area">
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>Cloud & DevOps</span> Services</h2>
-          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Scalable cloud infrastructure and streamlined deployment. Cloud Migration & Management, CI/CD Pipeline Implementation, Infrastructure as Code, Containerization & Orchestration.</p>
-        </div>
-        <div class="cta-area wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid" href="#contact">see all services<i class="bi bi-arrow-right icon"></i></a></div>
-      </div>
-
-      <div class="sec-heading">
-        <div class="content-area">
-          <h2 class="title wow fadeInUp" data-wow-delay=".4s"><span class='hollow-text'>Cybersecurity &</span> Compliance</h2>
-          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">Comprehensive security for digital systems. Application & Network Security, Vulnerability Assessment & Penetration Testing, Secure Architecture Design, Compliance & Risk Management.</p>
-        </div>
-        <div class="cta-area wow fadeInUp" data-wow-delay=".8s"><a class="cta-btn btn-solid" href="#contact">see all services<i class="bi bi-arrow-right icon"></i></a></div>
-      </div>
-
       <div class="row gx-4 gy-4 services-row">
         <div class="col-12 col-md-6 col-lg-4 mx-auto">
           <div class="box service-box wow fadeInUp reveal-start" data-wow-offset="0" data-wow-delay=".1s">
@@ -181,7 +194,7 @@
             <div class="service-content">
               <h3 class="service-title">AI-Enhanced Web Apps</h3>
               <p class="service-text">Building intelligent, responsive web applications integrated with AI capabilities for superior user engagement and operational efficiency.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
+            </div><a class="read-more" href="service-web-apps.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-4 mx-auto">
@@ -190,7 +203,7 @@
             <div class="service-content">
               <h3 class="service-title">Marketing Automation</h3>
               <p class="service-text">Leveraging AI algorithms to optimize marketing campaigns, personalize customer interactions, and maximize ROI through data-driven strategies.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
+            </div><a class="read-more" href="service-marketing-automation.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-4 mx-auto">
@@ -199,7 +212,7 @@
             <div class="service-content">
               <h3 class="service-title">Enterprise SaaS Solutions</h3>
               <p class="service-text">Developing robust, scalable, and secure Software-as-a-Service platforms tailored to streamline complex business processes.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
+            </div><a class="read-more" href="service-software.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-4 mx-auto">
@@ -208,7 +221,7 @@
             <div class="service-content">
               <h3 class="service-title">Smart Mobile Solutions</h3>
               <p class="service-text">Creating next-generation mobile apps with embedded machine learning features, ensuring high performance across iOS and Android platforms.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
+            </div><a class="read-more" href="service-mobile.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-4 mx-auto">
@@ -217,7 +230,7 @@
             <div class="service-content">
               <h3 class="service-title">AI-Driven SEO</h3>
               <p class="service-text">Utilizing advanced analytics and AI tools to uncover high-value keywords, optimize content, and boost organic search rankings.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
+            </div><a class="read-more" href="service-seo.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-4 mx-auto">
@@ -226,7 +239,7 @@
             <div class="service-content">
               <h3 class="service-title">Predictive Analytics</h3>
               <p class="service-text">Transforming raw data into strategic assets using advanced statistical models and machine learning to forecast trends and drive decisions.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon"></i></a>
+            </div><a class="read-more" href="service-predictive.php">read more<i class="bi bi-arrow-right icon"></i></a>
           </div>
         </div>
       </div>
@@ -611,7 +624,7 @@
   <!-- End take-action Section-->
 
   <!-- Start page-footer Section-->
- <footer class="page-footer dark-color-footer" id="page-footer">
+  <footer class="page-footer dark-color-footer" id="page-footer">
     <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/footer-bg-1.jpg"
       data-bg-opacity=".25"></div>
     <div class="container">
@@ -631,11 +644,11 @@
           <h2 class=" footer-col-title    ">Services</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Artificial Intelligence</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Automation Solutions</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Enterprise Software</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cloud & DevOps</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cybersecurity</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-ai.php">Artificial Intelligence</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-automation.php">Automation Solutions</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-software.php">Enterprise Software</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cloud.php">Cloud & DevOps</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cybersecurity.php">Cybersecurity</a></li>
             </ul>
           </div>
         </div>
@@ -643,10 +656,10 @@
           <h2 class=" footer-col-title    ">Legal</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Privacy Policy</a>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="privacy-policy.php">Privacy Policy</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
-                  href="#0">Terms & Conditions</a>
+                  href="terms-conditions.php">Terms & Conditions</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="#0">Compliance Framework</a>
@@ -657,8 +670,8 @@
         <div class="col-12     col-lg-3 footer-col ">
           <h2 class=" footer-col-title    ">Contact</h2>
           <div class="footer-col-content-wrapper">
-            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">Bhagwati Complex, Baner, Pune, Maharashtra 411069</span></div>
-<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:tapboticai.com">tapboticai.com</a></div>
+            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India</span></div>
+<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:info@tapboticai.com">info@tapboticai.com</a></div>
           </div>
         </div>
       </div>
@@ -678,7 +691,7 @@
   <!-- End page-footer Section-->
 
   <!-- Start loading-screen Component-->
-  <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"></span></div>
+  <!-- <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"></span></div> -->
   <!-- End loading-screen Component-->
 
   <!-- Start back-to-top Button-->

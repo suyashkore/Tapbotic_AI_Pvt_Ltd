@@ -30,7 +30,7 @@
   <!-- main-LTR -->
   <link rel="stylesheet" href="css/main-LTR.css">
   <title>Contact Us | Tapbotic AI Pvt Ltd</title>
-  <style>
+  <!-- <style>
     .mouse-bubble {
       position: absolute;
       border-radius: 50%;
@@ -49,7 +49,7 @@
         transform: translate(-50%, -60px) scale(1.2);
       }
     }
-  </style>
+  </style> -->
 </head>
 
 <body class="dark-theme">
@@ -103,15 +103,15 @@
 
   <!-- Start inner Page hero-->
   <section class="d-flex align-items-center page-hero inner-page-hero" id="page-hero">
-    <div class="overlay-photo-image-bg parallax" data-bg-img="assets/images/hero/inner-page-hero.jpg"
-      data-bg-opacity="1"></div>
+    <div class="overlay-photo-image-bg parallax"
+      data-bg-img="assets/images/sections-bg-images/16.jpg" data-bg-opacity="1"></div>
     <div class="overlay-color" data-bg-opacity=".75"></div>
     <div class="container">
       <div class="hero-text-area centerd">
         <h1 class="hero-title wow fadeInUp" data-wow-delay=".2s">Contact Us</h1>
         <nav aria-label="breadcrumb">
           <ul class="breadcrumb wow fadeInUp" data-wow-delay=".6s">
-            <li class="breadcrumb-item"><a class="breadcrumb-link" href="#0"><i class="bi bi-house icon"></i>home</a>
+            <li class="breadcrumb-item"><a class="breadcrumb-link" href="index.php"><i class="bi bi-house icon"></i>home</a>
             </li>
             <li class="breadcrumb-item active">contact us</li>
           </ul>
@@ -125,13 +125,22 @@
   <section class="contact-us mega-section pb-0" id="contact-us">
     <div class="container">
       <!-- Start Introduction Section -->
-      <section class="intro-section mega-section">
-        <div class="sec-heading centered">
-          <div class="content-area">
-            <h2 class="title wow fadeInUp" data-wow-delay=".4s">Let's Transform Your Business Together</h2>
-            <p class="subtitle wow fadeInUp" data-wow-delay=".6s">
-              Connect with Tapbotic AI Pvt Ltd to discuss how our enterprise AI, automation, and software solutions can help drive your digital transformation journey.
-            </p>
+      <section class="intro-section mega-section" id="intro">
+        <div class="row align-items-center">
+          <div class="col-12 col-lg-6">
+            <div class="img-area wow fadeInUp" data-wow-delay=".2s" data-tilt>
+              <img class="img-fluid" loading="lazy" src="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Team discussing a project">
+            </div>
+          </div>
+          <div class="col-12 col-lg-6">
+            <div class="sec-heading">
+              <div class="content-area">
+                <h2 class="title wow fadeInUp" data-wow-delay=".4s">Let's Transform Your Business Together</h2>
+                <p class="subtitle wow fadeInUp" data-wow-delay=".6s">
+                  Connect with Tapbotic AI Pvt Ltd to discuss how our enterprise AI, automation, and software solutions can help drive your digital transformation journey. Our experts are ready to engage with you to understand your unique challenges and architect a solution that delivers measurable results.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -152,7 +161,7 @@
                 <div class="info-panel wow fadeInUp" data-wow-delay=".4s">
                   <h4 class="location-title">Corporate Office - Delhi</h4>
                   <div class="line-on-side"></div>
-                  <p class="location-address">Bhagwati Complex, Baner, Pune, Maharashtra 411069</p>
+                  <p class="location-address">211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India</p>
                   <div class="location-card"><i class="flaticon-email icon"></i>
                     <div class="card-content">
                       <h6 class="content-title">Email:</h6>
@@ -173,7 +182,7 @@
                 <div class="info-panel wow fadeInUp" data-wow-delay=".6s">
                   <h4 class="location-title">Pune Office</h4>
                   <div class="line-on-side"></div>
-                  <p class="location-address">Bhagwati Complex, Baner, Pune, Maharashtra 411069</p>
+                  <p class="location-address">211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India</p>
                   <div class="location-card"><i class="flaticon-email icon"></i>
                     <div class="card-content">
                       <h6 class="content-title">Email:</h6>
@@ -204,7 +213,7 @@
           <div class="mapouter">
             <div class="gmap_canvas">
        <iframe class="map-iframe" id="gmap_canvas"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.1866755524654!2d73.77775931489826!3d18.559658087417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c147b8b3a3bf%3A0x6e04007fd64a94e7!2sBaner%2C%20Pune%2C%20Maharashtra%20411045!5e0!3m2!1sen!2sin!4v1640000000000!5m2!1sen!2sin"></iframe>
+               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.922307295499!2d77.267000314892!3d28.550500082454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3e8ffffffff%3A0x93610ef8d450c4fb!2sOkhla%20Industrial%20Estate%20Phase%20III%2C%20New%20Delhi%2C%20Delhi%20110020!5e0!3m2!1sen!2sin!4v1734000000000!5m2!1sen!2sin"></iframe>
             </div>
           </div>
         </div>
@@ -295,7 +304,7 @@
   <!-- End contact-us -->
 
   <!-- Start page-footer Section-->
-<footer class="page-footer dark-color-footer" id="page-footer">
+  <footer class="page-footer dark-color-footer" id="page-footer">
     <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/footer-bg-1.jpg"
       data-bg-opacity=".25"></div>
     <div class="container">
@@ -315,11 +324,11 @@
           <h2 class=" footer-col-title    ">Services</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Artificial Intelligence</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Automation Solutions</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Enterprise Software</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cloud & DevOps</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cybersecurity</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-ai.php">Artificial Intelligence</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-automation.php">Automation Solutions</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-software.php">Enterprise Software</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cloud.php">Cloud & DevOps</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cybersecurity.php">Cybersecurity</a></li>
             </ul>
           </div>
         </div>
@@ -327,10 +336,10 @@
           <h2 class=" footer-col-title    ">Legal</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Privacy Policy</a>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="privacy-policy.php">Privacy Policy</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
-                  href="#0">Terms & Conditions</a>
+                  href="terms-conditions.php">Terms & Conditions</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="#0">Compliance Framework</a>
@@ -341,8 +350,8 @@
         <div class="col-12     col-lg-3 footer-col ">
           <h2 class=" footer-col-title    ">Contact</h2>
           <div class="footer-col-content-wrapper">
-            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">Bhagwati Complex, Baner, Pune, Maharashtra 411069</span></div>
-<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:tapboticai.com">tapboticai.com</a></div>
+            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India</span></div>
+<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:info@tapboticai.com">info@tapboticai.com</a></div>
           </div>
         </div>
       </div>
@@ -362,8 +371,8 @@
   <!-- End page-footer Section-->
 
   <!-- Start loading-screen Component-->
-  <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span>
-    <span class="progress-line"></span><span class="loading-counter"></span></div>
+  <!-- <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span>
+    <span class="progress-line"></span><span class="loading-counter"></span></div> -->
   <!-- End loading-screen Component-->
 
   <!-- Start back-to-top Button-->

@@ -187,7 +187,7 @@
     }
   </style> -->
 </head>
-  <style>
+  <!-- <style>
     .mouse-bubble {
       position: absolute;
       border-radius: 50%;
@@ -206,7 +206,7 @@
         transform: translate(-50%, -60px) scale(1.2);
       }
     }
-  </style>
+  </style> -->
 <body class=" dark-theme ">
   <!--Start Page Header-->
   <header class=" page-header   content-always-light header-basic" id="page-header">
@@ -290,7 +290,7 @@
                       <p class="slide-subtitle">Driving large-scale digital transformation through secure, compliant, and intelligent technology systems.</p>
                     </div>
                     <div class="col-12   ">
-                      <div class="cta-links-area "><a class=" btn-solid cta-link cta-link-primary" href="#0">Engage With Us</a></div>
+                      <div class="cta-links-area "><a class=" btn-solid cta-link cta-link-primary" href="contact-us.php">Engage With Us</a></div>
                     </div>
                   </div>
                 </div>
@@ -328,7 +328,7 @@
                       <p class="slide-subtitle">Partnering with enterprises to build resilient, scalable, and future-ready digital platforms.</p>
                     </div>
                     <div class="col-12   ">
-                      <div class="cta-links-area"><a class=" btn-solid cta-link cta-link-primary" href="#0">Our Capabilities</a></div>
+                      <div class="cta-links-area"><a class=" btn-solid cta-link cta-link-primary" href="services.php">Our Capabilities</a></div>
                     </div>
                   </div>
                 </div>
@@ -366,7 +366,7 @@
                       <p class="slide-subtitle ">Enterprise-grade software, AI, and cloud solutions built with security-first and compliance-driven architecture.</p>
                     </div>
                     <div class="col-12   ">
-                      <div class="cta-links-area"><a class=" btn-solid cta-link cta-link-primary " href="#0">Speak to an Expert</a></div>
+                      <div class="cta-links-area"><a class=" btn-solid cta-link cta-link-primary " href="contact-us.php">Speak to an Expert</a></div>
                     </div>
                   </div>
                 </div>
@@ -416,7 +416,7 @@
             <div class="service-content">
               <h3 class="service-title">Enterprise Artificial Intelligence Platforms</h3>
               <p class="service-text">Machine Learning & Deep Learning Models, Predictive Analytics, NLP, Computer Vision Systems, AI Chatbots & Virtual Assistants.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon "></i></a>
+            </div><a class="read-more" href="service-ai.php">read more<i class="bi bi-arrow-right icon "></i></a>
           </div>
           <!-- End First service box   -->
         </div>
@@ -428,7 +428,7 @@
             <div class="service-content">
               <h3 class="service-title">Intelligent Automation & Robotics Software</h3>
               <p class="service-text">Robotic Process Automation (RPA), Intelligent Process Automation (IPA), Business Workflow Automation.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon "></i></a>
+            </div><a class="read-more" href="service-automation.php">read more<i class="bi bi-arrow-right icon "></i></a>
           </div>
           <!-- End Second service box-->
         </div>
@@ -440,7 +440,7 @@
             <div class="service-content">
               <h3 class="service-title">Large-Scale Software Engineering</h3>
               <p class="service-text">Web Application Development, Enterprise Software Solutions, SaaS Product Development, API & System Integration.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon "></i></a>
+            </div><a class="read-more" href="service-software.php">read more<i class="bi bi-arrow-right icon "></i></a>
           </div>
           <!-- End Third service box-->
         </div>
@@ -452,7 +452,7 @@
             <div class="service-content">
               <h3 class="service-title">Secure Digital & Mobile Platforms</h3>
               <p class="service-text">Android & iOS App Development, Cross-Platform Applications, AI-powered Mobile Apps, UI/UX Design & Optimization.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon "></i></a>
+            </div><a class="read-more" href="service-mobile.php">read more<i class="bi bi-arrow-right icon "></i></a>
           </div>
           <!-- End fourth service box   -->
         </div>
@@ -464,7 +464,7 @@
             <div class="service-content">
               <h3 class="service-title">Cloud Architecture & DevOps Governance</h3>
               <p class="service-text">Cloud Migration (AWS, Azure, GCP), DevOps & CI/CD Automation, Infrastructure as Code, Cloud Cost Optimization.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon "></i></a>
+            </div><a class="read-more" href="service-cloud.php">read more<i class="bi bi-arrow-right icon "></i></a>
           </div>
           <!-- End 5th service box-->
         </div>
@@ -476,7 +476,7 @@
             <div class="service-content">
               <h3 class="service-title">Cybersecurity, Risk Management & Compliance</h3>
               <p class="service-text">Application & Network Security, Vulnerability Assessment & Penetration Testing, Secure Architecture Design.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon "></i></a>
+            </div><a class="read-more" href="service-cybersecurity.php">read more<i class="bi bi-arrow-right icon "></i></a>
           </div>
           <!-- End 6th service box-->
         </div>
@@ -487,7 +487,7 @@
             <div class="service-content">
               <h3 class="service-title">Data, Analytics & BI</h3>
               <p class="service-text">Big Data Processing, Business Intelligence Dashboards, Data Visualization, Advanced Analytics & Reporting.</p>
-            </div><a class="read-more" href="service-single.php">read more<i class="bi bi-arrow-right icon "></i></a>
+            </div><a class="read-more" href="service-ai.php">read more<i class="bi bi-arrow-right icon "></i></a>
           </div>
           <!-- End 6th service box-->
         </div>
@@ -554,8 +554,8 @@
               </div>
               <div class="cta-area"><a class=" btn-solid reveal-start" href="contact-us.php">Engage With Us</a>
                 <div class="signature ">
-                  <div class="signature-img"></div>
-                  <div class="signature-name"></div>
+                  <!-- <div class="signature-img"></div>
+                  <div class="signature-name"></div> -->
                 </div>
               </div>
             </div>
@@ -1103,11 +1103,11 @@
           <h2 class=" footer-col-title    ">Services</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Artificial Intelligence</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Automation Solutions</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Enterprise Software</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cloud & DevOps</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cybersecurity</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-ai.php">Artificial Intelligence</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-automation.php">Automation Solutions</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-software.php">Enterprise Software</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cloud.php">Cloud & DevOps</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cybersecurity.php">Cybersecurity</a></li>
             </ul>
           </div>
         </div>
@@ -1115,10 +1115,10 @@
           <h2 class=" footer-col-title    ">Legal</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Privacy Policy</a>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="privacy-policy.php">Privacy Policy</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
-                  href="#0">Terms & Conditions</a>
+                  href="terms-conditions.php">Terms & Conditions</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="#0">Compliance Framework</a>
@@ -1129,8 +1129,8 @@
         <div class="col-12     col-lg-3 footer-col ">
           <h2 class=" footer-col-title    ">Contact</h2>
           <div class="footer-col-content-wrapper">
-            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">Bhagwati Complex, Baner, Pune, Maharashtra 411069</span></div>
-<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:tapboticai.com">tapboticai.com</a></div>
+            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India</span></div>
+<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:info@tapboticai.com">info@tapboticai.com</a></div>
           </div>
         </div>
       </div>
@@ -1149,8 +1149,8 @@
   </footer>
   <!-- End  page-footer Section-->
   <!-- Start loading-screen Component-->
-  <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span
-      class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"> </span></div>
+  <!-- <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span
+      class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"> </span></div> -->
   <!-- End loading-screen Component-->
   <!-- Start back-to-top Button-->
   <div class="back-to-top" id="back-to-top"><i class="bi bi-arrow-up icon "></i>

@@ -36,7 +36,7 @@
         <!-- main-LTR -->
         <link rel="stylesheet" href="css/main-LTR.css">
         <title>  Tapbotic AI Pvt Ltd   |   Our Team</title>
-  <style>
+  <!-- <style>
     .mouse-bubble {
       position: absolute;
       border-radius: 50%;
@@ -55,7 +55,7 @@
         transform: translate(-50%, -60px) scale(1.2);
       }
     }
-  </style>
+  </style> -->
   </head>
   <body class=" dark-theme ">
     <!--Start Page Header-->
@@ -107,7 +107,7 @@
     <!--End Page Header-->
     <!-- Start inner Page hero-->
     <section class="d-flex align-items-center page-hero  inner-page-hero " id="page-hero">
-      <div class="overlay-photo-image-bg parallax" data-bg-img="assets/images/hero/inner-page-hero.jpg" data-bg-opacity="1"></div>
+      <div class="overlay-photo-image-bg parallax" data-bg-img="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-bg-opacity="1"></div>
       <div class="overlay-color" data-bg-opacity=".75"></div>
       <div class="container">
         <div class="hero-text-area centerd">
@@ -446,7 +446,7 @@
       </section>
     <!-- End  take-action Section-->
     <!-- Start  page-footer Section-->
-<footer class="page-footer dark-color-footer" id="page-footer">
+  <footer class="page-footer dark-color-footer" id="page-footer">
     <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/footer-bg-1.jpg"
       data-bg-opacity=".25"></div>
     <div class="container">
@@ -466,11 +466,11 @@
           <h2 class=" footer-col-title    ">Services</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Artificial Intelligence</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Automation Solutions</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Enterprise Software</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cloud & DevOps</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cybersecurity</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-ai.php">Artificial Intelligence</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-automation.php">Automation Solutions</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-software.php">Enterprise Software</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cloud.php">Cloud & DevOps</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cybersecurity.php">Cybersecurity</a></li>
             </ul>
           </div>
         </div>
@@ -478,10 +478,10 @@
           <h2 class=" footer-col-title    ">Legal</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Privacy Policy</a>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="privacy-policy.php">Privacy Policy</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
-                  href="#0">Terms & Conditions</a>
+                  href="terms-conditions.php">Terms & Conditions</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="#0">Compliance Framework</a>
@@ -492,8 +492,8 @@
         <div class="col-12     col-lg-3 footer-col ">
           <h2 class=" footer-col-title    ">Contact</h2>
           <div class="footer-col-content-wrapper">
-            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">Bhagwati Complex, Baner, Pune, Maharashtra 411069</span></div>
-<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:tapboticai.com">tapboticai.com</a></div>
+            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India</span></div>
+<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:info@tapboticai.com">info@tapboticai.com</a></div>
           </div>
         </div>
       </div>
@@ -512,7 +512,7 @@
   </footer>
     <!-- End  page-footer Section-->
     <!-- Start loading-screen Component-->
-    <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"> </span></div>
+    <!-- <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"> </span></div> -->
     <!-- End loading-screen Component-->
     <!-- Start back-to-top Button-->
     <div class="back-to-top" id="back-to-top"><i class="bi bi-arrow-up icon "></i>

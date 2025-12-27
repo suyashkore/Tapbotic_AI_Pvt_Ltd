@@ -45,7 +45,7 @@
               transform: scale(1.05);
             }
           </style>
-    <style>
+    <!-- <style>
     .mouse-bubble {
       position: absolute;
       border-radius: 50%;
@@ -64,7 +64,7 @@
         transform: translate(-50%, -60px) scale(1.2);
       }
     }
-  </style>
+  </style> -->
     </head>
     <body class=" dark-theme ">
       <!--Start Page Header-->
@@ -116,7 +116,7 @@
       <!--End Page Header-->
       <!-- Start inner Page hero-->
       <section class="d-flex align-items-center page-hero  inner-page-hero " id="page-hero">
-        <div class="overlay-photo-image-bg parallax" data-bg-img="assets/images/hero/inner-page-hero.jpg" data-bg-opacity="1"></div>
+        <div class="overlay-photo-image-bg parallax" data-bg-img="assets/images/sections-bg-images/11.jpg" data-bg-opacity="1"></div>
         <div class="overlay-color" data-bg-opacity=".75"></div>
         <div class="container">
           <div class="hero-text-area centerd">
@@ -148,8 +148,8 @@
                   <p class=" about-text">Our team consists of experienced engineers, AI specialists, and technology consultants who work closely with clients to understand their business goals and deliver measurable results.</p>
                   <div class="cta-area"><a class=" btn-solid reveal-start" href="contact-us.php">Contact Us</a>
                     <div class="signature ">
-                      <div class="signature-img"></div>
-                      <div class="signature-name">CEO &amp; Founder </div>
+                      <!-- <div class="signature-img"></div>
+                      <div class="signature-name">CEO &amp; Founder </div> -->
                     </div>
                   </div>
                 </div>
@@ -171,17 +171,17 @@
           <div class="row">
             <div class="col-12 col-lg-6">
               <div class="purpose-card wow fadeInUp" data-wow-delay=".2s">
-                <div class="purpose-img"><img class="img-fluid" src="assets/images/our-purpose/vision.png" alt="vision"></div>
+                <div class="purpose-img"><img class="img-fluid" src="assets/images/our-purpose/vision_new.png" alt="vision"></div>
                 <div class="purpose-content">
                   <h3 class="purpose-title">Our Vision</h3>
                   <p class="purpose-text">To become a globally recognized leader in Artificial Intelligence and Automation, driving innovation and sustainable growth for businesses worldwide.</p>
-                  <div class="cta-area"><a class="read-more" href="#0">Read More <i class="bi bi-arrow-right icon"></i></a></div>
+                  <div class="cta-area"><a class="read-more" href="our-vision.php">Read More <i class="bi bi-arrow-right icon"></i></a></div>
                 </div>
               </div>
             </div>
             <div class="col-12 col-lg-6">
               <div class="purpose-card wow fadeInUp" data-wow-delay=".4s">
-                <div class="purpose-img"><img class="img-fluid" src="assets/images/our-purpose/mission.png" alt="mission"></div>
+                <div class="purpose-img"><img class="img-fluid" src="assets/images/our-purpose/mission_new.png" alt="mission"></div>
                 <div class="purpose-content">
                   <h3 class="purpose-title">Our Mission</h3>
                   <ul class="list-unstyled">
@@ -190,7 +190,7 @@
                     <li> <i class="bi bi-check2-circle icon"></i>Maintain the highest standards of quality and security</li>
                     <li> <i class="bi bi-check2-circle icon"></i>Build long-term, trust-based client relationships</li>
                   </ul>
-                  <div class="cta-area"><a class="read-more" href="#0">Read More <i class="bi bi-arrow-right icon"></i></a></div>
+                  <div class="cta-area"><a class="read-more" href="our-mission.php">Read More <i class="bi bi-arrow-right icon"></i></a></div>
                 </div>
               </div>
             </div>
@@ -252,7 +252,7 @@
       </section>
       <!-- Start  our-team Section-->
       <section class="our-team mega-section " id="our-team">
-        <div class="container">
+        <div class="container"> 
           <div class="sec-heading  ">
             <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Team</span>
               <h2 class=" title    wow fadeInUp" data-wow-delay=".4s"> our <span class='hollow-text'>Experts</span> team members</h2>
@@ -328,7 +328,7 @@
       <!-- End  our-team Section-->
       <!-- Start  testimonials-->
       <section class="testimonials testimonials-1-col   has-dark-bg  mega-section " id="testimonials-img-bg">
-        <div class="overlay-photo-image-bg parallax " data-bg-img="assets/images/sections-bg-images/1.jpg" data-bg-opacity=".25"> </div>
+        <div class="overlay-photo-image-bg parallax " data-bg-img="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-bg-opacity=".25"> </div>
         <div class="container">
           <div class="sec-heading  centered ">
          <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">Leadership</span>
@@ -552,7 +552,7 @@
       <!-- End  blog Section-->
       <!-- Start  take-action Section-->
       <section class="take-action elf-section has-dark-bg" id="take-action">
-        <div class="overlay-photo-image-bg  " data-bg-img="assets/images/sections-bg-images/2.jpg" data-bg-opacity=".25"> </div>
+        <div class="overlay-photo-image-bg  " data-bg-img="https://images.pexels.com/photos/5926382/pexels-photo-5926382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" data-bg-opacity=".25"> </div>
         <div class="cta-wrapper">
           <div class="container">
             <div class="sec-heading  centered mb-0 ">
@@ -569,7 +569,7 @@
       </section>
       <!-- End  take-action Section-->
       <!-- Start  page-footer Section-->
-   <footer class="page-footer dark-color-footer" id="page-footer">
+     <footer class="page-footer dark-color-footer" id="page-footer">
     <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/footer-bg-1.jpg"
       data-bg-opacity=".25"></div>
     <div class="container">
@@ -589,11 +589,11 @@
           <h2 class=" footer-col-title    ">Services</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Artificial Intelligence</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Automation Solutions</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Enterprise Software</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cloud & DevOps</a></li>
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Cybersecurity</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-ai.php">Artificial Intelligence</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-automation.php">Automation Solutions</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-software.php">Enterprise Software</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cloud.php">Cloud & DevOps</a></li>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="service-cybersecurity.php">Cybersecurity</a></li>
             </ul>
           </div>
         </div>
@@ -601,10 +601,10 @@
           <h2 class=" footer-col-title    ">Legal</h2>
           <div class="footer-col-content-wrapper">
             <ul class="footer-menu">
-              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="#0">Privacy Policy</a>
+              <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link" href="privacy-policy.php">Privacy Policy</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
-                  href="#0">Terms & Conditions</a>
+                  href="terms-conditions.php">Terms & Conditions</a>
               </li>
               <li class="footer-menu-item"><i class="bi bi-arrow-right icon "></i><a class="footer-menu-link"
                   href="#0">Compliance Framework</a>
@@ -615,8 +615,8 @@
         <div class="col-12     col-lg-3 footer-col ">
           <h2 class=" footer-col-title    ">Contact</h2>
           <div class="footer-col-content-wrapper">
-            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">Bhagwati Complex, Baner, Pune, Maharashtra 411069</span></div>
-<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:tapboticai.com">tapboticai.com</a></div>
+            <div class="contact-info-card"><i class="bi bi-geo-alt icon"></i><span class="text-lowercase  info">211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India</span></div>
+<div class="contact-info-card"><i class="bi bi-phone icon"></i><a class="info" href="tel:+91 7066067737">+91 7066067737</a></div>            <div class="contact-info-card"><i class="bi bi-envelope icon"></i><a class="text-lowercase  info" href="mailto:info@tapboticai.com">info@tapboticai.com</a></div>
           </div>
         </div>
       </div>
@@ -626,7 +626,7 @@
         <div class="row">
           <div class="col-12 col-md-12 d-flex justify-content-center">
             <p class="creadits">
-              © 2017 - Present | Tapbotic AI Pvt Ltd. All Rights Reserved.
+              © 2017 – Present | Tapbotic AI Pvt Ltd. All Rights Reserved.
             </p>
           </div>
         </div>
@@ -635,7 +635,7 @@
   </footer>
       <!-- End  page-footer Section-->
       <!-- Start loading-screen Component-->
-      <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"> </span></div>
+      <!-- <div class="loading-screen" id="loading-screen"><span class="bar top-bar"></span><span class="bar down-bar"></span><span class="progress-line"></span><span class="loading-counter"> </span></div> -->
       <!-- End loading-screen Component-->
       <!-- Start back-to-top Button-->
       <div class="back-to-top" id="back-to-top"><i class="bi bi-arrow-up icon "></i>
