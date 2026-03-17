@@ -73,7 +73,5 @@ To run this website on your local machine, follow the steps below:
 
 ## Contact 
 
-**Tapbotic AI Pvt Ltd**
-- **Add:** 211, 3rd Floor Okhla Indl Estate Phase-3, Okhla Industrial Estate, South Delhi, New Delhi, Delhi 110020, India
-- **Phone:** +91 7066067737
-- **email:** info@tapboticai.com
+- **Phone:** +91 7218846352
+
